@@ -1,0 +1,3124 @@
+[
+  {
+    "name": "Biển P.101",
+    "description": "Đường cấm",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Vietnam_road_sign_P101.svg/250px-Vietnam_road_sign_P101.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Vietnam_road_sign_P101.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.101.svg"
+  },
+  {
+    "name": "Biển P.102",
+    "description": "Cấm đi ngược chiều",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Vietnam_road_sign_P102.svg/250px-Vietnam_road_sign_P102.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Vietnam_road_sign_P102.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.102.svg"
+  },
+  {
+    "name": "Biển P.103a",
+    "description": "Cấm xe ô tô",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Vietnam_road_sign_P103a.svg/250px-Vietnam_road_sign_P103a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Vietnam_road_sign_P103a.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.103a.svg"
+  },
+  {
+    "name": "Biển P.103b",
+    "description": "Cấm xe ô tô rẽ phải",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Vietnam_road_sign_P103b.svg/250px-Vietnam_road_sign_P103b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Vietnam_road_sign_P103b.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.103b.svg"
+  },
+  {
+    "name": "Biển P.103c",
+    "description": "Cấm xe ô tô rẽ trái",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Vietnam_road_sign_P103c.svg/250px-Vietnam_road_sign_P103c.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Vietnam_road_sign_P103c.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.103c.svg"
+  },
+  {
+    "name": "Biển P.104",
+    "description": "Cấm xe máy",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Vietnam_road_sign_P104.svg/250px-Vietnam_road_sign_P104.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Vietnam_road_sign_P104.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.104.svg"
+  },
+  {
+    "name": "Biển P.105",
+    "description": "Cấm xe ô tô và xe máy",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Vietnam_road_sign_P105.svg/250px-Vietnam_road_sign_P105.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Vietnam_road_sign_P105.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.105.svg"
+  },
+  {
+    "name": "Biển P.106a",
+    "description": "Cấm xe ô tô tải",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Vietnam_road_sign_P106a.svg/250px-Vietnam_road_sign_P106a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Vietnam_road_sign_P106a.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.106a.svg"
+  },
+  {
+    "name": "Biển P.106b",
+    "description": "Cấm ô tô tải có khối lượng chuyên chở lớn hơn giới hạn",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Vietnam_road_sign_P106b.svg/250px-Vietnam_road_sign_P106b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Vietnam_road_sign_P106b.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.106b.svg"
+  },
+  {
+    "name": "Biển P.106c",
+    "description": "Cấm các xe chở hàng nguy hiểm",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Vietnam_road_sign_P106c.svg/250px-Vietnam_road_sign_P106c.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Vietnam_road_sign_P106c.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.106c.svg"
+  },
+  {
+    "name": "Biển P.107",
+    "description": "Cấm xe ô tô khách và xe ô tô tải (cấm luôn cả máy kéo và xe máy chuyên dùng)",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Vietnam_road_sign_P107.svg/250px-Vietnam_road_sign_P107.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Vietnam_road_sign_P107.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.107.svg"
+  },
+  {
+    "name": "Biển P.107a",
+    "description": "Cấm xe ô tô khách",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Vietnam_road_sign_P107a.svg/250px-Vietnam_road_sign_P107a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Vietnam_road_sign_P107a.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.107a.svg"
+  },
+  {
+    "name": "Biển P.107b",
+    "description": "Cấm xe ô tô taxi",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Vietnam_road_sign_P107b.svg/250px-Vietnam_road_sign_P107b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Vietnam_road_sign_P107b.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.107b.svg"
+  },
+  {
+    "name": "Biển P.108",
+    "description": "Cấm xe kéo rơ-moóc",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Vietnam_road_sign_P108.svg/250px-Vietnam_road_sign_P108.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Vietnam_road_sign_P108.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.108.svg"
+  },
+  {
+    "name": "Biển P.108a",
+    "description": "Cấm xe sơ-mi rơ-moóc",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Vietnam_road_sign_P108a.svg/250px-Vietnam_road_sign_P108a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Vietnam_road_sign_P108a.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.108a.svg"
+  },
+  {
+    "name": "Biển P.109",
+    "description": "Cấm máy kéo",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Vietnam_road_sign_P109.svg/250px-Vietnam_road_sign_P109.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Vietnam_road_sign_P109.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.109.svg"
+  },
+  {
+    "name": "Biển P.110a",
+    "description": "Cấm xe đạp",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Vietnam_road_sign_P110a.svg/250px-Vietnam_road_sign_P110a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Vietnam_road_sign_P110a.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.110a.svg"
+  },
+  {
+    "name": "Biển P.110b",
+    "description": "Cấm xe đạp thồ",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Vietnam_road_sign_P110b.svg/250px-Vietnam_road_sign_P110b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Vietnam_road_sign_P110b.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.110b.svg"
+  },
+  {
+    "name": "Biển P.111a",
+    "description": "Cấm xe gắn máy",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Vietnam_road_sign_P111a.svg/250px-Vietnam_road_sign_P111a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Vietnam_road_sign_P111a.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.111a.svg"
+  },
+  {
+    "name": "Biển P.111b",
+    "description": "Cấm ba bánh loại có động cơ (hình xe lam)",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Vietnam_road_sign_P111b.svg/250px-Vietnam_road_sign_P111b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Vietnam_road_sign_P111b.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.111b.svg"
+  },
+  {
+    "name": "Biển P.111c",
+    "description": "Cấm xe ba bánh loại có động cơ (hình xe xích lô máy)",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Vietnam_road_sign_P111c.svg/250px-Vietnam_road_sign_P111c.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Vietnam_road_sign_P111c.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.111c.svg"
+  },
+  {
+    "name": "Biển P.111d",
+    "description": "Cấm xe ba bánh loai không có động cơ",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Vietnam_road_sign_P111d.svg/250px-Vietnam_road_sign_P111d.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Vietnam_road_sign_P111d.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.111d.svg"
+  },
+  {
+    "name": "Biển P.112",
+    "description": "Cấm người đi bộ",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Vietnam_road_sign_P112.svg/250px-Vietnam_road_sign_P112.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Vietnam_road_sign_P112.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.112.svg"
+  },
+  {
+    "name": "Biển P.113",
+    "description": "Cấm xe người kéo, đẩy",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Vietnam_road_sign_P113.svg/250px-Vietnam_road_sign_P113.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Vietnam_road_sign_P113.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.113.svg"
+  },
+  {
+    "name": "Biển P.114",
+    "description": "Cấm xe vật nuôi kéo",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Vietnam_road_sign_P114.svg/250px-Vietnam_road_sign_P114.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Vietnam_road_sign_P114.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.114.svg"
+  },
+  {
+    "name": "Biển P.115",
+    "description": "Hạn chế trọng tải toàn bộ xe",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Vietnam_road_sign_P115.svg/250px-Vietnam_road_sign_P115.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Vietnam_road_sign_P115.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.115.svg"
+  },
+  {
+    "name": "Biển P.116",
+    "description": "Hạn chế tải trọng trên trục xe",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Vietnam_road_sign_P116.svg/250px-Vietnam_road_sign_P116.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Vietnam_road_sign_P116.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.116.svg"
+  },
+  {
+    "name": "Biển P.117",
+    "description": "Hạn chế chiều cao",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Vietnam_road_sign_P117.svg/250px-Vietnam_road_sign_P117.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Vietnam_road_sign_P117.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.117.svg"
+  },
+  {
+    "name": "Biển P.118",
+    "description": "Hạn chế chiều ngang",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Vietnam_road_sign_P118.svg/250px-Vietnam_road_sign_P118.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Vietnam_road_sign_P118.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.118.svg"
+  },
+  {
+    "name": "Biển P.119",
+    "description": "Hạn chế chiều dài xe",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Vietnam_road_sign_P119.svg/250px-Vietnam_road_sign_P119.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Vietnam_road_sign_P119.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.119.svg"
+  },
+  {
+    "name": "Biển P.120",
+    "description": "Hạn chế chiều dài xe cơ giới kéo theo rơ-moóc hoặc sơ-mi rơ-moóc",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Vietnam_road_sign_P120.svg/250px-Vietnam_road_sign_P120.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Vietnam_road_sign_P120.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.120.svg"
+  },
+  {
+    "name": "Biển P.121",
+    "description": "Cự ly tối thiểu giữa hai xe  (Lưu ý: Có thể kèm theo biển S.501)",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Vietnam_road_sign_P121.svg/250px-Vietnam_road_sign_P121.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Vietnam_road_sign_P121.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.121.svg"
+  },
+  {
+    "name": "Biển P.123a",
+    "description": "Cấm rẽ trái (không cấm quay đầu xe)",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Vietnam_road_sign_P123a.svg/250px-Vietnam_road_sign_P123a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Vietnam_road_sign_P123a.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.123a.svg"
+  },
+  {
+    "name": "Biển P.123b",
+    "description": "Cấm rẽ phải",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Vietnam_road_sign_P123b.svg/250px-Vietnam_road_sign_P123b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Vietnam_road_sign_P123b.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.123b.svg"
+  },
+  {
+    "name": "Biển P.124a1",
+    "description": "Cấm quay đầu xe (được rẽ trái)",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Vietnam_road_sign_P124a1.svg/250px-Vietnam_road_sign_P124a1.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Vietnam_road_sign_P124a1.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.124a1.svg"
+  },
+  {
+    "name": "Biển P.124a2",
+    "description": "Cấm quay đầu xe (được rẽ phải)",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Vietnam_road_sign_P124a2.svg/250px-Vietnam_road_sign_P124a2.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Vietnam_road_sign_P124a2.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.124a2.svg"
+  },
+  {
+    "name": "Biển P.124b1",
+    "description": "Cấm ô tô quay đầu xe (được rẽ trái)",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Vietnam_road_sign_P124b1.svg/250px-Vietnam_road_sign_P124b1.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Vietnam_road_sign_P124b1.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.124b1.svg"
+  },
+  {
+    "name": "Biển P.124b2",
+    "description": "Cấm ô tô quay đầu xe (được rẽ phải)",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Vietnam_road_sign_P124b2.svg/250px-Vietnam_road_sign_P124b2.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Vietnam_road_sign_P124b2.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.124b2.svg"
+  },
+  {
+    "name": "Biển P.124c",
+    "description": "Cấm rẽ trái và quay đầu xe",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Vietnam_road_sign_P124c.svg/250px-Vietnam_road_sign_P124c.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Vietnam_road_sign_P124c.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.124c.svg"
+  },
+  {
+    "name": "Biển P.124d",
+    "description": "Cấm rẽ phải và quay đầu xe",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Vietnam_road_sign_P124d.svg/250px-Vietnam_road_sign_P124d.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Vietnam_road_sign_P124d.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.124d.svg"
+  },
+  {
+    "name": "Biển P.124e",
+    "description": "Cấm ô tô rẽ trái và quay đầu xe",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Vietnam_road_sign_P124e.svg/250px-Vietnam_road_sign_P124e.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Vietnam_road_sign_P124e.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.124e.svg"
+  },
+  {
+    "name": "Biển P.124f",
+    "description": "Cấm ô tô rẽ phải và quay đầu xe",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Vietnam_road_sign_P124f.svg/250px-Vietnam_road_sign_P124f.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Vietnam_road_sign_P124f.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.124f.svg"
+  },
+  {
+    "name": "Biển P.125",
+    "description": "Cấm vượt",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Vietnam_road_sign_P.125_%28QCVN_41-2019-BGTVT%29.svg/250px-Vietnam_road_sign_P.125_%28QCVN_41-2019-BGTVT%29.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Vietnam_road_sign_P.125_%28QCVN_41-2019-BGTVT%29.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.125.svg"
+  },
+  {
+    "name": "Biển P.126",
+    "description": "Cấm xe ô tô tải vượt",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Vietnam_road_sign_P.126_%28QCVN_41-2019-BGTVT%29.svg/250px-Vietnam_road_sign_P.126_%28QCVN_41-2019-BGTVT%29.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Vietnam_road_sign_P.126_%28QCVN_41-2019-BGTVT%29.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.126.svg"
+  },
+  {
+    "name": "Biển P.127",
+    "description": "Tốc độ tối đa cho phép",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Vietnam_road_sign_P127-50.svg/250px-Vietnam_road_sign_P127-50.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Vietnam_road_sign_P127-50.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.127.svg"
+  },
+  {
+    "name": "Biển P.127a",
+    "description": "Tốc độ tối đa cho phép về ban đêm (hiệu lực được tính từ nơi đặt biển sau khi đặt biển R.420:",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Vietnam_road_sign_P127a.svg/250px-Vietnam_road_sign_P127a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Vietnam_road_sign_P127a.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.127a.svg"
+  },
+  {
+    "name": "Biển P.127b",
+    "description": "Giới hạn tốc độ theo làn đường",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Vietnam_road_sign_P127b-2.svg/250px-Vietnam_road_sign_P127b-2.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Vietnam_road_sign_P127b-2.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.127b.svg"
+  },
+  {
+    "name": "Biển P.127c",
+    "description": "Giới hạn tốc độ theo phương tiện trên từng làn đường",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Vietnam_road_sign_P127c.svg/250px-Vietnam_road_sign_P127c.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Vietnam_road_sign_P127c.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.127c.svg"
+  },
+  {
+    "name": "Biển DP.127a",
+    "description": "Hết hạn chế tốc độ tối đa cho phép theo phương tiện trên từng làn đường",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Vietnam_road_sign_DP127a.svg/250px-Vietnam_road_sign_DP127a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Vietnam_road_sign_DP127a.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển DP.127a.svg"
+  },
+  {
+    "name": "Biển DP.127b",
+    "description": "Hết hạn chế tốc độ tối đa cho phép theo làn đường",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Vietnam_road_sign_DP127b.svg/250px-Vietnam_road_sign_DP127b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Vietnam_road_sign_DP127b.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển DP.127b.svg"
+  },
+  {
+    "name": "Biển DP.127c",
+    "description": "Hết hạn chế tốc độ tối đa cho phép theo phương tiện trên từng làn đường",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Vietnam_road_sign_DP127c.svg/250px-Vietnam_road_sign_DP127c.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Vietnam_road_sign_DP127c.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển DP.127c.svg"
+  },
+  {
+    "name": "Biển P.128",
+    "description": "Cấm sử dụng còi  (Lưu ý: Có thể kèm theo biển S.501)",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Vietnam_road_sign_P128.svg/250px-Vietnam_road_sign_P128.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Vietnam_road_sign_P128.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.128.svg"
+  },
+  {
+    "name": "Biển P.129",
+    "description": "Kiểm tra",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Vietnam_road_sign_P129.svg/250px-Vietnam_road_sign_P129.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Vietnam_road_sign_P129.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.129.svg"
+  },
+  {
+    "name": "Biển P.130",
+    "description": "Cấm dừng xe và đỗ xe  (Lưu ý: Có thể kèm theo biển S.501)",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Vietnam_road_sign_P130.svg/250px-Vietnam_road_sign_P130.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Vietnam_road_sign_P130.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.130.svg"
+  },
+  {
+    "name": "Biển P.131a",
+    "description": "Cấm đỗ xe  (Lưu ý: Có thể kèm theo biển S.501)",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Vietnam_road_sign_P131a.svg/250px-Vietnam_road_sign_P131a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Vietnam_road_sign_P131a.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.131a.svg"
+  },
+  {
+    "name": "Biển P.131b",
+    "description": "Cấm đỗ xe ngày lẻ",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Vietnam_road_sign_P131b-2.svg/250px-Vietnam_road_sign_P131b-2.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Vietnam_road_sign_P131b-2.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.131b.svg"
+  },
+  {
+    "name": "Biển P.131c",
+    "description": "Cấm đỗ xe ngày chẵn",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Vietnam_road_sign_P131c.svg/250px-Vietnam_road_sign_P131c.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Vietnam_road_sign_P131c.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.131c.svg"
+  },
+  {
+    "name": "Biển P.132",
+    "description": "Nhường đường cho xe cơ giới đi ngược chiều qua đường hẹp",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Vietnam_road_sign_P132.svg/250px-Vietnam_road_sign_P132.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Vietnam_road_sign_P132.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.132.svg"
+  },
+  {
+    "name": "Biển DP.133",
+    "description": "Hết cấm vượt",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Vietnam_road_sign_P.133_%28QCVN_41-2024-BGTVT%29.svg/250px-Vietnam_road_sign_P.133_%28QCVN_41-2024-BGTVT%29.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Vietnam_road_sign_P.133_%28QCVN_41-2024-BGTVT%29.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển DP.133.svg"
+  },
+  {
+    "name": "Biển DP.134",
+    "description": "Hết hạn chế tốc độ tối đa",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Vietnam_road_sign_P.134_%28QCVN_41-2024-BGTVT%29.svg/250px-Vietnam_road_sign_P.134_%28QCVN_41-2024-BGTVT%29.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Vietnam_road_sign_P.134_%28QCVN_41-2024-BGTVT%29.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển DP.134.svg"
+  },
+  {
+    "name": "Biển DP.135",
+    "description": "Hết tất cả các lệnh cấm",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Vietnam_road_sign_P135.svg/250px-Vietnam_road_sign_P135.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Vietnam_road_sign_P135.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển DP.135.svg"
+  },
+  {
+    "name": "Biển P.136",
+    "description": "Cấm đi thẳng",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Vietnam_road_sign_P136.svg/250px-Vietnam_road_sign_P136.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Vietnam_road_sign_P136.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.136.svg"
+  },
+  {
+    "name": "Biển P.137",
+    "description": "Cấm rẽ trái và rẽ phải",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Vietnam_road_sign_P137.svg/250px-Vietnam_road_sign_P137.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Vietnam_road_sign_P137.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.137.svg"
+  },
+  {
+    "name": "Biển P.138",
+    "description": "Cấm đi thẳng và rẽ trái",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Vietnam_road_sign_P138.svg/250px-Vietnam_road_sign_P138.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Vietnam_road_sign_P138.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.138.svg"
+  },
+  {
+    "name": "Biển P.139",
+    "description": "Cấm đi thẳng và rẽ phải",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Vietnam_road_sign_P139.svg/250px-Vietnam_road_sign_P139.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Vietnam_road_sign_P139.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.139.svg"
+  },
+  {
+    "name": "Biển P.140",
+    "description": "Cấm xe công nông và các loại xe tương tự",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Vietnam_road_sign_P140.svg/250px-Vietnam_road_sign_P140.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Vietnam_road_sign_P140.svg",
+    "gallery_index": 0,
+    "local_path": "traffic_signs_images\\Biển P.140.svg"
+  },
+  {
+    "name": "Biển W.201a",
+    "description": "Chỗ ngoặt nguy hiểm vòng bên trái",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Vietnam_road_sign_W201a.svg/250px-Vietnam_road_sign_W201a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Vietnam_road_sign_W201a.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.201a.svg"
+  },
+  {
+    "name": "Biển W.201b",
+    "description": "Chỗ ngoặt nguy hiểm vòng bên phải",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Vietnam_road_sign_W201b.svg/250px-Vietnam_road_sign_W201b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Vietnam_road_sign_W201b.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.201b.svg"
+  },
+  {
+    "name": "Biển W.201c",
+    "description": "Chỗ ngoặt nguy hiểm có nguy cơ lật xe bên phải (đường cong vòng sang trái)",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vietnam_road_sign_W201c.svg/250px-Vietnam_road_sign_W201c.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Vietnam_road_sign_W201c.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.201c.svg"
+  },
+  {
+    "name": "Biển W.201d",
+    "description": "Chỗ ngoặt nguy hiểm có nguy cơ lật xe bên trái (đường cong vòng sang phải)",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Vietnam_road_sign_W201d.svg/250px-Vietnam_road_sign_W201d.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Vietnam_road_sign_W201d.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.201d.svg"
+  },
+  {
+    "name": "Biển W.202a",
+    "description": "Nhiều chỗ ngoặt nguy hiểm liên tiếp, chỗ đầu tiên sang trái  (Lưu ý: Có thể kèm theo biển S.501)",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Vietnam_road_sign_W202a.svg/250px-Vietnam_road_sign_W202a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Vietnam_road_sign_W202a.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.202a.svg"
+  },
+  {
+    "name": "Biển W.202b",
+    "description": "Nhiều chỗ ngoặt nguy hiểm liên tiếp, chỗ đầu tiên sang phải  (Lưu ý: Có thể kèm theo biển S.501)",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Vietnam_road_sign_W202b.svg/250px-Vietnam_road_sign_W202b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Vietnam_road_sign_W202b.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.202b.svg"
+  },
+  {
+    "name": "Biển W.203a",
+    "description": "Đường bị thu hẹp cả hai bên",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Vietnam_road_sign_W203a.svg/250px-Vietnam_road_sign_W203a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Vietnam_road_sign_W203a.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.203a.svg"
+  },
+  {
+    "name": "Biển W.203b",
+    "description": "Đường bị thu hẹp bên trái",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Vietnam_road_sign_W203b.svg/250px-Vietnam_road_sign_W203b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Vietnam_road_sign_W203b.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.203b.svg"
+  },
+  {
+    "name": "Biển W.203c",
+    "description": "Đường bị thu hẹp bên phải",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Vietnam_road_sign_W203c.svg/250px-Vietnam_road_sign_W203c.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Vietnam_road_sign_W203c.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.203c.svg"
+  },
+  {
+    "name": "Biển W.204",
+    "description": "Đường hai chiều",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Vietnam_road_sign_W204.svg/250px-Vietnam_road_sign_W204.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Vietnam_road_sign_W204.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.204.svg"
+  },
+  {
+    "name": "Biển W.205a",
+    "description": "Đường giao nhau (ngã tư)",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Vietnam_road_sign_W205a.svg/250px-Vietnam_road_sign_W205a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Vietnam_road_sign_W205a.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.205a.svg"
+  },
+  {
+    "name": "Biển W.205b",
+    "description": "Đường giao nhau (ngã ba bên trái)",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Vietnam_road_sign_W205b.svg/250px-Vietnam_road_sign_W205b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Vietnam_road_sign_W205b.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.205b.svg"
+  },
+  {
+    "name": "Biển W.205c",
+    "description": "Đường giao nhau (ngã ba bên phải)",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Vietnam_road_sign_W205c.svg/250px-Vietnam_road_sign_W205c.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Vietnam_road_sign_W205c.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.205c.svg"
+  },
+  {
+    "name": "Biển W.205d",
+    "description": "Đường giao nhau (hình chữ T)",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Vietnam_road_sign_W205d.svg/250px-Vietnam_road_sign_W205d.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Vietnam_road_sign_W205d.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.205d.svg"
+  },
+  {
+    "name": "Biển W.205e",
+    "description": "Đường giao nhau (hình chữ Y)",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Vietnam_road_sign_W205e.svg/250px-Vietnam_road_sign_W205e.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Vietnam_road_sign_W205e.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.205e.svg"
+  },
+  {
+    "name": "Biển W.206",
+    "description": "Giao nhau chạy theo vòng xuyến",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Vietnam_road_sign_W206.svg/250px-Vietnam_road_sign_W206.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Vietnam_road_sign_W206.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.206.svg"
+  },
+  {
+    "name": "Biển W.207a",
+    "description": "Giao nhau với đường không ưu tiên",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Vietnam_road_sign_W207a.svg/250px-Vietnam_road_sign_W207a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Vietnam_road_sign_W207a.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.207a.svg"
+  },
+  {
+    "name": "Biển W.207b",
+    "description": "Giao nhau với đường không ưu tiên",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Vietnam_road_sign_W207b.svg/250px-Vietnam_road_sign_W207b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Vietnam_road_sign_W207b.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.207b.svg"
+  },
+  {
+    "name": "Biển W.207c",
+    "description": "Giao nhau với đường không ưu tiên",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Vietnam_road_sign_W207c.svg/250px-Vietnam_road_sign_W207c.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Vietnam_road_sign_W207c.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.207c.svg"
+  },
+  {
+    "name": "Biển W.207d",
+    "description": "Giao nhau với đường không ưu tiên",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Vietnam_road_sign_W207d.svg/250px-Vietnam_road_sign_W207d.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Vietnam_road_sign_W207d.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.207d.svg"
+  },
+  {
+    "name": "Biển W.207e",
+    "description": "Giao nhau với đường không ưu tiên",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Vietnam_road_sign_W207e.svg/250px-Vietnam_road_sign_W207e.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Vietnam_road_sign_W207e.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.207e.svg"
+  },
+  {
+    "name": "Biển W.207f",
+    "description": "Giao nhau với đường không ưu tiên",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Vietnam_road_sign_W207f.svg/250px-Vietnam_road_sign_W207f.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Vietnam_road_sign_W207f.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.207f.svg"
+  },
+  {
+    "name": "Biển W.207g",
+    "description": "Giao nhau với đường không ưu tiên",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Vietnam_road_sign_W207g.svg/250px-Vietnam_road_sign_W207g.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Vietnam_road_sign_W207g.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.207g.svg"
+  },
+  {
+    "name": "Biển W.207h",
+    "description": "Giao nhau với đường không ưu tiên",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Vietnam_road_sign_W207h.svg/250px-Vietnam_road_sign_W207h.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Vietnam_road_sign_W207h.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.207h.svg"
+  },
+  {
+    "name": "Biển W.207i",
+    "description": "Giao nhau với đường không ưu tiên",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Vietnam_road_sign_W207i.svg/250px-Vietnam_road_sign_W207i.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Vietnam_road_sign_W207i.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.207i.svg"
+  },
+  {
+    "name": "Biển W.207j",
+    "description": "Giao nhau với đường không ưu tiên",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Vietnam_road_sign_W207j.svg/250px-Vietnam_road_sign_W207j.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Vietnam_road_sign_W207j.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.207j.svg"
+  },
+  {
+    "name": "Biển W.207k",
+    "description": "Giao nhau với đường không ưu tiên",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Vietnam_road_sign_W207k.svg/250px-Vietnam_road_sign_W207k.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Vietnam_road_sign_W207k.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.207k.svg"
+  },
+  {
+    "name": "Biển W.207l",
+    "description": "Giao nhau với đường không ưu tiên",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Vietnam_road_sign_W207l.svg/250px-Vietnam_road_sign_W207l.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Vietnam_road_sign_W207l.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.207l.svg"
+  },
+  {
+    "name": "Biển W.207m",
+    "description": "Giao nhau với đường không ưu tiên",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Vietnam_road_sign_W207m.svg/250px-Vietnam_road_sign_W207m.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Vietnam_road_sign_W207m.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.207m.svg"
+  },
+  {
+    "name": "Biển W.208",
+    "description": "Giao nhau với đường ưu tiên",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Vietnam_road_sign_W208.svg/250px-Vietnam_road_sign_W208.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Vietnam_road_sign_W208.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.208.svg"
+  },
+  {
+    "name": "Biển W.209",
+    "description": "Giao nhau có tín hiệu đèn giao thông",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Vietnam_road_sign_W209.svg/250px-Vietnam_road_sign_W209.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Vietnam_road_sign_W209.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.209.svg"
+  },
+  {
+    "name": "Biển W.210",
+    "description": "Giao nhau với đường sắt có rào chắn",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Vietnam_road_sign_W210.svg/250px-Vietnam_road_sign_W210.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Vietnam_road_sign_W210.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.210.svg"
+  },
+  {
+    "name": "Biển W.211",
+    "description": "Giao nhau với đường sắt không có rào chắn",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Vietnam_road_sign_W211a.svg/250px-Vietnam_road_sign_W211a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Vietnam_road_sign_W211a.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.211.svg"
+  },
+  {
+    "name": "Biển W.212",
+    "description": "Cầu hẹp",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Vietnam_road_sign_W212.svg/250px-Vietnam_road_sign_W212.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Vietnam_road_sign_W212.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.212.svg"
+  },
+  {
+    "name": "Biển W.213",
+    "description": "Cầu tạm",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Vietnam_road_sign_W213.svg/250px-Vietnam_road_sign_W213.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Vietnam_road_sign_W213.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.213.svg"
+  },
+  {
+    "name": "Biển W.214",
+    "description": "Cầu quay – cầu cất",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Vietnam_road_sign_W214.svg/250px-Vietnam_road_sign_W214.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Vietnam_road_sign_W214.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.214.svg"
+  },
+  {
+    "name": "Biển W.215a",
+    "description": "Kè, vực sâu phía trước",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Vietnam_road_sign_W215a.svg/250px-Vietnam_road_sign_W215a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Vietnam_road_sign_W215a.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.215a.svg"
+  },
+  {
+    "name": "Biển W.215b",
+    "description": "Kè, vực sâu bên đường phía bên phải",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Vietnam_road_sign_W215b.svg/250px-Vietnam_road_sign_W215b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Vietnam_road_sign_W215b.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.215b.svg"
+  },
+  {
+    "name": "Biển W.215c",
+    "description": "Kè, vực sâu bên đường phía bên trái",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Vietnam_road_sign_W215c.svg/250px-Vietnam_road_sign_W215c.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Vietnam_road_sign_W215c.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.215c.svg"
+  },
+  {
+    "name": "Biển W.216a",
+    "description": "Đường ngầm (thường đặt thêm cột thủy chí để báo mực nước)",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Vietnam_road_sign_W216a.svg/250px-Vietnam_road_sign_W216a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Vietnam_road_sign_W216a.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.216a.svg"
+  },
+  {
+    "name": "Biển W.216b",
+    "description": "Đường ngầm có nguy cơ lũ quét (thường đặt thêm cột thủy chí để báo mực nước)",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Vietnam_road_sign_W216b.svg/250px-Vietnam_road_sign_W216b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Vietnam_road_sign_W216b.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.216b.svg"
+  },
+  {
+    "name": "Biển W.217",
+    "description": "Bến phà",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Vietnam_road_sign_W217.svg/250px-Vietnam_road_sign_W217.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Vietnam_road_sign_W217.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.217.svg"
+  },
+  {
+    "name": "Biển W.218",
+    "description": "Cửa chui",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Vietnam_road_sign_W218.svg/250px-Vietnam_road_sign_W218.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Vietnam_road_sign_W218.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.218.svg"
+  },
+  {
+    "name": "Biển W.219",
+    "description": "Dốc xuống nguy hiểm  (Lưu ý: Có thể kèm theo biển S.501)",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Vietnam_road_sign_W219.svg/250px-Vietnam_road_sign_W219.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Vietnam_road_sign_W219.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.219.svg"
+  },
+  {
+    "name": "Biển W.220",
+    "description": "Dốc lên nguy hiểm  (Lưu ý: Có thể kèm theo biển S.501)",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Vietnam_road_sign_W220.svg/250px-Vietnam_road_sign_W220.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Vietnam_road_sign_W220.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.220.svg"
+  },
+  {
+    "name": "Biển W.221a",
+    "description": "Đường lồi lõm  (Lưu ý: Có thể kèm theo biển S.501)",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vietnam_road_sign_W221a.svg/250px-Vietnam_road_sign_W221a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Vietnam_road_sign_W221a.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.221a.svg"
+  },
+  {
+    "name": "Biển W.221b",
+    "description": "Đường có gờ giảm tốc",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Vietnam_road_sign_W221b.svg/250px-Vietnam_road_sign_W221b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Vietnam_road_sign_W221b.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.221b.svg"
+  },
+  {
+    "name": "Biển W.222a",
+    "description": "Đường trơn",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Vietnam_road_sign_W222a.svg/250px-Vietnam_road_sign_W222a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Vietnam_road_sign_W222a.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.222a.svg"
+  },
+  {
+    "name": "Biển W.222b",
+    "description": "Lề đường nguy hiểm",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Vietnam_road_sign_W222b.svg/250px-Vietnam_road_sign_W222b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Vietnam_road_sign_W222b.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.222b.svg"
+  },
+  {
+    "name": "Biển W.223a",
+    "description": "Vách núi nguy hiểm phía bên trai",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Vietnam_road_sign_W223a.svg/250px-Vietnam_road_sign_W223a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Vietnam_road_sign_W223a.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.223a.svg"
+  },
+  {
+    "name": "Biển W.223b",
+    "description": "Vách núi nguy hiểm phía bên phai",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Vietnam_road_sign_W223b.svg/250px-Vietnam_road_sign_W223b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Vietnam_road_sign_W223b.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.223b.svg"
+  },
+  {
+    "name": "Biển W.224",
+    "description": "Đường người đi bộ cắt ngang",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Vietnam_road_sign_W224.svg/250px-Vietnam_road_sign_W224.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Vietnam_road_sign_W224.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.224.svg"
+  },
+  {
+    "name": "Biển W.225",
+    "description": "Trẻ em  (Lưu ý: Có thể kèm theo biển S.501)",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Vietnam_road_sign_W225.svg/250px-Vietnam_road_sign_W225.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Vietnam_road_sign_W225.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.225.svg"
+  },
+  {
+    "name": "Biển W.226",
+    "description": "Đường người đi xe đạp cắt ngang",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Vietnam_road_sign_W226.svg/250px-Vietnam_road_sign_W226.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Vietnam_road_sign_W226.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.226.svg"
+  },
+  {
+    "name": "Biển W.227",
+    "description": "Công trường",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vietnam_road_sign_W227.svg/250px-Vietnam_road_sign_W227.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Vietnam_road_sign_W227.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.227.svg"
+  },
+  {
+    "name": "Biển W.228a",
+    "description": "Đá lở từ bên trái  (Lưu ý: Có thể kèm theo biển S.501)",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Vietnam_road_sign_W228a.svg/250px-Vietnam_road_sign_W228a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Vietnam_road_sign_W228a.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.228a.svg"
+  },
+  {
+    "name": "Biển W.228b",
+    "description": "Đá lở từ bên phải  (Lưu ý: Có thể kèm theo biển S.501)",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Vietnam_road_sign_W228b.svg/250px-Vietnam_road_sign_W228b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Vietnam_road_sign_W228b.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.228b.svg"
+  },
+  {
+    "name": "Biển W.228c",
+    "description": "Sỏi đá bắn lên",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Vietnam_road_sign_W228c.svg/250px-Vietnam_road_sign_W228c.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Vietnam_road_sign_W228c.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.228c.svg"
+  },
+  {
+    "name": "Biển W.228d",
+    "description": "Nền đường yếu",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vietnam_road_sign_W228d.svg/250px-Vietnam_road_sign_W228d.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Vietnam_road_sign_W228d.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.228d.svg"
+  },
+  {
+    "name": "Biển W.229",
+    "description": "Dải máy bay lên xuống",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Vietnam_road_sign_W229.svg/250px-Vietnam_road_sign_W229.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Vietnam_road_sign_W229.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.229.svg"
+  },
+  {
+    "name": "Biển W.230",
+    "description": "Gia súc",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Vietnam_road_sign_W230.svg/250px-Vietnam_road_sign_W230.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Vietnam_road_sign_W230.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.230.svg"
+  },
+  {
+    "name": "Biển W.231",
+    "description": "Thú rừng vượt qua đường  (Lưu ý: Có thể kèm theo biển S.501)",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Vietnam_road_sign_W231.svg/250px-Vietnam_road_sign_W231.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Vietnam_road_sign_W231.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.231.svg"
+  },
+  {
+    "name": "Biển W.232",
+    "description": "Gió ngang",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Vietnam_road_sign_W232.svg/250px-Vietnam_road_sign_W232.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Vietnam_road_sign_W232.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.232.svg"
+  },
+  {
+    "name": "Biển W.233",
+    "description": "Nguy hiểm khác",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Vietnam_road_sign_W233.svg/250px-Vietnam_road_sign_W233.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Vietnam_road_sign_W233.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.233.svg"
+  },
+  {
+    "name": "Biển W.234",
+    "description": "Giao nhau với đường hai chiều",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Vietnam_road_sign_W234.svg/250px-Vietnam_road_sign_W234.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Vietnam_road_sign_W234.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.234.svg"
+  },
+  {
+    "name": "Biển W.235",
+    "description": "Đường đôi",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Vietnam_road_sign_W235.svg/250px-Vietnam_road_sign_W235.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Vietnam_road_sign_W235.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.235.svg"
+  },
+  {
+    "name": "Biển W.236",
+    "description": "Kết thúc đường đôi",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vietnam_road_sign_W236.svg/250px-Vietnam_road_sign_W236.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Vietnam_road_sign_W236.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.236.svg"
+  },
+  {
+    "name": "Biển W.237",
+    "description": "Cầu vồng",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Vietnam_road_sign_W237.svg/250px-Vietnam_road_sign_W237.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Vietnam_road_sign_W237.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.237.svg"
+  },
+  {
+    "name": "Biển W.238",
+    "description": "Đường cao tốc phía trước",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Vietnam_road_sign_W238.svg/250px-Vietnam_road_sign_W238.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Vietnam_road_sign_W238.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.238.svg"
+  },
+  {
+    "name": "Biển W.239a",
+    "description": "Đường cáp điện ở phía trên (kèm thêm biển S.509a: Chiều cao an toàn)",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Vietnam_road_sign_W239a.svg/250px-Vietnam_road_sign_W239a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Vietnam_road_sign_W239a.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.239a.svg"
+  },
+  {
+    "name": "Biển W.239b",
+    "description": "Chiều cao tĩnh không thực tế",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Vietnam_road_sign_W239b.svg/250px-Vietnam_road_sign_W239b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Vietnam_road_sign_W239b.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.239b.svg"
+  },
+  {
+    "name": "Biển W.240",
+    "description": "Đường hầm",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Vietnam_road_sign_W240.svg/250px-Vietnam_road_sign_W240.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Vietnam_road_sign_W240.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.240.svg"
+  },
+  {
+    "name": "Biển W.241",
+    "description": "Ùn tắc giao thông",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Vietnam_road_sign_W241.svg/250px-Vietnam_road_sign_W241.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Vietnam_road_sign_W241.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.241.svg"
+  },
+  {
+    "name": "Biển W.242a",
+    "description": "Giao nhau vuông góc với một cặp đường ray",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Vietnam_road_sign_W242a.svg/250px-Vietnam_road_sign_W242a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Vietnam_road_sign_W242a.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.242a.svg"
+  },
+  {
+    "name": "Biển W.242b",
+    "description": "Giao nhau vuông góc với nhiều cặp đường ray",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Vietnam_road_sign_W242b.svg/250px-Vietnam_road_sign_W242b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Vietnam_road_sign_W242b.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.242b.svg"
+  },
+  {
+    "name": "Biển W.243a",
+    "description": "Báo trước giao nhau không vuông góc với đường sắt (50 m)",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Vietnam_road_sign_W243a.svg/250px-Vietnam_road_sign_W243a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Vietnam_road_sign_W243a.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.243a.svg"
+  },
+  {
+    "name": "Biển W.243b",
+    "description": "Báo trước giao nhau không vuông góc với đường sắt (100 m)",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Vietnam_road_sign_W243b.svg/250px-Vietnam_road_sign_W243b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Vietnam_road_sign_W243b.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.243b.svg"
+  },
+  {
+    "name": "Biển W.243c",
+    "description": "Báo trước giao nhau không vuông góc với đường sắt (150 m)",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Vietnam_road_sign_W243c.svg/250px-Vietnam_road_sign_W243c.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Vietnam_road_sign_W243c.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.243c.svg"
+  },
+  {
+    "name": "Biển W.244",
+    "description": "Đoạn đường hay xảy ra tai nạn",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Vietnam_road_sign_W244.svg/250px-Vietnam_road_sign_W244.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Vietnam_road_sign_W244.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.244.svg"
+  },
+  {
+    "name": "Biển W.245a",
+    "description": "Đi chậm",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Vietnam_road_sign_W245a.svg/250px-Vietnam_road_sign_W245a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Vietnam_road_sign_W245a.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.245a.svg"
+  },
+  {
+    "name": "Biển W.245b",
+    "description": "Đi chậm (song ngữ)",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Vietnam_road_sign_W245b.svg/250px-Vietnam_road_sign_W245b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Vietnam_road_sign_W245b.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.245b.svg"
+  },
+  {
+    "name": "Biển W.246a",
+    "description": "Chú ý chướng ngại vật – vòng tránh ra hai bên",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Vietnam_road_sign_W246a.svg/250px-Vietnam_road_sign_W246a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Vietnam_road_sign_W246a.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.246a.svg"
+  },
+  {
+    "name": "Biển W.246b",
+    "description": "Chú ý chướng ngại vật – vòng tránh sang bên trái",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Vietnam_road_sign_W246b.svg/250px-Vietnam_road_sign_W246b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Vietnam_road_sign_W246b.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.246b.svg"
+  },
+  {
+    "name": "Biển W.246c",
+    "description": "Chú ý chướng ngại vật – vòng tránh sang bên phải",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Vietnam_road_sign_W246c.svg/250px-Vietnam_road_sign_W246c.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Vietnam_road_sign_W246c.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.246c.svg"
+  },
+  {
+    "name": "Biển W.247",
+    "description": "Chú ý xe đỗ",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Vietnam_road_sign_W247.svg/250px-Vietnam_road_sign_W247.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Vietnam_road_sign_W247.svg",
+    "gallery_index": 1,
+    "local_path": "traffic_signs_images\\Biển W.247.svg"
+  },
+  {
+    "name": "Biển R.122",
+    "description": "Dừng lại",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Vietnam_road_sign_P122.svg/250px-Vietnam_road_sign_P122.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Vietnam_road_sign_P122.svg",
+    "gallery_index": 2,
+    "local_path": "traffic_signs_images\\Biển R.122.svg"
+  },
+  {
+    "name": "Biển R.301a",
+    "description": "Hướng đi thẳng phải theo",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Vietnam_road_sign_R301a.svg/250px-Vietnam_road_sign_R301a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Vietnam_road_sign_R301a.svg",
+    "gallery_index": 2,
+    "local_path": "traffic_signs_images\\Biển R.301a.svg"
+  },
+  {
+    "name": "Biển R.301b",
+    "description": "Hướng đi phải phải theo",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Vietnam_road_sign_R301b.svg/250px-Vietnam_road_sign_R301b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Vietnam_road_sign_R301b.svg",
+    "gallery_index": 2,
+    "local_path": "traffic_signs_images\\Biển R.301b.svg"
+  },
+  {
+    "name": "Biển R.301c",
+    "description": "Hướng đi trái phải theo",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Vietnam_road_sign_R301c.svg/250px-Vietnam_road_sign_R301c.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Vietnam_road_sign_R301c.svg",
+    "gallery_index": 2,
+    "local_path": "traffic_signs_images\\Biển R.301c.svg"
+  },
+  {
+    "name": "Biển R.301d",
+    "description": "Các xe chỉ được rẽ phải",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vietnam_road_sign_R301d.svg/250px-Vietnam_road_sign_R301d.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Vietnam_road_sign_R301d.svg",
+    "gallery_index": 2,
+    "local_path": "traffic_signs_images\\Biển R.301d.svg"
+  },
+  {
+    "name": "Biển R.301e",
+    "description": "Các xe chỉ được rẽ trái",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Vietnam_road_sign_R301e.svg/250px-Vietnam_road_sign_R301e.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Vietnam_road_sign_R301e.svg",
+    "gallery_index": 2,
+    "local_path": "traffic_signs_images\\Biển R.301e.svg"
+  },
+  {
+    "name": "Biển R.301f",
+    "description": "Các xe chỉ được đi thẳng và rẽ phải",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Vietnam_road_sign_R301f.svg/250px-Vietnam_road_sign_R301f.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Vietnam_road_sign_R301f.svg",
+    "gallery_index": 2,
+    "local_path": "traffic_signs_images\\Biển R.301f.svg"
+  },
+  {
+    "name": "Biển R.301g",
+    "description": "Các xe chỉ được đi thẳng và rẽ trái",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Vietnam_road_sign_R301g.svg/250px-Vietnam_road_sign_R301g.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Vietnam_road_sign_R301g.svg",
+    "gallery_index": 2,
+    "local_path": "traffic_signs_images\\Biển R.301g.svg"
+  },
+  {
+    "name": "Biển R.301h",
+    "description": "Các xe chỉ được rẽ trái và rẽ phải",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Vietnam_road_sign_R301i.svg/250px-Vietnam_road_sign_R301i.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Vietnam_road_sign_R301i.svg",
+    "gallery_index": 2,
+    "local_path": "traffic_signs_images\\Biển R.301h.svg"
+  },
+  {
+    "name": "Biển R.302a",
+    "description": "Phải đi vòng sang bên phải",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Vietnam_road_sign_R302a.svg/250px-Vietnam_road_sign_R302a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Vietnam_road_sign_R302a.svg",
+    "gallery_index": 2,
+    "local_path": "traffic_signs_images\\Biển R.302a.svg"
+  },
+  {
+    "name": "Biển R.302b",
+    "description": "Phải đi vòng sang bên trái",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Vietnam_road_sign_R302b.svg/250px-Vietnam_road_sign_R302b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Vietnam_road_sign_R302b.svg",
+    "gallery_index": 2,
+    "local_path": "traffic_signs_images\\Biển R.302b.svg"
+  },
+  {
+    "name": "Biển R.302c",
+    "description": "Có thể đi vòng sang trái hoặc phải",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Vietnam_road_sign_R302c.svg/250px-Vietnam_road_sign_R302c.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Vietnam_road_sign_R302c.svg",
+    "gallery_index": 2,
+    "local_path": "traffic_signs_images\\Biển R.302c.svg"
+  },
+  {
+    "name": "Biển R.303",
+    "description": "Nơi giao nhau chạy theo vòng xuyến",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Vietnam_road_sign_R303.svg/250px-Vietnam_road_sign_R303.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Vietnam_road_sign_R303.svg",
+    "gallery_index": 2,
+    "local_path": "traffic_signs_images\\Biển R.303.svg"
+  },
+  {
+    "name": "Biển R.304",
+    "description": "Đường dành cho xe thô sơ",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Vietnam_road_sign_R304.svg/250px-Vietnam_road_sign_R304.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Vietnam_road_sign_R304.svg",
+    "gallery_index": 2,
+    "local_path": "traffic_signs_images\\Biển R.304.svg"
+  },
+  {
+    "name": "Biển R.305",
+    "description": "Đường dành cho người đi bộ",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Vietnam_road_sign_R305.svg/250px-Vietnam_road_sign_R305.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Vietnam_road_sign_R305.svg",
+    "gallery_index": 2,
+    "local_path": "traffic_signs_images\\Biển R.305.svg"
+  },
+  {
+    "name": "Biển R.306",
+    "description": "Tốc độ tối thiểu cho phép",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Vietnam_road_sign_R306.svg/250px-Vietnam_road_sign_R306.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Vietnam_road_sign_R306.svg",
+    "gallery_index": 2,
+    "local_path": "traffic_signs_images\\Biển R.306.svg"
+  },
+  {
+    "name": "Biển R.307",
+    "description": "Hết tốc độ tối thiểu cho phép",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Vietnam_road_sign_R307.svg/250px-Vietnam_road_sign_R307.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Vietnam_road_sign_R307.svg",
+    "gallery_index": 2,
+    "local_path": "traffic_signs_images\\Biển R.307.svg"
+  },
+  {
+    "name": "Biển R.308a",
+    "description": "Tuyến đường cầu vượt cắt qua",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Vietnam_road_sign_R308a.svg/250px-Vietnam_road_sign_R308a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Vietnam_road_sign_R308a.svg",
+    "gallery_index": 2,
+    "local_path": "traffic_signs_images\\Biển R.308a.svg"
+  },
+  {
+    "name": "Biển R.308b",
+    "description": "Tuyến đường cầu vượt cắt qua",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Vietnam_road_sign_R308b.svg/250px-Vietnam_road_sign_R308b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Vietnam_road_sign_R308b.svg",
+    "gallery_index": 2,
+    "local_path": "traffic_signs_images\\Biển R.308b.svg"
+  },
+  {
+    "name": "Biển R.309",
+    "description": "Ấn còi",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Vietnam_road_sign_R309.svg/250px-Vietnam_road_sign_R309.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Vietnam_road_sign_R309.svg",
+    "gallery_index": 2,
+    "local_path": "traffic_signs_images\\Biển R.309.svg"
+  },
+  {
+    "name": "Biển R.310a",
+    "description": "Xe chở hàng nguy hiểm chỉ được rẽ trái",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Vietnam_road_sign_R310a.svg/250px-Vietnam_road_sign_R310a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Vietnam_road_sign_R310a.svg",
+    "gallery_index": 2,
+    "local_path": "traffic_signs_images\\Biển R.310a.svg"
+  },
+  {
+    "name": "Biển R.310b",
+    "description": "Xe chở hàng nguy hiểm chỉ được đi thẳng",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Vietnam_road_sign_R310b.svg/250px-Vietnam_road_sign_R310b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Vietnam_road_sign_R310b.svg",
+    "gallery_index": 2,
+    "local_path": "traffic_signs_images\\Biển R.310b.svg"
+  },
+  {
+    "name": "Biển R.310c",
+    "description": "Xe chở hàng nguy hiểm chỉ được rẽ phải",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Vietnam_road_sign_R310c.svg/250px-Vietnam_road_sign_R310c.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Vietnam_road_sign_R310c.svg",
+    "gallery_index": 2,
+    "local_path": "traffic_signs_images\\Biển R.310c.svg"
+  },
+  {
+    "name": "Biển R.403a",
+    "description": "Đường dành cho xe ô tô",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Vietnam_road_sign_R403a.svg/250px-Vietnam_road_sign_R403a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Vietnam_road_sign_R403a.svg",
+    "gallery_index": 2,
+    "local_path": "traffic_signs_images\\Biển R.403a.svg"
+  },
+  {
+    "name": "Biển R.403b",
+    "description": "Đường dành cho xe ô tô và xe máy",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Vietnam_road_sign_R403b.svg/250px-Vietnam_road_sign_R403b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Vietnam_road_sign_R403b.svg",
+    "gallery_index": 2,
+    "local_path": "traffic_signs_images\\Biển R.403b.svg"
+  },
+  {
+    "name": "Biển R.403c",
+    "description": "Đường dành cho xe buýt",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Vietnam_road_sign_R403c.svg/250px-Vietnam_road_sign_R403c.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Vietnam_road_sign_R403c.svg",
+    "gallery_index": 2,
+    "local_path": "traffic_signs_images\\Biển R.403c.svg"
+  },
+  {
+    "name": "Biển R.403d",
+    "description": "Đường dành cho xe ô tô con",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Vietnam_road_sign_R403d.svg/250px-Vietnam_road_sign_R403d.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Vietnam_road_sign_R403d.svg",
+    "gallery_index": 2,
+    "local_path": "traffic_signs_images\\Biển R.403d.svg"
+  },
+  {
+    "name": "Biển R.403e",
+    "description": "Đường dành cho xe máy",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Vietnam_road_sign_R403e.svg/250px-Vietnam_road_sign_R403e.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Vietnam_road_sign_R403e.svg",
+    "gallery_index": 2,
+    "local_path": "traffic_signs_images\\Biển R.403e.svg"
+  },
+  {
+    "name": "Biển R.403f",
+    "description": "Đường dành cho xe máy và xe đạp",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Vietnam_road_sign_R403f.svg/250px-Vietnam_road_sign_R403f.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Vietnam_road_sign_R403f.svg",
+    "gallery_index": 2,
+    "local_path": "traffic_signs_images\\Biển R.403f.svg"
+  },
+  {
+    "name": "Biển R.403g",
+    "description": "Đường dành cho xe chở hàng bốn bánh gắn động cơ",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Vietnam_road_sign_R403g.svg/250px-Vietnam_road_sign_R403g.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Vietnam_road_sign_R403g.svg",
+    "gallery_index": 2,
+    "local_path": "traffic_signs_images\\Biển R.403g.svg"
+  },
+  {
+    "name": "Biển R.403h",
+    "description": "Đường dành cho xe chở người bốn bánh gắn động cơ",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Vietnam_road_sign_R403h.svg/250px-Vietnam_road_sign_R403h.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Vietnam_road_sign_R403h.svg",
+    "gallery_index": 2,
+    "local_path": "traffic_signs_images\\Biển R.403h.svg"
+  },
+  {
+    "name": "Biển R.403k",
+    "description": "Đường dành cho xe chở hàng, xe chở người bốn bánh gắn động cơ",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Vietnam_road_sign_R403k.svg/250px-Vietnam_road_sign_R403k.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Vietnam_road_sign_R403k.svg",
+    "gallery_index": 2,
+    "local_path": "traffic_signs_images\\Biển R.403k.svg"
+  },
+  {
+    "name": "Biển R.404a",
+    "description": "Hết đường dành cho xe ô tô",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Vietnam_road_sign_R404a.svg/250px-Vietnam_road_sign_R404a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Vietnam_road_sign_R404a.svg",
+    "gallery_index": 2,
+    "local_path": "traffic_signs_images\\Biển R.404a.svg"
+  },
+  {
+    "name": "Biển R.404b",
+    "description": "Hết đường dành cho xe ô tô, xe máy",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Vietnam_road_sign_R404b.svg/250px-Vietnam_road_sign_R404b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Vietnam_road_sign_R404b.svg",
+    "gallery_index": 2,
+    "local_path": "traffic_signs_images\\Biển R.404b.svg"
+  },
+  {
+    "name": "Biển R.404c",
+    "description": "Hết đường dành cho xe buyt",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Vietnam_road_sign_R404c.svg/250px-Vietnam_road_sign_R404c.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Vietnam_road_sign_R404c.svg",
+    "gallery_index": 2,
+    "local_path": "traffic_signs_images\\Biển R.404c.svg"
+  },
+  {
+    "name": "Biển R.404d",
+    "description": "Hết đường dành cho xe ô tô con",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Vietnam_road_sign_R404d.svg/250px-Vietnam_road_sign_R404d.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Vietnam_road_sign_R404d.svg",
+    "gallery_index": 2,
+    "local_path": "traffic_signs_images\\Biển R.404d.svg"
+  },
+  {
+    "name": "Biển R.404e",
+    "description": "Hết đường dành cho xe máy",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Vietnam_road_sign_R404e.svg/250px-Vietnam_road_sign_R404e.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Vietnam_road_sign_R404e.svg",
+    "gallery_index": 2,
+    "local_path": "traffic_signs_images\\Biển R.404e.svg"
+  },
+  {
+    "name": "Biển R.404f",
+    "description": "Hết đường dành cho xe máy và xe đạp",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Vietnam_road_sign_R404f.svg/250px-Vietnam_road_sign_R404f.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Vietnam_road_sign_R404f.svg",
+    "gallery_index": 2,
+    "local_path": "traffic_signs_images\\Biển R.404f.svg"
+  },
+  {
+    "name": "Biển R.404g",
+    "description": "Hết đường dành cho xe chở hàng bốn bánh gắn động cơ",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Vietnam_road_sign_R404g.svg/250px-Vietnam_road_sign_R404g.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Vietnam_road_sign_R404g.svg",
+    "gallery_index": 2,
+    "local_path": "traffic_signs_images\\Biển R.404g.svg"
+  },
+  {
+    "name": "Biển R.404h",
+    "description": "Hết đường dành cho xe chở người bốn bánh gắn động cơ",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Vietnam_road_sign_R404h.svg/250px-Vietnam_road_sign_R404h.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Vietnam_road_sign_R404h.svg",
+    "gallery_index": 2,
+    "local_path": "traffic_signs_images\\Biển R.404h.svg"
+  },
+  {
+    "name": "Biển R.404k",
+    "description": "Hết đường dành cho xe chở hàng, xe chở người bốn bánh gắn động cơ",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Vietnam_road_sign_R404k.svg/250px-Vietnam_road_sign_R404k.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Vietnam_road_sign_R404k.svg",
+    "gallery_index": 2,
+    "local_path": "traffic_signs_images\\Biển R.404k.svg"
+  },
+  {
+    "name": "Biển R.411",
+    "description": "Hướng đi trên mỗi làn đường phải theo",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Vietnam_road_sign_R411.svg/250px-Vietnam_road_sign_R411.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Vietnam_road_sign_R411.svg",
+    "gallery_index": 2,
+    "local_path": "traffic_signs_images\\Biển R.411.svg"
+  },
+  {
+    "name": "Biển R.415a",
+    "description": "Phân làn",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Vietnam_road_sign_R415a.svg/250px-Vietnam_road_sign_R415a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Vietnam_road_sign_R415a.svg",
+    "gallery_index": 2,
+    "local_path": "traffic_signs_images\\Biển R.415a.svg"
+  },
+  {
+    "name": "Biển R.415b",
+    "description": "Hết phân làn",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Vietnam_road_sign_R415b.svg/250px-Vietnam_road_sign_R415b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Vietnam_road_sign_R415b.svg",
+    "gallery_index": 2,
+    "local_path": "traffic_signs_images\\Biển R.415b.svg"
+  },
+  {
+    "name": "Biển R.420",
+    "description": "Bắt đầu khu đông dân cư",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Vietnam_road_sign_R420.svg/250px-Vietnam_road_sign_R420.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Vietnam_road_sign_R420.svg",
+    "gallery_index": 2,
+    "local_path": "traffic_signs_images\\Biển R.420.svg"
+  },
+  {
+    "name": "Biển R.421",
+    "description": "Hết khu đông dân cư",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Vietnam_road_sign_R421.svg/250px-Vietnam_road_sign_R421.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Vietnam_road_sign_R421.svg",
+    "gallery_index": 2,
+    "local_path": "traffic_signs_images\\Biển R.421.svg"
+  },
+  {
+    "name": "Biển R.E,9a",
+    "description": "Cấm đỗ xe trong khu vực",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Vietnam_road_sign_RE9a.svg/250px-Vietnam_road_sign_RE9a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Vietnam_road_sign_RE9a.svg",
+    "gallery_index": 2,
+    "local_path": "traffic_signs_images\\Biển R.E,9a.svg"
+  },
+  {
+    "name": "Biển R.E,9b",
+    "description": "Cấm đỗ xe theo giờ trong khu vực",
+    "image_url": null,
+    "image_full_url": null,
+    "gallery_index": 2
+  },
+  {
+    "name": "Biển R.E,9c",
+    "description": "Khu vực đỗ xe",
+    "image_url": null,
+    "image_full_url": null,
+    "gallery_index": 2
+  },
+  {
+    "name": "Biển R.E,9d",
+    "description": "Hạn chế tốc độ tối đa trong khu vực",
+    "image_url": null,
+    "image_full_url": null,
+    "gallery_index": 2
+  },
+  {
+    "name": "Biển R.E,10a",
+    "description": "Hết cấm đỗ xe trong khu vực",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Vietnam_road_sign_RE10a.svg/250px-Vietnam_road_sign_RE10a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Vietnam_road_sign_RE10a.svg",
+    "gallery_index": 2,
+    "local_path": "traffic_signs_images\\Biển R.E,10a.svg"
+  },
+  {
+    "name": "Biển R.E,10b",
+    "description": "Hết cấm đỗ xe theo giờ trong khu vực",
+    "image_url": null,
+    "image_full_url": null,
+    "gallery_index": 2
+  },
+  {
+    "name": "Biển R.E,10c",
+    "description": "Hết khu vực đỗ xe",
+    "image_url": null,
+    "image_full_url": null,
+    "gallery_index": 2
+  },
+  {
+    "name": "Biển R.E,10d",
+    "description": "Hết hạn chế tốc độ tối đa trong khu vực",
+    "image_url": null,
+    "image_full_url": null,
+    "gallery_index": 2
+  },
+  {
+    "name": "Biển R.E,11a",
+    "description": "Đường hầm",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Vietnam_road_sign_RE11a.svg/250px-Vietnam_road_sign_RE11a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Vietnam_road_sign_RE11a.svg",
+    "gallery_index": 2,
+    "local_path": "traffic_signs_images\\Biển R.E,11a.svg"
+  },
+  {
+    "name": "Biển R.E,11b",
+    "description": "Kết thúc đường hầm",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Vietnam_road_sign_RE11b.svg/250px-Vietnam_road_sign_RE11b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Vietnam_road_sign_RE11b.svg",
+    "gallery_index": 2,
+    "local_path": "traffic_signs_images\\Biển R.E,11b.svg"
+  },
+  {
+    "name": "Biển I.401",
+    "description": "Bắt đầu đường ưu tiên",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Vietnam_road_sign_I401.svg/250px-Vietnam_road_sign_I401.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Vietnam_road_sign_I401.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.401.svg"
+  },
+  {
+    "name": "Biển I.402",
+    "description": "Hết đoạn đường ưu tiên",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Vietnam_road_sign_I402.svg/250px-Vietnam_road_sign_I402.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Vietnam_road_sign_I402.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.402.svg"
+  },
+  {
+    "name": "Biển I.405a",
+    "description": "Đường cụt ở bên phải",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Vietnam_road_sign_I405a.svg/250px-Vietnam_road_sign_I405a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Vietnam_road_sign_I405a.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.405a.svg"
+  },
+  {
+    "name": "Biển I.405b",
+    "description": "Đường cụt ở bên trái",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Vietnam_road_sign_I405b.svg/250px-Vietnam_road_sign_I405b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Vietnam_road_sign_I405b.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.405b.svg"
+  },
+  {
+    "name": "Biển I.405c",
+    "description": "Đường cụt phía trước",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Vietnam_road_sign_I405c.svg/250px-Vietnam_road_sign_I405c.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Vietnam_road_sign_I405c.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.405c.svg"
+  },
+  {
+    "name": "Biển I.406",
+    "description": "Được ưu tiên qua đường hẹp",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Vietnam_road_sign_I406.svg/250px-Vietnam_road_sign_I406.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Vietnam_road_sign_I406.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.406.svg"
+  },
+  {
+    "name": "Biển I.407a",
+    "description": "Đường một chiều",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Vietnam_road_sign_I407a.svg/250px-Vietnam_road_sign_I407a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Vietnam_road_sign_I407a.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.407a.svg"
+  },
+  {
+    "name": "Biển I.407b",
+    "description": "Đường một chiều",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vietnam_road_sign_I407b.svg/250px-Vietnam_road_sign_I407b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Vietnam_road_sign_I407b.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.407b.svg"
+  },
+  {
+    "name": "Biển I.407c",
+    "description": "Đường một chiều",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Vietnam_road_sign_I407c.svg/250px-Vietnam_road_sign_I407c.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Vietnam_road_sign_I407c.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.407c.svg"
+  },
+  {
+    "name": "Biển I.408",
+    "description": "Nơi đỗ xe",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Vietnam_road_sign_I408.svg/250px-Vietnam_road_sign_I408.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Vietnam_road_sign_I408.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.408.svg"
+  },
+  {
+    "name": "Biển I.408a",
+    "description": "Nơi đỗ xe một phần trên hè phố",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Vietnam_road_sign_I408a.svg/250px-Vietnam_road_sign_I408a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Vietnam_road_sign_I408a.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.408a.svg"
+  },
+  {
+    "name": "Biển I.409",
+    "description": "Chỗ quay xe",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Vietnam_road_sign_I409.svg/250px-Vietnam_road_sign_I409.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Vietnam_road_sign_I409.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.409.svg"
+  },
+  {
+    "name": "Biển I.410",
+    "description": "Khu vực quay xe",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Vietnam_road_sign_I410.svg/250px-Vietnam_road_sign_I410.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Vietnam_road_sign_I410.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.410.svg"
+  },
+  {
+    "name": "Biển I.413a",
+    "description": "Đường phía trước có làn đường dành cho ô tô khách",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Vietnam_road_sign_I413a.svg/250px-Vietnam_road_sign_I413a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Vietnam_road_sign_I413a.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.413a.svg"
+  },
+  {
+    "name": "Biển I.413b",
+    "description": "Rẽ ra đường có làn đường dành cho ô tô khách",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Vietnam_road_sign_I413b.svg/250px-Vietnam_road_sign_I413b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Vietnam_road_sign_I413b.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.413b.svg"
+  },
+  {
+    "name": "Biển I.413c",
+    "description": "Rẽ ra đường có làn đường dành cho ô tô khách",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Vietnam_road_sign_I413c.svg/250px-Vietnam_road_sign_I413c.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Vietnam_road_sign_I413c.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.413c.svg"
+  },
+  {
+    "name": "Biển I.414a",
+    "description": "Chỉ hướng đường",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Vietnam_road_sign_I414a.svg/250px-Vietnam_road_sign_I414a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Vietnam_road_sign_I414a.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.414a.svg"
+  },
+  {
+    "name": "Biển I.414b",
+    "description": "Chỉ hướng đường",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Vietnam_road_sign_I414b.svg/250px-Vietnam_road_sign_I414b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Vietnam_road_sign_I414b.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.414b.svg"
+  },
+  {
+    "name": "Biển I.414c",
+    "description": "Chỉ hướng đường",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Vietnam_road_sign_I414c.svg/250px-Vietnam_road_sign_I414c.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Vietnam_road_sign_I414c.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.414c.svg"
+  },
+  {
+    "name": "Biển I.414d",
+    "description": "Chỉ hướng đường",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Vietnam_road_sign_I414d.svg/250px-Vietnam_road_sign_I414d.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Vietnam_road_sign_I414d.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.414d.svg"
+  },
+  {
+    "name": "Biển I.415",
+    "description": "Mũi tên chỉ hướng đi",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Vietnam_road_sign_I415.svg/250px-Vietnam_road_sign_I415.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Vietnam_road_sign_I415.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.415.svg"
+  },
+  {
+    "name": "Biển I.416",
+    "description": "Đường tránh",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Vietnam_road_sign_I416.svg/250px-Vietnam_road_sign_I416.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Vietnam_road_sign_I416.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.416.svg"
+  },
+  {
+    "name": "Biển I.417a",
+    "description": "Chỉ hướng đường phải đi cho từng loại xe",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Vietnam_road_sign_I417a.svg/250px-Vietnam_road_sign_I417a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Vietnam_road_sign_I417a.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.417a.svg"
+  },
+  {
+    "name": "Biển I.417b",
+    "description": "Chỉ hướng đường phải đi cho từng loại xe",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Vietnam_road_sign_I417b.svg/250px-Vietnam_road_sign_I417b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Vietnam_road_sign_I417b.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.417b.svg"
+  },
+  {
+    "name": "Biển I.417c",
+    "description": "Chỉ hướng đường phải đi cho từng loại xe",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Vietnam_road_sign_I417c.svg/250px-Vietnam_road_sign_I417c.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Vietnam_road_sign_I417c.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.417c.svg"
+  },
+  {
+    "name": "Biển I.418",
+    "description": "Lối đi ở những vị trí cấm rẽ",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Vietnam_road_sign_I418.svg/250px-Vietnam_road_sign_I418.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Vietnam_road_sign_I418.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.418.svg"
+  },
+  {
+    "name": "Biển I.419a",
+    "description": "Chỉ dẫn địa giới",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Vietnam_road_sign_I419a.svg/250px-Vietnam_road_sign_I419a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Vietnam_road_sign_I419a.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.419a.svg"
+  },
+  {
+    "name": "Biển I.419b",
+    "description": "Chỉ dẫn địa giới (song ngữ)",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Vietnam_road_sign_I419b.svg/250px-Vietnam_road_sign_I419b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Vietnam_road_sign_I419b.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.419b.svg"
+  },
+  {
+    "name": "Biển I.422a",
+    "description": "Di tích lịch sử",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Vietnam_road_sign_I422a.svg/250px-Vietnam_road_sign_I422a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Vietnam_road_sign_I422a.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.422a.svg"
+  },
+  {
+    "name": "Biển I.422b",
+    "description": "Di tích lịch sử (song ngữ)",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Vietnam_road_sign_I422b.svg/250px-Vietnam_road_sign_I422b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Vietnam_road_sign_I422b.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.422b.svg"
+  },
+  {
+    "name": "Biển I.423a",
+    "description": "Vị trí người đi bộ sang ngang bên trái",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Vietnam_road_sign_I423a.svg/250px-Vietnam_road_sign_I423a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Vietnam_road_sign_I423a.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.423a.svg"
+  },
+  {
+    "name": "Biển I.423b",
+    "description": "Vị trí người đi bộ sang ngang bên phải",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Vietnam_road_sign_I423b.svg/250px-Vietnam_road_sign_I423b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Vietnam_road_sign_I423b.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.423b.svg"
+  },
+  {
+    "name": "Biển I.423c",
+    "description": "Điểm bắt đầu đường đi bộ",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vietnam_road_sign_I423c.svg/250px-Vietnam_road_sign_I423c.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Vietnam_road_sign_I423c.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.423c.svg"
+  },
+  {
+    "name": "Biển I.424a",
+    "description": "Cầu vượt qua đường cho người đi bộ bên trái",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Vietnam_road_sign_I424a.svg/250px-Vietnam_road_sign_I424a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Vietnam_road_sign_I424a.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.424a.svg"
+  },
+  {
+    "name": "Biển I.424b",
+    "description": "Cầu vượt qua đường cho người đi bộ bên phải",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Vietnam_road_sign_I424b.svg/250px-Vietnam_road_sign_I424b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Vietnam_road_sign_I424b.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.424b.svg"
+  },
+  {
+    "name": "Biển I.424c",
+    "description": "Hầm chui qua đường cho người đi bộ bên trái",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Vietnam_road_sign_I424c.svg/250px-Vietnam_road_sign_I424c.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Vietnam_road_sign_I424c.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.424c.svg"
+  },
+  {
+    "name": "Biển I.424d",
+    "description": "Hầm chui qua đường cho người đi bộ bên phải",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Vietnam_road_sign_I424d.svg/250px-Vietnam_road_sign_I424d.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Vietnam_road_sign_I424d.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.424d.svg"
+  },
+  {
+    "name": "Biển I.425",
+    "description": "Bệnh viện",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Vietnam_road_sign_I425.svg/250px-Vietnam_road_sign_I425.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Vietnam_road_sign_I425.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.425.svg"
+  },
+  {
+    "name": "Biển I.426",
+    "description": "Trạm cấp cứu",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Vietnam_road_sign_I426.svg/250px-Vietnam_road_sign_I426.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Vietnam_road_sign_I426.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.426.svg"
+  },
+  {
+    "name": "Biển I.427a",
+    "description": "Trạm sửa chữa",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Vietnam_road_sign_I427a.svg/250px-Vietnam_road_sign_I427a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Vietnam_road_sign_I427a.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.427a.svg"
+  },
+  {
+    "name": "Biển I.427b",
+    "description": "Công trình kiểm soát tải trọng xe",
+    "image_url": null,
+    "image_full_url": null,
+    "gallery_index": 3
+  },
+  {
+    "name": "Biển I.428a",
+    "description": "Cửa hàng xăng dầu",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Vietnam_road_sign_I428.svg/250px-Vietnam_road_sign_I428.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Vietnam_road_sign_I428.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.428a.svg"
+  },
+  {
+    "name": "Biển I.428b",
+    "description": "Trạm nạp điện",
+    "image_url": null,
+    "image_full_url": null,
+    "gallery_index": 3
+  },
+  {
+    "name": "Biển I.428c",
+    "description": "Cửa hàng xăng dầu và trạm nạp điện",
+    "image_url": null,
+    "image_full_url": null,
+    "gallery_index": 3
+  },
+  {
+    "name": "Biển I.429",
+    "description": "Nơi rửa xe",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Vietnam_road_sign_I429.svg/250px-Vietnam_road_sign_I429.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Vietnam_road_sign_I429.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.429.svg"
+  },
+  {
+    "name": "Biển I.430",
+    "description": "Điện thoại",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Vietnam_road_sign_I430.svg/250px-Vietnam_road_sign_I430.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Vietnam_road_sign_I430.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.430.svg"
+  },
+  {
+    "name": "Biển I.431",
+    "description": "Trạm dừng nghỉ",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Vietnam_road_sign_I431.svg/250px-Vietnam_road_sign_I431.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Vietnam_road_sign_I431.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.431.svg"
+  },
+  {
+    "name": "Biển I.432",
+    "description": "Khách sạn",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Vietnam_road_sign_I432.svg/250px-Vietnam_road_sign_I432.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Vietnam_road_sign_I432.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.432.svg"
+  },
+  {
+    "name": "Biển I.433a",
+    "description": "Nơi nghỉ mát",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Vietnam_road_sign_I433a.svg/250px-Vietnam_road_sign_I433a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Vietnam_road_sign_I433a.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.433a.svg"
+  },
+  {
+    "name": "Biển I.433b",
+    "description": "Nơi cắm trại",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Vietnam_road_sign_I433b.svg/250px-Vietnam_road_sign_I433b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Vietnam_road_sign_I433b.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.433b.svg"
+  },
+  {
+    "name": "Biển I.433c",
+    "description": "Nơi dành cho nhà lưu động",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Vietnam_road_sign_I433c.svg/250px-Vietnam_road_sign_I433c.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Vietnam_road_sign_I433c.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.433c.svg"
+  },
+  {
+    "name": "Biển I.433d",
+    "description": "Nơi cắm trại và nhà lưu động",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Vietnam_road_sign_I433d.svg/250px-Vietnam_road_sign_I433d.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Vietnam_road_sign_I433d.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.433d.svg"
+  },
+  {
+    "name": "Biển I.433e",
+    "description": "Nhà trọ",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Vietnam_road_sign_I433e.svg/250px-Vietnam_road_sign_I433e.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Vietnam_road_sign_I433e.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.433e.svg"
+  },
+  {
+    "name": "Biển I.434a",
+    "description": "Bến xe buýt",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Vietnam_road_sign_I434a.svg/250px-Vietnam_road_sign_I434a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Vietnam_road_sign_I434a.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.434a.svg"
+  },
+  {
+    "name": "Biển I.434b",
+    "description": "Bến xe tải",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Vietnam_road_sign_I434b.svg/250px-Vietnam_road_sign_I434b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Vietnam_road_sign_I434b.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.434b.svg"
+  },
+  {
+    "name": "Biển I.435",
+    "description": "Bến xe điện",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Vietnam_road_sign_I435.svg/250px-Vietnam_road_sign_I435.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Vietnam_road_sign_I435.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.435.svg"
+  },
+  {
+    "name": "Biển I.436",
+    "description": "Trạm cảnh sát giao thông",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Vietnam_road_sign_I436.svg/250px-Vietnam_road_sign_I436.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Vietnam_road_sign_I436.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.436.svg"
+  },
+  {
+    "name": "Biển I.437",
+    "description": "Đường cao tốc",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Vietnam_road_sign_I437.svg/250px-Vietnam_road_sign_I437.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Vietnam_road_sign_I437.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.437.svg"
+  },
+  {
+    "name": "Biển I.439",
+    "description": "Tên cầu",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Vietnam_road_sign_I439.svg/250px-Vietnam_road_sign_I439.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Vietnam_road_sign_I439.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.439.svg"
+  },
+  {
+    "name": "Biển I.440",
+    "description": "Đường đang thi công",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Vietnam_road_sign_I440.svg/250px-Vietnam_road_sign_I440.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Vietnam_road_sign_I440.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.440.svg"
+  },
+  {
+    "name": "Biển I.441a",
+    "description": "Báo hiệu phía trước có công trường thi công",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Vietnam_road_sign_I441a.svg/250px-Vietnam_road_sign_I441a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Vietnam_road_sign_I441a.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.441a.svg"
+  },
+  {
+    "name": "Biển I.441b",
+    "description": "Báo hiệu phía trước có công trường thi công",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Vietnam_road_sign_I441b.svg/250px-Vietnam_road_sign_I441b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Vietnam_road_sign_I441b.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.441b.svg"
+  },
+  {
+    "name": "Biển I.441c",
+    "description": "Báo hiệu phía trước có công trường thi công",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Vietnam_road_sign_I441c.svg/250px-Vietnam_road_sign_I441c.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Vietnam_road_sign_I441c.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.441c.svg"
+  },
+  {
+    "name": "Biển I.442",
+    "description": "Chợ",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Vietnam_road_sign_I442.svg/250px-Vietnam_road_sign_I442.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Vietnam_road_sign_I442.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.442.svg"
+  },
+  {
+    "name": "Biển I.443",
+    "description": "Xe kéo rơ-moóc",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Vietnam_road_sign_I443.svg/250px-Vietnam_road_sign_I443.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Vietnam_road_sign_I443.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.443.svg"
+  },
+  {
+    "name": "Biển I.444a",
+    "description": "Biển chỉ dẫn hướng vào ga tàu",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Vietnam_road_sign_I444a.svg/250px-Vietnam_road_sign_I444a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Vietnam_road_sign_I444a.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.444a.svg"
+  },
+  {
+    "name": "Biển I.444b",
+    "description": "Biển chỉ dẫn hướng vào sân bay",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Vietnam_road_sign_I444b.svg/250px-Vietnam_road_sign_I444b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Vietnam_road_sign_I444b.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.444b.svg"
+  },
+  {
+    "name": "Biển I.444c",
+    "description": "Biển chỉ dẫn hướng vào bãi đậu xe",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Vietnam_road_sign_I444c.svg/250px-Vietnam_road_sign_I444c.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Vietnam_road_sign_I444c.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.444c.svg"
+  },
+  {
+    "name": "Biển I.444d",
+    "description": "Biển chỉ dẫn hướng vào bến xe khách đường dài",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Vietnam_road_sign_I444d.svg/250px-Vietnam_road_sign_I444d.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Vietnam_road_sign_I444d.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.444d.svg"
+  },
+  {
+    "name": "Biển I.444e",
+    "description": "Biển chỉ dẫn hướng vào trạm cấp cứu",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Vietnam_road_sign_I444e.svg/250px-Vietnam_road_sign_I444e.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Vietnam_road_sign_I444e.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.444e.svg"
+  },
+  {
+    "name": "Biển I.444f",
+    "description": "Biển chỉ dẫn hướng vào bến tàu khách",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Vietnam_road_sign_I444f.svg/250px-Vietnam_road_sign_I444f.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Vietnam_road_sign_I444f.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.444f.svg"
+  },
+  {
+    "name": "Biển I.444g",
+    "description": "Biển chỉ dẫn hướng vào khu danh thắng và du lịch",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vietnam_road_sign_I444g.svg/250px-Vietnam_road_sign_I444g.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Vietnam_road_sign_I444g.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.444g.svg"
+  },
+  {
+    "name": "Biển I.444h",
+    "description": "Biển chỉ dẫn hướng vào trạm xăng",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Vietnam_road_sign_I444h.svg/250px-Vietnam_road_sign_I444h.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Vietnam_road_sign_I444h.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.444h.svg"
+  },
+  {
+    "name": "Biển I.444i",
+    "description": "Biển chỉ dẫn hướng vào trạm rửa xe",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Vietnam_road_sign_I444i.svg/250px-Vietnam_road_sign_I444i.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Vietnam_road_sign_I444i.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.444i.svg"
+  },
+  {
+    "name": "Biển I.444j",
+    "description": "Biển chỉ dẫn hướng vào bến phà",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Vietnam_road_sign_I444j.svg/250px-Vietnam_road_sign_I444j.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Vietnam_road_sign_I444j.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.444j.svg"
+  },
+  {
+    "name": "Biển I.444k",
+    "description": "Biển chỉ dẫn hướng vào ga tàu điện ngầm",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Vietnam_road_sign_I444k.svg/250px-Vietnam_road_sign_I444k.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Vietnam_road_sign_I444k.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.444k.svg"
+  },
+  {
+    "name": "Biển I.444l",
+    "description": "Biển chỉ dẫn hướng vào khu vực dịch vụ cho khách đi đường",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Vietnam_road_sign_I444l.svg/250px-Vietnam_road_sign_I444l.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Vietnam_road_sign_I444l.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.444l.svg"
+  },
+  {
+    "name": "Biển I.444m",
+    "description": "Biển chỉ dẫn hướng vào trạm sửa chữa xe",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Vietnam_road_sign_I444m.svg/250px-Vietnam_road_sign_I444m.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Vietnam_road_sign_I444m.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.444m.svg"
+  },
+  {
+    "name": "Biển I.445a",
+    "description": "Đường trơn, chạy chậm",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Vietnam_road_sign_I445a.svg/250px-Vietnam_road_sign_I445a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Vietnam_road_sign_I445a.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.445a.svg"
+  },
+  {
+    "name": "Biển I.445b",
+    "description": "Đường dốc, chạy chậm",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Vietnam_road_sign_I445b.svg/250px-Vietnam_road_sign_I445b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Vietnam_road_sign_I445b.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.445b.svg"
+  },
+  {
+    "name": "Biển I.445c",
+    "description": "Đường nhiều sương mù",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Vietnam_road_sign_I445c.svg/250px-Vietnam_road_sign_I445c.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Vietnam_road_sign_I445c.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.445c.svg"
+  },
+  {
+    "name": "Biển I.445d",
+    "description": "Nền đường yếu",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Vietnam_road_sign_I445d.svg/250px-Vietnam_road_sign_I445d.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Vietnam_road_sign_I445d.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.445d.svg"
+  },
+  {
+    "name": "Biển I.445e",
+    "description": "Xe lớn đi sát về bên phải",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Vietnam_road_sign_I445e.svg/250px-Vietnam_road_sign_I445e.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Vietnam_road_sign_I445e.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.445e.svg"
+  },
+  {
+    "name": "Biển I.445f",
+    "description": "Chú ý gió ngang",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Vietnam_road_sign_I445f.svg/250px-Vietnam_road_sign_I445f.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Vietnam_road_sign_I445f.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.445f.svg"
+  },
+  {
+    "name": "Biển I.445g",
+    "description": "Đoạn đường hay xảy ra tai nạn",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Vietnam_road_sign_I445g.svg/250px-Vietnam_road_sign_I445g.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Vietnam_road_sign_I445g.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.445g.svg"
+  },
+  {
+    "name": "Biển I.445h",
+    "description": "Xuống dốc liên tục",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Vietnam_road_sign_I445h.svg/250px-Vietnam_road_sign_I445h.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Vietnam_road_sign_I445h.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.445h.svg"
+  },
+  {
+    "name": "Biển I.446",
+    "description": "Nơi đỗ xe dành cho người khuyết tật",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Vietnam_road_sign_I446.svg/250px-Vietnam_road_sign_I446.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Vietnam_road_sign_I446.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.446.svg"
+  },
+  {
+    "name": "Biển I.447a",
+    "description": "Biển báo cầu vượt liên thông",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Vietnam_road_sign_I447a.svg/250px-Vietnam_road_sign_I447a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Vietnam_road_sign_I447a.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.447a.svg"
+  },
+  {
+    "name": "Biển I.447b",
+    "description": "Biển báo cầu vượt liên thông",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Vietnam_road_sign_I447b.svg/250px-Vietnam_road_sign_I447b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Vietnam_road_sign_I447b.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.447b.svg"
+  },
+  {
+    "name": "Biển I.447c",
+    "description": "Biển báo cầu vượt liên thông",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Vietnam_road_sign_I447c.svg/250px-Vietnam_road_sign_I447c.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Vietnam_road_sign_I447c.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.447c.svg"
+  },
+  {
+    "name": "Biển I.447d",
+    "description": "Biển báo cầu vượt liên thông",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Vietnam_road_sign_I447d.svg/250px-Vietnam_road_sign_I447d.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Vietnam_road_sign_I447d.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.447d.svg"
+  },
+  {
+    "name": "Biển I.448",
+    "description": "Làn đường cứu nạn hay làn dừng xe khẩn cấp",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Vietnam_road_sign_I448.svg/250px-Vietnam_road_sign_I448.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Vietnam_road_sign_I448.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.448.svg"
+  },
+  {
+    "name": "Biển I.449",
+    "description": "Biển tên",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vietnam_road_sign_I449.svg/250px-Vietnam_road_sign_I449.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Vietnam_road_sign_I449.svg",
+    "gallery_index": 3,
+    "local_path": "traffic_signs_images\\Biển I.449.svg"
+  },
+  {
+    "name": "Biển IE.450a",
+    "description": "Khoảng cách đến nút giao với đường dẫn vào đường cao tốc",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Vietnam_road_sign_IE450a.svg/250px-Vietnam_road_sign_IE450a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Vietnam_road_sign_IE450a.svg",
+    "gallery_index": 4,
+    "local_path": "traffic_signs_images\\Biển IE.450a.svg"
+  },
+  {
+    "name": "Biển IE.450b",
+    "description": "Sơ đồ đến nút giao với đường dẫn vào đường cao tốc",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Vietnam_road_sign_IE450b.svg/250px-Vietnam_road_sign_IE450b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Vietnam_road_sign_IE450b.svg",
+    "gallery_index": 4,
+    "local_path": "traffic_signs_images\\Biển IE.450b.svg"
+  },
+  {
+    "name": "Biển IE.451a",
+    "description": "Khoảng cách đến lối vào đường cao tốc",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Vietnam_road_sign_IE451a.svg/250px-Vietnam_road_sign_IE451a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Vietnam_road_sign_IE451a.svg",
+    "gallery_index": 4,
+    "local_path": "traffic_signs_images\\Biển IE.451a.svg"
+  },
+  {
+    "name": "Biển IE.451b",
+    "description": "Lối vào đường cao tốc",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Vietnam_road_sign_IE451b.svg/250px-Vietnam_road_sign_IE451b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Vietnam_road_sign_IE451b.svg",
+    "gallery_index": 4,
+    "local_path": "traffic_signs_images\\Biển IE.451b.svg"
+  },
+  {
+    "name": "Biển IE.452",
+    "description": "Bắt đầu đường cao tốc",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Vietnam_road_sign_IE452.svg/250px-Vietnam_road_sign_IE452.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Vietnam_road_sign_IE452.svg",
+    "gallery_index": 4,
+    "local_path": "traffic_signs_images\\Biển IE.452.svg"
+  },
+  {
+    "name": "Biển IE.453a",
+    "description": "Khoảng cách đến điểm kết thúc đường cao tốc",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Vietnam_road_sign_IE453a.svg/250px-Vietnam_road_sign_IE453a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Vietnam_road_sign_IE453a.svg",
+    "gallery_index": 4,
+    "local_path": "traffic_signs_images\\Biển IE.453a.svg"
+  },
+  {
+    "name": "Biển IE.453b",
+    "description": "Điểm kết thúc đường cao tốc",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Vietnam_road_sign_IE453b.svg/250px-Vietnam_road_sign_IE453b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Vietnam_road_sign_IE453b.svg",
+    "gallery_index": 4,
+    "local_path": "traffic_signs_images\\Biển IE.453b.svg"
+  },
+  {
+    "name": "Biển IE.453c",
+    "description": "Hết đường cao tốc",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Vietnam_road_sign_IE453c.svg/250px-Vietnam_road_sign_IE453c.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Vietnam_road_sign_IE453c.svg",
+    "gallery_index": 4,
+    "local_path": "traffic_signs_images\\Biển IE.453c.svg"
+  },
+  {
+    "name": "Biển IE.454",
+    "description": "Khoảng cách đến lối ra phía trước",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Vietnam_road_sign_IE454.svg/250px-Vietnam_road_sign_IE454.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Vietnam_road_sign_IE454.svg",
+    "gallery_index": 4,
+    "local_path": "traffic_signs_images\\Biển IE.454.svg"
+  },
+  {
+    "name": "Biển IE.455",
+    "description": "Khoảng cách đến các lối ra tiếp theo",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Vietnam_road_sign_IE455.svg/250px-Vietnam_road_sign_IE455.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Vietnam_road_sign_IE455.svg",
+    "gallery_index": 4,
+    "local_path": "traffic_signs_images\\Biển IE.455.svg"
+  },
+  {
+    "name": "Biển IE.456a",
+    "description": "Khoảng cách đến trạm dừng nghỉ",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Vietnam_road_sign_IE456a.svg/250px-Vietnam_road_sign_IE456a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Vietnam_road_sign_IE456a.svg",
+    "gallery_index": 4,
+    "local_path": "traffic_signs_images\\Biển IE.456a.svg"
+  },
+  {
+    "name": "Biển IE.456b",
+    "description": "Hướng rẽ đến trạm dừng nghỉ",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Vietnam_road_sign_IE456b.svg/250px-Vietnam_road_sign_IE456b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Vietnam_road_sign_IE456b.svg",
+    "gallery_index": 4,
+    "local_path": "traffic_signs_images\\Biển IE.456b.svg"
+  },
+  {
+    "name": "Biển IE.456c",
+    "description": "Lối vào trạm dừng nghỉ",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Vietnam_road_sign_IE456c.svg/250px-Vietnam_road_sign_IE456c.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Vietnam_road_sign_IE456c.svg",
+    "gallery_index": 4,
+    "local_path": "traffic_signs_images\\Biển IE.456c.svg"
+  },
+  {
+    "name": "Biển IE.457a",
+    "description": "Khoảng cách đến nơi đỗ xe trong trạm dừng nghỉ",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Vietnam_road_sign_IE457a.svg/250px-Vietnam_road_sign_IE457a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Vietnam_road_sign_IE457a.svg",
+    "gallery_index": 4,
+    "local_path": "traffic_signs_images\\Biển IE.457a.svg"
+  },
+  {
+    "name": "Biển IE.457b",
+    "description": "Hướng rẽ đến vị trí bãi đỗ xe trong trạm dừng nghỉ",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Vietnam_road_sign_IE457b.svg/250px-Vietnam_road_sign_IE457b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Vietnam_road_sign_IE457b.svg",
+    "gallery_index": 4,
+    "local_path": "traffic_signs_images\\Biển IE.457b.svg"
+  },
+  {
+    "name": "Biển IE.458",
+    "description": "Khoảng cách đến các trạm dừng nghỉ tiếp theo",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Vietnam_road_sign_IE458.svg/250px-Vietnam_road_sign_IE458.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Vietnam_road_sign_IE458.svg",
+    "gallery_index": 4,
+    "local_path": "traffic_signs_images\\Biển IE.458.svg"
+  },
+  {
+    "name": "Biển IE.459a",
+    "description": "Khoảng cách đến khu tham quan, du lịch",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Vietnam_road_sign_IE459a.svg/250px-Vietnam_road_sign_IE459a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Vietnam_road_sign_IE459a.svg",
+    "gallery_index": 4,
+    "local_path": "traffic_signs_images\\Biển IE.459a.svg"
+  },
+  {
+    "name": "Biển IE.459b",
+    "description": "Hướng rẽ vào khu tham quan, du lịch",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Vietnam_road_sign_IE459b.svg/250px-Vietnam_road_sign_IE459b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Vietnam_road_sign_IE459b.svg",
+    "gallery_index": 4,
+    "local_path": "traffic_signs_images\\Biển IE.459b.svg"
+  },
+  {
+    "name": "Biển IE.460a",
+    "description": "Cột kilômét (một chữ số)",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Vietnam_road_sign_IE460a.svg/250px-Vietnam_road_sign_IE460a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Vietnam_road_sign_IE460a.svg",
+    "gallery_index": 4,
+    "local_path": "traffic_signs_images\\Biển IE.460a.svg"
+  },
+  {
+    "name": "Biển IE.460b",
+    "description": "Cột kilômét (hai chữ số)",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Vietnam_road_sign_IE460b.svg/120px-Vietnam_road_sign_IE460b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Vietnam_road_sign_IE460b.svg",
+    "gallery_index": 4,
+    "local_path": "traffic_signs_images\\Biển IE.460b.svg"
+  },
+  {
+    "name": "Biển IE.460c",
+    "description": "Cột kilômét (ba chữ số)",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Vietnam_road_sign_IE460c.svg/120px-Vietnam_road_sign_IE460c.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Vietnam_road_sign_IE460c.svg",
+    "gallery_index": 4,
+    "local_path": "traffic_signs_images\\Biển IE.460c.svg"
+  },
+  {
+    "name": "Biển IE.460d",
+    "description": "Cột kilômét (bốn chữ số)",
+    "image_url": null,
+    "image_full_url": null,
+    "gallery_index": 4
+  },
+  {
+    "name": "Biển IE.461a",
+    "description": "Khoảng cách đến khu dịch vụ công cộng, giải trí",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Vietnam_road_sign_IE461a.svg/250px-Vietnam_road_sign_IE461a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Vietnam_road_sign_IE461a.svg",
+    "gallery_index": 4,
+    "local_path": "traffic_signs_images\\Biển IE.461a.svg"
+  },
+  {
+    "name": "Biển IE.461b",
+    "description": "Hướng rẽ đến khu dịch vụ công cộng, giải trí",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Vietnam_road_sign_IE461b.svg/250px-Vietnam_road_sign_IE461b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Vietnam_road_sign_IE461b.svg",
+    "gallery_index": 4,
+    "local_path": "traffic_signs_images\\Biển IE.461b.svg"
+  },
+  {
+    "name": "Biển IE.461c",
+    "description": "Hướng rẽ vào khu dịch vụ công cộng",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Vietnam_road_sign_IE461c.svg/250px-Vietnam_road_sign_IE461c.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Vietnam_road_sign_IE461c.svg",
+    "gallery_index": 4,
+    "local_path": "traffic_signs_images\\Biển IE.461c.svg"
+  },
+  {
+    "name": "Biển IE.461d",
+    "description": "Hướng rẽ vào khu giải trí",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Vietnam_road_sign_IE461d.svg/250px-Vietnam_road_sign_IE461d.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Vietnam_road_sign_IE461d.svg",
+    "gallery_index": 4,
+    "local_path": "traffic_signs_images\\Biển IE.461d.svg"
+  },
+  {
+    "name": "Biển IE.462",
+    "description": "Tần số trên sóng radio",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Vietnam_road_sign_IE462.svg/250px-Vietnam_road_sign_IE462.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Vietnam_road_sign_IE462.svg",
+    "gallery_index": 4,
+    "local_path": "traffic_signs_images\\Biển IE.462.svg"
+  },
+  {
+    "name": "Biển IE.463a",
+    "description": "Khoảng cách đến công trình kiểm soát tải trọng xe",
+    "image_url": null,
+    "image_full_url": null,
+    "gallery_index": 4
+  },
+  {
+    "name": "Biển IE.463b",
+    "description": "Hướng rẽ vào nơi đặt công trình kiểm soát tải trọng xe",
+    "image_url": null,
+    "image_full_url": null,
+    "gallery_index": 4
+  },
+  {
+    "name": "Biển IE.463c",
+    "description": "Lối vào công trình kiểm soát tải trọng xe",
+    "image_url": null,
+    "image_full_url": null,
+    "gallery_index": 4
+  },
+  {
+    "name": "Biển IE.464a",
+    "description": "Lối ra một chiều",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Vietnam_road_sign_IE464a.svg/250px-Vietnam_road_sign_IE464a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Vietnam_road_sign_IE464a.svg",
+    "gallery_index": 4,
+    "local_path": "traffic_signs_images\\Biển IE.464a.svg"
+  },
+  {
+    "name": "Biển IE.464b",
+    "description": "Hướng ra",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Vietnam_road_sign_IE464b.svg/250px-Vietnam_road_sign_IE464b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Vietnam_road_sign_IE464b.svg",
+    "gallery_index": 4,
+    "local_path": "traffic_signs_images\\Biển IE.464b.svg"
+  },
+  {
+    "name": "Biển IE.465",
+    "description": "Địa điểm và khoảng cách",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Vietnam_road_sign_IE465.svg/250px-Vietnam_road_sign_IE465.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Vietnam_road_sign_IE465.svg",
+    "gallery_index": 4,
+    "local_path": "traffic_signs_images\\Biển IE.465.svg"
+  },
+  {
+    "name": "Biển IE.466",
+    "description": "Sơ đồ lối ra một chiều",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Vietnam_road_sign_IE466.svg/250px-Vietnam_road_sign_IE466.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Vietnam_road_sign_IE466.svg",
+    "gallery_index": 4,
+    "local_path": "traffic_signs_images\\Biển IE.466.svg"
+  },
+  {
+    "name": "Biển IE.467a",
+    "description": "Khoảng cách đến vị trí nhập làn xe",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Vietnam_road_sign_IE467a.svg/250px-Vietnam_road_sign_IE467a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Vietnam_road_sign_IE467a.svg",
+    "gallery_index": 4,
+    "local_path": "traffic_signs_images\\Biển IE.467a.svg"
+  },
+  {
+    "name": "Biển IE.467b",
+    "description": "Vị trí nhập làn xe",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Vietnam_road_sign_IE467b.svg/250px-Vietnam_road_sign_IE467b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Vietnam_road_sign_IE467b.svg",
+    "gallery_index": 4,
+    "local_path": "traffic_signs_images\\Biển IE.467b.svg"
+  },
+  {
+    "name": "Biển IE.468a",
+    "description": "Chướng ngại vật phía trước – đi theo hướng bên trái",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Vietnam_road_sign_IE468a.svg/120px-Vietnam_road_sign_IE468a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Vietnam_road_sign_IE468a.svg",
+    "gallery_index": 4,
+    "local_path": "traffic_signs_images\\Biển IE.468a.svg"
+  },
+  {
+    "name": "Biển IE.468b",
+    "description": "Chướng ngại vật phía trước – đi được cả hai hướng",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Vietnam_road_sign_IE468b.svg/120px-Vietnam_road_sign_IE468b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Vietnam_road_sign_IE468b.svg",
+    "gallery_index": 4,
+    "local_path": "traffic_signs_images\\Biển IE.468b.svg"
+  },
+  {
+    "name": "Biển IE.468c",
+    "description": "Chướng ngại vật phía trước – đi theo hướng bên phải",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Vietnam_road_sign_IE468c.svg/120px-Vietnam_road_sign_IE468c.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Vietnam_road_sign_IE468c.svg",
+    "gallery_index": 4,
+    "local_path": "traffic_signs_images\\Biển IE.468c.svg"
+  },
+  {
+    "name": "Biển IE.469a",
+    "description": "Tiêu phản quang – hướng rẽ phải",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Vietnam_road_sign_IE469a.svg/250px-Vietnam_road_sign_IE469a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Vietnam_road_sign_IE469a.svg",
+    "gallery_index": 4,
+    "local_path": "traffic_signs_images\\Biển IE.469a.svg"
+  },
+  {
+    "name": "Biển IE.469b",
+    "description": "Tiêu phản quang – hướng rẽ trái",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Vietnam_road_sign_IE469b.svg/250px-Vietnam_road_sign_IE469b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Vietnam_road_sign_IE469b.svg",
+    "gallery_index": 4,
+    "local_path": "traffic_signs_images\\Biển IE.469b.svg"
+  },
+  {
+    "name": "Biển IE.470",
+    "description": "Số điện thoại khẩn cấp",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Vietnam_road_sign_IE470.svg/250px-Vietnam_road_sign_IE470.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Vietnam_road_sign_IE470.svg",
+    "gallery_index": 4,
+    "local_path": "traffic_signs_images\\Biển IE.470.svg"
+  },
+  {
+    "name": "Biển IE.471",
+    "description": "Giữ khoảng cách lái xe an toàn",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Vietnam_road_sign_IE471.svg/250px-Vietnam_road_sign_IE471.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Vietnam_road_sign_IE471.svg",
+    "gallery_index": 4,
+    "local_path": "traffic_signs_images\\Biển IE.471.svg"
+  },
+  {
+    "name": "Biển IE.472a",
+    "description": "Khoảng cách đến trạm thu phí",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Vietnam_road_sign_IE472a.svg/250px-Vietnam_road_sign_IE472a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Vietnam_road_sign_IE472a.svg",
+    "gallery_index": 4,
+    "local_path": "traffic_signs_images\\Biển IE.472a.svg"
+  },
+  {
+    "name": "Biển IE.472b",
+    "description": "Trạm thu phí",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Vietnam_road_sign_IE472b.svg/250px-Vietnam_road_sign_IE472b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Vietnam_road_sign_IE472b.svg",
+    "gallery_index": 4,
+    "local_path": "traffic_signs_images\\Biển IE.472b.svg"
+  },
+  {
+    "name": "Biển IE.472c",
+    "description": "Thu phí không dừng",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Vietnam_road_sign_IE472c.svg/250px-Vietnam_road_sign_IE472c.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Vietnam_road_sign_IE472c.svg",
+    "gallery_index": 4,
+    "local_path": "traffic_signs_images\\Biển IE.472c.svg"
+  },
+  {
+    "name": "Biển IE.472d",
+    "description": "Rút thẻ",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Vietnam_road_sign_IE472d.svg/250px-Vietnam_road_sign_IE472d.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Vietnam_road_sign_IE472d.svg",
+    "gallery_index": 4,
+    "local_path": "traffic_signs_images\\Biển IE.472d.svg"
+  },
+  {
+    "name": "Biển IE.472e",
+    "description": "Thu phí",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Vietnam_road_sign_IE472e.svg/250px-Vietnam_road_sign_IE472e.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Vietnam_road_sign_IE472e.svg",
+    "gallery_index": 4,
+    "local_path": "traffic_signs_images\\Biển IE.472e.svg"
+  },
+  {
+    "name": "Biển IE.473",
+    "description": "Giảm tốc độ",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Vietnam_road_sign_IE473.svg/250px-Vietnam_road_sign_IE473.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Vietnam_road_sign_IE473.svg",
+    "gallery_index": 4,
+    "local_path": "traffic_signs_images\\Biển IE.473.svg"
+  },
+  {
+    "name": "Biển IE.474",
+    "description": "Lối ra đường cao tốc",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Vietnam_road_sign_IE474.svg/250px-Vietnam_road_sign_IE474.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Vietnam_road_sign_IE474.svg",
+    "gallery_index": 4,
+    "local_path": "traffic_signs_images\\Biển IE.474.svg"
+  },
+  {
+    "name": "",
+    "description": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/DaiDungXeKhanCap500m.svg/250px-DaiDungXeKhanCap500m.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/DaiDungXeKhanCap500m.svg",
+    "gallery_index": 5,
+    "local_path": "traffic_signs_images\\sign_351.svg"
+  },
+  {
+    "name": "Biển S.501",
+    "description": "Phạm vi tác dụng của biển",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vietnam_road_sign_S501.svg/250px-Vietnam_road_sign_S501.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Vietnam_road_sign_S501.svg",
+    "gallery_index": 6,
+    "local_path": "traffic_signs_images\\Biển S.501.svg"
+  },
+  {
+    "name": "Biển S.502",
+    "description": "Khoảng cách đến đối tượng báo hiệu",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Vietnam_road_sign_S502.svg/250px-Vietnam_road_sign_S502.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Vietnam_road_sign_S502.svg",
+    "gallery_index": 6,
+    "local_path": "traffic_signs_images\\Biển S.502.svg"
+  },
+  {
+    "name": "Biển S.503a",
+    "description": "Hướng tác dụng của biển",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Vietnam_road_sign_S503a.svg/250px-Vietnam_road_sign_S503a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Vietnam_road_sign_S503a.svg",
+    "gallery_index": 6,
+    "local_path": "traffic_signs_images\\Biển S.503a.svg"
+  },
+  {
+    "name": "Biển S.503b",
+    "description": "Hướng tác dụng của biển",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Vietnam_road_sign_S503b.svg/250px-Vietnam_road_sign_S503b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Vietnam_road_sign_S503b.svg",
+    "gallery_index": 6,
+    "local_path": "traffic_signs_images\\Biển S.503b.svg"
+  },
+  {
+    "name": "Biển S.503c",
+    "description": "Hướng tác dụng của biển",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Vietnam_road_sign_S503c.svg/250px-Vietnam_road_sign_S503c.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Vietnam_road_sign_S503c.svg",
+    "gallery_index": 6,
+    "local_path": "traffic_signs_images\\Biển S.503c.svg"
+  },
+  {
+    "name": "Biển S.503d",
+    "description": "Hướng tác dụng của biển",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Vietnam_road_sign_S503d.svg/120px-Vietnam_road_sign_S503d.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Vietnam_road_sign_S503d.svg",
+    "gallery_index": 6,
+    "local_path": "traffic_signs_images\\Biển S.503d.svg"
+  },
+  {
+    "name": "Biển S.503e",
+    "description": "Hướng tác dụng của biển",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Vietnam_road_sign_S503e.svg/120px-Vietnam_road_sign_S503e.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Vietnam_road_sign_S503e.svg",
+    "gallery_index": 6,
+    "local_path": "traffic_signs_images\\Biển S.503e.svg"
+  },
+  {
+    "name": "Biển S.503f",
+    "description": "Hướng tác dụng của biển",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Vietnam_road_sign_S503f.svg/120px-Vietnam_road_sign_S503f.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Vietnam_road_sign_S503f.svg",
+    "gallery_index": 6,
+    "local_path": "traffic_signs_images\\Biển S.503f.svg"
+  },
+  {
+    "name": "Biển S.504",
+    "description": "Làn đường",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Vietnam_road_sign_S504.svg/250px-Vietnam_road_sign_S504.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Vietnam_road_sign_S504.svg",
+    "gallery_index": 6,
+    "local_path": "traffic_signs_images\\Biển S.504.svg"
+  },
+  {
+    "name": "Biển S.505a",
+    "description": "Loại xe",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Vietnam_road_sign_S505a.svg/250px-Vietnam_road_sign_S505a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Vietnam_road_sign_S505a.svg",
+    "gallery_index": 6,
+    "local_path": "traffic_signs_images\\Biển S.505a.svg"
+  },
+  {
+    "name": "Biển S.505b",
+    "description": "Loại xe hạn chế qua cầu",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Vietnam_road_sign_S505b.svg/250px-Vietnam_road_sign_S505b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Vietnam_road_sign_S505b.svg",
+    "gallery_index": 6,
+    "local_path": "traffic_signs_images\\Biển S.505b.svg"
+  },
+  {
+    "name": "Biển S.505c",
+    "description": "Tải trọng trục hạn chế qua cầu",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Vietnam_road_sign_S505c.svg/250px-Vietnam_road_sign_S505c.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Vietnam_road_sign_S505c.svg",
+    "gallery_index": 6,
+    "local_path": "traffic_signs_images\\Biển S.505c.svg"
+  },
+  {
+    "name": "Biển S.506a",
+    "description": "Hướng đường ưu tiên",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Vietnam_road_sign_S506a.svg/250px-Vietnam_road_sign_S506a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Vietnam_road_sign_S506a.svg",
+    "gallery_index": 6,
+    "local_path": "traffic_signs_images\\Biển S.506a.svg"
+  },
+  {
+    "name": "Biển S.506b",
+    "description": "Hướng đường ưu tiên",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Vietnam_road_sign_S506b.svg/250px-Vietnam_road_sign_S506b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Vietnam_road_sign_S506b.svg",
+    "gallery_index": 6,
+    "local_path": "traffic_signs_images\\Biển S.506b.svg"
+  },
+  {
+    "name": "Biển S.507",
+    "description": "Hướng rẽ",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Vietnam_road_sign_S507.svg/250px-Vietnam_road_sign_S507.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Vietnam_road_sign_S507.svg",
+    "gallery_index": 6,
+    "local_path": "traffic_signs_images\\Biển S.507.svg"
+  },
+  {
+    "name": "Biển S.508a",
+    "description": "Biểu thị thời gian",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Vietnam_road_sign_S508a.svg/250px-Vietnam_road_sign_S508a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Vietnam_road_sign_S508a.svg",
+    "gallery_index": 6,
+    "local_path": "traffic_signs_images\\Biển S.508a.svg"
+  },
+  {
+    "name": "Biển S.508b",
+    "description": "Biểu thị thời gian",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Vietnam_road_sign_S508b.svg/250px-Vietnam_road_sign_S508b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Vietnam_road_sign_S508b.svg",
+    "gallery_index": 6,
+    "local_path": "traffic_signs_images\\Biển S.508b.svg"
+  },
+  {
+    "name": "Biển S.509a",
+    "description": "Thuyết minh biển chính – Chiều cao an toàn (đặt dưới biển W.239)",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Vietnam_road_sign_S509a.svg/250px-Vietnam_road_sign_S509a.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Vietnam_road_sign_S509a.svg",
+    "gallery_index": 6,
+    "local_path": "traffic_signs_images\\Biển S.509a.svg"
+  },
+  {
+    "name": "Biển S.509b",
+    "description": "Thuyết minh biển chính – Cấm đỗ xe (đặt dưới biển P.130, P.131 (a,b,c))",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Vietnam_road_sign_S509b.svg/250px-Vietnam_road_sign_S509b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Vietnam_road_sign_S509b.svg",
+    "gallery_index": 6,
+    "local_path": "traffic_signs_images\\Biển S.509b.svg"
+  },
+  {
+    "name": "Biển S.510a",
+    "description": "Chú ý đường trơn có băng tuyết",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Vietnam_road_sign_S510.svg/250px-Vietnam_road_sign_S510.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Vietnam_road_sign_S510.svg",
+    "gallery_index": 6,
+    "local_path": "traffic_signs_images\\Biển S.510a.svg"
+  },
+  {
+    "name": "Biển S.510b",
+    "description": "Chú ý đường sắt",
+    "image_url": null,
+    "image_full_url": null,
+    "gallery_index": 6
+  },
+  {
+    "name": "Biển S.G,7",
+    "description": "Địa điểm cắm trại",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Vietnam_road_sign_SG7.svg/250px-Vietnam_road_sign_SG7.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Vietnam_road_sign_SG7.svg",
+    "gallery_index": 6,
+    "local_path": "traffic_signs_images\\Biển S.G,7.svg"
+  },
+  {
+    "name": "Biển S.G,8",
+    "description": "Địa điểm nhà trọ",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Vietnam_road_sign_SG8.svg/250px-Vietnam_road_sign_SG8.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Vietnam_road_sign_SG8.svg",
+    "gallery_index": 6,
+    "local_path": "traffic_signs_images\\Biển S.G,8.svg"
+  },
+  {
+    "name": "Biển S.G,9b",
+    "description": "Chỉ dẫn tới điểm đỗ xe dành cho lái xe muốn sử dụng phương tiện công cộng",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Vietnam_road_sign_SG9b.png/250px-Vietnam_road_sign_SG9b.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Vietnam_road_sign_SG9b.png",
+    "gallery_index": 6,
+    "local_path": "traffic_signs_images\\Biển S.G,9b.png"
+  },
+  {
+    "name": "Vạch 6.1",
+    "description": "Vạch cấm đỗ xe trên đường (sơn vàng trên bó vỉa hoặc mặt đường)",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vietnam_road_surface_marking_6.1.jpg/250px-Vietnam_road_surface_marking_6.1.jpg",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Vietnam_road_surface_marking_6.1.jpg",
+    "gallery_index": 7,
+    "local_path": "traffic_signs_images\\Vạch 6.1.jpg"
+  },
+  {
+    "name": "Vạch 7.3",
+    "description": "Vạch đi bộ qua đường – Mẫu 1.a. Dạng vuông góc",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Vietnam_road_surface_marking_7.3.1.a.png/250px-Vietnam_road_surface_marking_7.3.1.a.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Vietnam_road_surface_marking_7.3.1.a.png",
+    "gallery_index": 7,
+    "local_path": "traffic_signs_images\\Vạch 7.3.png"
+  },
+  {
+    "name": "Vạch 7.4",
+    "description": "Vạch xe đạp qua đường",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vietnam_road_surface_marking_7.4.png/250px-Vietnam_road_surface_marking_7.4.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Vietnam_road_surface_marking_7.4.png",
+    "gallery_index": 7,
+    "local_path": "traffic_signs_images\\Vạch 7.4.png"
+  },
+  {
+    "name": "Biển P.125",
+    "description": "Cấm vượt",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Vietnam_road_sign_P.125_%28QCVN_41-2016-BGTVT%29.svg/250px-Vietnam_road_sign_P.125_%28QCVN_41-2016-BGTVT%29.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Vietnam_road_sign_P.125_%28QCVN_41-2016-BGTVT%29.svg",
+    "gallery_index": 8,
+    "local_path": "traffic_signs_images\\Biển P.125.svg"
+  },
+  {
+    "name": "Biển P.126",
+    "description": "Cấm ô tô tải vượt",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Vietnam_road_sign_P.126_%28QCVN_41-2016-BGTVT%29.svg/250px-Vietnam_road_sign_P.126_%28QCVN_41-2016-BGTVT%29.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Vietnam_road_sign_P.126_%28QCVN_41-2016-BGTVT%29.svg",
+    "gallery_index": 8,
+    "local_path": "traffic_signs_images\\Biển P.126.svg"
+  },
+  {
+    "name": "Biển W.211b",
+    "description": "Giao nhau với đường",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Vietnam_road_sign_W211b.svg/250px-Vietnam_road_sign_W211b.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Vietnam_road_sign_W211b.svg",
+    "gallery_index": 8,
+    "local_path": "traffic_signs_images\\Biển W.211b.svg"
+  },
+  {
+    "name": "Biển DP.133",
+    "description": "Hết cấm vượt",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Vietnam_road_sign_P.133_%28QCVN_41-2016-BGTVT%29.svg/250px-Vietnam_road_sign_P.133_%28QCVN_41-2016-BGTVT%29.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Vietnam_road_sign_P.133_%28QCVN_41-2016-BGTVT%29.svg",
+    "gallery_index": 8,
+    "local_path": "traffic_signs_images\\Biển DP.133.svg"
+  },
+  {
+    "name": "Biển DP.134",
+    "description": "Hết hạn chế tốc độ tối đa",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Vietnam_road_sign_P.134_%28QCVN_41-2016-BGTVT%29.svg/250px-Vietnam_road_sign_P.134_%28QCVN_41-2016-BGTVT%29.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Vietnam_road_sign_P.134_%28QCVN_41-2016-BGTVT%29.svg",
+    "gallery_index": 8,
+    "local_path": "traffic_signs_images\\Biển DP.134.svg"
+  },
+  {
+    "name": "Biển I.427b",
+    "description": "Trạm kiểm tra tải trọng xe",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Vietnam_road_sign_I.427b_%28QCVN_41-2016-BGTVT%29.svg/250px-Vietnam_road_sign_I.427b_%28QCVN_41-2016-BGTVT%29.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Vietnam_road_sign_I.427b_%28QCVN_41-2016-BGTVT%29.svg",
+    "gallery_index": 8,
+    "local_path": "traffic_signs_images\\Biển I.427b.svg"
+  },
+  {
+    "name": "Biển IE.463a",
+    "description": "Khoảng cách đến trạm kiểm tra tải trọng xe",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Vietnam_road_sign_IE.463a_%28QCVN_41-2016-BGTVT%29.svg/250px-Vietnam_road_sign_IE.463a_%28QCVN_41-2016-BGTVT%29.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Vietnam_road_sign_IE.463a_%28QCVN_41-2016-BGTVT%29.svg",
+    "gallery_index": 8,
+    "local_path": "traffic_signs_images\\Biển IE.463a.svg"
+  },
+  {
+    "name": "Biển IE.463b",
+    "description": "Hướng rẽ vào nơi đặt trạm kiểm tra tải trọng xe",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Vietnam_road_sign_IE.463b_%28QCVN_41-2016-BGTVT%29.svg/250px-Vietnam_road_sign_IE.463b_%28QCVN_41-2016-BGTVT%29.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Vietnam_road_sign_IE.463b_%28QCVN_41-2016-BGTVT%29.svg",
+    "gallery_index": 8,
+    "local_path": "traffic_signs_images\\Biển IE.463b.svg"
+  },
+  {
+    "name": "Biển IE.463c",
+    "description": "Lối vào trạm kiểm tra tải trọng xe",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Vietnam_road_sign_IE.463c_%28QCVN_41-2016-BGTVT%29.svg/250px-Vietnam_road_sign_IE.463c_%28QCVN_41-2016-BGTVT%29.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Vietnam_road_sign_IE.463c_%28QCVN_41-2016-BGTVT%29.svg",
+    "gallery_index": 8,
+    "local_path": "traffic_signs_images\\Biển IE.463c.svg"
+  },
+  {
+    "name": "Biển 439",
+    "description": "Tốc độ cho phép chạy trên đường cao tốc  (2001)",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bien_bao_Toc_do_tren_duong_cao_toc.jpg/166px-Bien_bao_Toc_do_tren_duong_cao_toc.jpg",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Bien_bao_Toc_do_tren_duong_cao_toc.jpg",
+    "gallery_index": 9,
+    "local_path": "traffic_signs_images\\Biển 439.jpg"
+  },
+  {
+    "name": "",
+    "description": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/South_Vietnam_STOP_sign.svg/250px-South_Vietnam_STOP_sign.svg.png",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/South_Vietnam_STOP_sign.svg",
+    "gallery_index": 10,
+    "local_path": "traffic_signs_images\\sign_389.svg"
+  },
+  {
+    "name": "",
+    "description": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/H%C3%ACnh0389.jpg/250px-H%C3%ACnh0389.jpg",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/H%C3%ACnh0389.jpg",
+    "gallery_index": 11,
+    "local_path": "traffic_signs_images\\sign_390.jpg"
+  },
+  {
+    "name": "",
+    "description": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Road_signs_and_cables_%2838714295400%29.jpg/250px-Road_signs_and_cables_%2838714295400%29.jpg",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Road_signs_and_cables_%2838714295400%29.jpg",
+    "gallery_index": 11,
+    "local_path": "traffic_signs_images\\sign_391.jpg"
+  },
+  {
+    "name": "",
+    "description": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Road_going_up_the_Son_Tra_Mountain.jpg/250px-Road_going_up_the_Son_Tra_Mountain.jpg",
+    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Road_going_up_the_Son_Tra_Mountain.jpg",
+    "gallery_index": 11,
+    "local_path": "traffic_signs_images\\sign_392.jpg"
+  }
+]

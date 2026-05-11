@@ -1,5 +1,5 @@
 """
-Module: pipeline.py
+Module: pipeline_executor.py
 Purpose: Integrated pipeline to process legal documents end-to-end:
 1. Parse hierarchical structure (Chapter > Article > Clause > Point)
 2. Extract metadata (vehicle_type, penalties, references, etc.)
@@ -13,8 +13,9 @@ from pathlib import Path
 from typing import List, Dict, Any, Optional
 
 # Import local modules
-from parser import parse_law_document, articles_to_chunks_with_context, Article
-from metadata_extractor import MetadataExtractor
+from .parser import parse_law_document, Article
+from .chunker import articles_to_chunks_with_context
+from .metadata_extractor import MetadataExtractor
 
 
 class DocumentProcessingPipeline:
@@ -74,7 +75,7 @@ class DocumentProcessingPipeline:
                 # Build final chunk with flat structure
                 final_chunk = {
                     'id': chunk['id'],
-                    'text_for_embedding': chunk['text_context_hoisted'],  # Use hoisted context for embedding
+                    'text_for_embedding': chunk['text_for_embedding'],  # Use hoisted context for embedding
                     'text_original': chunk['text_original'],  # Keep original for reference
                     'metadata': {
                         'law_source': self.law_source,

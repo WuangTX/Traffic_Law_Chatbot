@@ -1,0 +1,3140 @@
+{
+  "signs": [
+    {
+      "name": "Biển P.101",
+      "description": "Đường cấm",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.101.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.102",
+      "description": "Cấm đi ngược chiều",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.102.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.103a",
+      "description": "Cấm xe ô tô",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.103a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.103b",
+      "description": "Cấm xe ô tô rẽ phải",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.103b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.103c",
+      "description": "Cấm xe ô tô rẽ trái",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.103c.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.104",
+      "description": "Cấm xe máy",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.104.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.105",
+      "description": "Cấm xe ô tô và xe máy",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.105.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.106a",
+      "description": "Cấm xe ô tô tải",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.106a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.106b",
+      "description": "Cấm ô tô tải có khối lượng chuyên chở lớn hơn giới hạn",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.106b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.106c",
+      "description": "Cấm các xe chở hàng nguy hiểm",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.106c.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.107",
+      "description": "Cấm xe ô tô khách và xe ô tô tải (cấm luôn cả máy kéo và xe máy chuyên dùng)",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.107.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.107a",
+      "description": "Cấm xe ô tô khách",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.107a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.107b",
+      "description": "Cấm xe ô tô taxi",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.107b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.108",
+      "description": "Cấm xe kéo rơ-moóc",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.108.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.108a",
+      "description": "Cấm xe sơ-mi rơ-moóc",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.108a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.109",
+      "description": "Cấm máy kéo",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.109.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.110a",
+      "description": "Cấm xe đạp",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.110a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.110b",
+      "description": "Cấm xe đạp thồ",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.110b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.111a",
+      "description": "Cấm xe gắn máy",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.111a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.111b",
+      "description": "Cấm ba bánh loại có động cơ (hình xe lam)",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.111b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.111c",
+      "description": "Cấm xe ba bánh loại có động cơ (hình xe xích lô máy)",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.111c.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.111d",
+      "description": "Cấm xe ba bánh loai không có động cơ",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.111d.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.112",
+      "description": "Cấm người đi bộ",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.112.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.113",
+      "description": "Cấm xe người kéo, đẩy",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.113.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.114",
+      "description": "Cấm xe vật nuôi kéo",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.114.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.115",
+      "description": "Hạn chế trọng tải toàn bộ xe",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.115.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.116",
+      "description": "Hạn chế tải trọng trên trục xe",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.116.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.117",
+      "description": "Hạn chế chiều cao",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.117.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.118",
+      "description": "Hạn chế chiều ngang",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.118.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.119",
+      "description": "Hạn chế chiều dài xe",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.119.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.120",
+      "description": "Hạn chế chiều dài xe cơ giới kéo theo rơ-moóc hoặc sơ-mi rơ-moóc",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.120.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.121",
+      "description": "Cự ly tối thiểu giữa hai xe  (Lưu ý: Có thể kèm theo biển S.501)",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.121.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.123a",
+      "description": "Cấm rẽ trái (không cấm quay đầu xe)",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.123a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.123b",
+      "description": "Cấm rẽ phải",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.123b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.124a1",
+      "description": "Cấm quay đầu xe (được rẽ trái)",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.124a1.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.124a2",
+      "description": "Cấm quay đầu xe (được rẽ phải)",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.124a2.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.124b1",
+      "description": "Cấm ô tô quay đầu xe (được rẽ trái)",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.124b1.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.124b2",
+      "description": "Cấm ô tô quay đầu xe (được rẽ phải)",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.124b2.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.124c",
+      "description": "Cấm rẽ trái và quay đầu xe",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.124c.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.124d",
+      "description": "Cấm rẽ phải và quay đầu xe",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.124d.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.124e",
+      "description": "Cấm ô tô rẽ trái và quay đầu xe",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.124e.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.124f",
+      "description": "Cấm ô tô rẽ phải và quay đầu xe",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.124f.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.125",
+      "description": "Cấm vượt",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.125.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.126",
+      "description": "Cấm xe ô tô tải vượt",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.126.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.127",
+      "description": "Tốc độ tối đa cho phép",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.127.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.127a",
+      "description": "Tốc độ tối đa cho phép về ban đêm (hiệu lực được tính từ nơi đặt biển sau khi đặt biển R.420:",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.127a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.127b",
+      "description": "Giới hạn tốc độ theo làn đường",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.127b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.127c",
+      "description": "Giới hạn tốc độ theo phương tiện trên từng làn đường",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.127c.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển DP.127a",
+      "description": "Hết hạn chế tốc độ tối đa cho phép theo phương tiện trên từng làn đường",
+      "category": "DP",
+      "category_name": "Biển phụ",
+      "image_path": "data/images/traffic_signs_images/Biển DP.127a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển DP.127b",
+      "description": "Hết hạn chế tốc độ tối đa cho phép theo làn đường",
+      "category": "DP",
+      "category_name": "Biển phụ",
+      "image_path": "data/images/traffic_signs_images/Biển DP.127b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển DP.127c",
+      "description": "Hết hạn chế tốc độ tối đa cho phép theo phương tiện trên từng làn đường",
+      "category": "DP",
+      "category_name": "Biển phụ",
+      "image_path": "data/images/traffic_signs_images/Biển DP.127c.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.128",
+      "description": "Cấm sử dụng còi  (Lưu ý: Có thể kèm theo biển S.501)",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.128.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.129",
+      "description": "Kiểm tra",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.129.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.130",
+      "description": "Cấm dừng xe và đỗ xe  (Lưu ý: Có thể kèm theo biển S.501)",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.130.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.131a",
+      "description": "Cấm đỗ xe  (Lưu ý: Có thể kèm theo biển S.501)",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.131a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.131b",
+      "description": "Cấm đỗ xe ngày lẻ",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.131b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.131c",
+      "description": "Cấm đỗ xe ngày chẵn",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.131c.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.132",
+      "description": "Nhường đường cho xe cơ giới đi ngược chiều qua đường hẹp",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.132.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển DP.133",
+      "description": "Hết cấm vượt",
+      "category": "DP",
+      "category_name": "Biển phụ",
+      "image_path": "data/images/traffic_signs_images/Biển DP.133.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển DP.134",
+      "description": "Hết hạn chế tốc độ tối đa",
+      "category": "DP",
+      "category_name": "Biển phụ",
+      "image_path": "data/images/traffic_signs_images/Biển DP.134.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển DP.135",
+      "description": "Hết tất cả các lệnh cấm",
+      "category": "DP",
+      "category_name": "Biển phụ",
+      "image_path": "data/images/traffic_signs_images/Biển DP.135.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.136",
+      "description": "Cấm đi thẳng",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.136.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.137",
+      "description": "Cấm rẽ trái và rẽ phải",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.137.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.138",
+      "description": "Cấm đi thẳng và rẽ trái",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.138.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.139",
+      "description": "Cấm đi thẳng và rẽ phải",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.139.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.140",
+      "description": "Cấm xe công nông và các loại xe tương tự",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.140.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.201a",
+      "description": "Chỗ ngoặt nguy hiểm vòng bên trái",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.201a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.201b",
+      "description": "Chỗ ngoặt nguy hiểm vòng bên phải",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.201b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.201c",
+      "description": "Chỗ ngoặt nguy hiểm có nguy cơ lật xe bên phải (đường cong vòng sang trái)",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.201c.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.201d",
+      "description": "Chỗ ngoặt nguy hiểm có nguy cơ lật xe bên trái (đường cong vòng sang phải)",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.201d.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.202a",
+      "description": "Nhiều chỗ ngoặt nguy hiểm liên tiếp, chỗ đầu tiên sang trái  (Lưu ý: Có thể kèm theo biển S.501)",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.202a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.202b",
+      "description": "Nhiều chỗ ngoặt nguy hiểm liên tiếp, chỗ đầu tiên sang phải  (Lưu ý: Có thể kèm theo biển S.501)",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.202b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.203a",
+      "description": "Đường bị thu hẹp cả hai bên",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.203a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.203b",
+      "description": "Đường bị thu hẹp bên trái",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.203b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.203c",
+      "description": "Đường bị thu hẹp bên phải",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.203c.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.204",
+      "description": "Đường hai chiều",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.204.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.205a",
+      "description": "Đường giao nhau (ngã tư)",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.205a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.205b",
+      "description": "Đường giao nhau (ngã ba bên trái)",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.205b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.205c",
+      "description": "Đường giao nhau (ngã ba bên phải)",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.205c.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.205d",
+      "description": "Đường giao nhau (hình chữ T)",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.205d.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.205e",
+      "description": "Đường giao nhau (hình chữ Y)",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.205e.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.206",
+      "description": "Giao nhau chạy theo vòng xuyến",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.206.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.207a",
+      "description": "Giao nhau với đường không ưu tiên",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.207a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.207b",
+      "description": "Giao nhau với đường không ưu tiên",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.207b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.207c",
+      "description": "Giao nhau với đường không ưu tiên",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.207c.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.207d",
+      "description": "Giao nhau với đường không ưu tiên",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.207d.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.207e",
+      "description": "Giao nhau với đường không ưu tiên",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.207e.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.207f",
+      "description": "Giao nhau với đường không ưu tiên",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.207f.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.207g",
+      "description": "Giao nhau với đường không ưu tiên",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.207g.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.207h",
+      "description": "Giao nhau với đường không ưu tiên",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.207h.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.207i",
+      "description": "Giao nhau với đường không ưu tiên",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.207i.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.207j",
+      "description": "Giao nhau với đường không ưu tiên",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.207j.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.207k",
+      "description": "Giao nhau với đường không ưu tiên",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.207k.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.207l",
+      "description": "Giao nhau với đường không ưu tiên",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.207l.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.207m",
+      "description": "Giao nhau với đường không ưu tiên",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.207m.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.208",
+      "description": "Giao nhau với đường ưu tiên",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.208.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.209",
+      "description": "Giao nhau có tín hiệu đèn giao thông",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.209.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.210",
+      "description": "Giao nhau với đường sắt có rào chắn",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.210.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.211",
+      "description": "Giao nhau với đường sắt không có rào chắn",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.211.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.212",
+      "description": "Cầu hẹp",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.212.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.213",
+      "description": "Cầu tạm",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.213.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.214",
+      "description": "Cầu quay – cầu cất",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.214.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.215a",
+      "description": "Kè, vực sâu phía trước",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.215a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.215b",
+      "description": "Kè, vực sâu bên đường phía bên phải",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.215b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.215c",
+      "description": "Kè, vực sâu bên đường phía bên trái",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.215c.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.216a",
+      "description": "Đường ngầm (thường đặt thêm cột thủy chí để báo mực nước)",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.216a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.216b",
+      "description": "Đường ngầm có nguy cơ lũ quét (thường đặt thêm cột thủy chí để báo mực nước)",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.216b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.217",
+      "description": "Bến phà",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.217.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.218",
+      "description": "Cửa chui",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.218.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.219",
+      "description": "Dốc xuống nguy hiểm  (Lưu ý: Có thể kèm theo biển S.501)",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.219.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.220",
+      "description": "Dốc lên nguy hiểm  (Lưu ý: Có thể kèm theo biển S.501)",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.220.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.221a",
+      "description": "Đường lồi lõm  (Lưu ý: Có thể kèm theo biển S.501)",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.221a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.221b",
+      "description": "Đường có gờ giảm tốc",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.221b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.222a",
+      "description": "Đường trơn",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.222a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.222b",
+      "description": "Lề đường nguy hiểm",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.222b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.223a",
+      "description": "Vách núi nguy hiểm phía bên trai",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.223a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.223b",
+      "description": "Vách núi nguy hiểm phía bên phai",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.223b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.224",
+      "description": "Đường người đi bộ cắt ngang",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.224.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.225",
+      "description": "Trẻ em  (Lưu ý: Có thể kèm theo biển S.501)",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.225.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.226",
+      "description": "Đường người đi xe đạp cắt ngang",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.226.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.227",
+      "description": "Công trường",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.227.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.228a",
+      "description": "Đá lở từ bên trái  (Lưu ý: Có thể kèm theo biển S.501)",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.228a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.228b",
+      "description": "Đá lở từ bên phải  (Lưu ý: Có thể kèm theo biển S.501)",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.228b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.228c",
+      "description": "Sỏi đá bắn lên",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.228c.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.228d",
+      "description": "Nền đường yếu",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.228d.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.229",
+      "description": "Dải máy bay lên xuống",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.229.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.230",
+      "description": "Gia súc",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.230.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.231",
+      "description": "Thú rừng vượt qua đường  (Lưu ý: Có thể kèm theo biển S.501)",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.231.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.232",
+      "description": "Gió ngang",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.232.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.233",
+      "description": "Nguy hiểm khác",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.233.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.234",
+      "description": "Giao nhau với đường hai chiều",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.234.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.235",
+      "description": "Đường đôi",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.235.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.236",
+      "description": "Kết thúc đường đôi",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.236.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.237",
+      "description": "Cầu vồng",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.237.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.238",
+      "description": "Đường cao tốc phía trước",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.238.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.239a",
+      "description": "Đường cáp điện ở phía trên (kèm thêm biển S.509a: Chiều cao an toàn)",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.239a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.239b",
+      "description": "Chiều cao tĩnh không thực tế",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.239b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.240",
+      "description": "Đường hầm",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.240.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.241",
+      "description": "Ùn tắc giao thông",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.241.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.242a",
+      "description": "Giao nhau vuông góc với một cặp đường ray",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.242a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.242b",
+      "description": "Giao nhau vuông góc với nhiều cặp đường ray",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.242b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.243a",
+      "description": "Báo trước giao nhau không vuông góc với đường sắt (50 m)",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.243a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.243b",
+      "description": "Báo trước giao nhau không vuông góc với đường sắt (100 m)",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.243b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.243c",
+      "description": "Báo trước giao nhau không vuông góc với đường sắt (150 m)",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.243c.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.244",
+      "description": "Đoạn đường hay xảy ra tai nạn",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.244.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.245a",
+      "description": "Đi chậm",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.245a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.245b",
+      "description": "Đi chậm (song ngữ)",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.245b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.246a",
+      "description": "Chú ý chướng ngại vật – vòng tránh ra hai bên",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.246a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.246b",
+      "description": "Chú ý chướng ngại vật – vòng tránh sang bên trái",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.246b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.246c",
+      "description": "Chú ý chướng ngại vật – vòng tránh sang bên phải",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.246c.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.247",
+      "description": "Chú ý xe đỗ",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.247.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển R.122",
+      "description": "Dừng lại",
+      "category": "R",
+      "category_name": "Biển hiệu lệnh",
+      "image_path": "data/images/traffic_signs_images/Biển R.122.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển R.301a",
+      "description": "Hướng đi thẳng phải theo",
+      "category": "R",
+      "category_name": "Biển hiệu lệnh",
+      "image_path": "data/images/traffic_signs_images/Biển R.301a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển R.301b",
+      "description": "Hướng đi phải phải theo",
+      "category": "R",
+      "category_name": "Biển hiệu lệnh",
+      "image_path": "data/images/traffic_signs_images/Biển R.301b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển R.301c",
+      "description": "Hướng đi trái phải theo",
+      "category": "R",
+      "category_name": "Biển hiệu lệnh",
+      "image_path": "data/images/traffic_signs_images/Biển R.301c.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển R.301d",
+      "description": "Các xe chỉ được rẽ phải",
+      "category": "R",
+      "category_name": "Biển hiệu lệnh",
+      "image_path": "data/images/traffic_signs_images/Biển R.301d.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển R.301e",
+      "description": "Các xe chỉ được rẽ trái",
+      "category": "R",
+      "category_name": "Biển hiệu lệnh",
+      "image_path": "data/images/traffic_signs_images/Biển R.301e.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển R.301f",
+      "description": "Các xe chỉ được đi thẳng và rẽ phải",
+      "category": "R",
+      "category_name": "Biển hiệu lệnh",
+      "image_path": "data/images/traffic_signs_images/Biển R.301f.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển R.301g",
+      "description": "Các xe chỉ được đi thẳng và rẽ trái",
+      "category": "R",
+      "category_name": "Biển hiệu lệnh",
+      "image_path": "data/images/traffic_signs_images/Biển R.301g.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển R.301h",
+      "description": "Các xe chỉ được rẽ trái và rẽ phải",
+      "category": "R",
+      "category_name": "Biển hiệu lệnh",
+      "image_path": "data/images/traffic_signs_images/Biển R.301h.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển R.302a",
+      "description": "Phải đi vòng sang bên phải",
+      "category": "R",
+      "category_name": "Biển hiệu lệnh",
+      "image_path": "data/images/traffic_signs_images/Biển R.302a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển R.302b",
+      "description": "Phải đi vòng sang bên trái",
+      "category": "R",
+      "category_name": "Biển hiệu lệnh",
+      "image_path": "data/images/traffic_signs_images/Biển R.302b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển R.302c",
+      "description": "Có thể đi vòng sang trái hoặc phải",
+      "category": "R",
+      "category_name": "Biển hiệu lệnh",
+      "image_path": "data/images/traffic_signs_images/Biển R.302c.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển R.303",
+      "description": "Nơi giao nhau chạy theo vòng xuyến",
+      "category": "R",
+      "category_name": "Biển hiệu lệnh",
+      "image_path": "data/images/traffic_signs_images/Biển R.303.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển R.304",
+      "description": "Đường dành cho xe thô sơ",
+      "category": "R",
+      "category_name": "Biển hiệu lệnh",
+      "image_path": "data/images/traffic_signs_images/Biển R.304.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển R.305",
+      "description": "Đường dành cho người đi bộ",
+      "category": "R",
+      "category_name": "Biển hiệu lệnh",
+      "image_path": "data/images/traffic_signs_images/Biển R.305.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển R.306",
+      "description": "Tốc độ tối thiểu cho phép",
+      "category": "R",
+      "category_name": "Biển hiệu lệnh",
+      "image_path": "data/images/traffic_signs_images/Biển R.306.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển R.307",
+      "description": "Hết tốc độ tối thiểu cho phép",
+      "category": "R",
+      "category_name": "Biển hiệu lệnh",
+      "image_path": "data/images/traffic_signs_images/Biển R.307.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển R.308a",
+      "description": "Tuyến đường cầu vượt cắt qua",
+      "category": "R",
+      "category_name": "Biển hiệu lệnh",
+      "image_path": "data/images/traffic_signs_images/Biển R.308a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển R.308b",
+      "description": "Tuyến đường cầu vượt cắt qua",
+      "category": "R",
+      "category_name": "Biển hiệu lệnh",
+      "image_path": "data/images/traffic_signs_images/Biển R.308b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển R.309",
+      "description": "Ấn còi",
+      "category": "R",
+      "category_name": "Biển hiệu lệnh",
+      "image_path": "data/images/traffic_signs_images/Biển R.309.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển R.310a",
+      "description": "Xe chở hàng nguy hiểm chỉ được rẽ trái",
+      "category": "R",
+      "category_name": "Biển hiệu lệnh",
+      "image_path": "data/images/traffic_signs_images/Biển R.310a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển R.310b",
+      "description": "Xe chở hàng nguy hiểm chỉ được đi thẳng",
+      "category": "R",
+      "category_name": "Biển hiệu lệnh",
+      "image_path": "data/images/traffic_signs_images/Biển R.310b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển R.310c",
+      "description": "Xe chở hàng nguy hiểm chỉ được rẽ phải",
+      "category": "R",
+      "category_name": "Biển hiệu lệnh",
+      "image_path": "data/images/traffic_signs_images/Biển R.310c.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển R.403a",
+      "description": "Đường dành cho xe ô tô",
+      "category": "R",
+      "category_name": "Biển hiệu lệnh",
+      "image_path": "data/images/traffic_signs_images/Biển R.403a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển R.403b",
+      "description": "Đường dành cho xe ô tô và xe máy",
+      "category": "R",
+      "category_name": "Biển hiệu lệnh",
+      "image_path": "data/images/traffic_signs_images/Biển R.403b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển R.403c",
+      "description": "Đường dành cho xe buýt",
+      "category": "R",
+      "category_name": "Biển hiệu lệnh",
+      "image_path": "data/images/traffic_signs_images/Biển R.403c.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển R.403d",
+      "description": "Đường dành cho xe ô tô con",
+      "category": "R",
+      "category_name": "Biển hiệu lệnh",
+      "image_path": "data/images/traffic_signs_images/Biển R.403d.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển R.403e",
+      "description": "Đường dành cho xe máy",
+      "category": "R",
+      "category_name": "Biển hiệu lệnh",
+      "image_path": "data/images/traffic_signs_images/Biển R.403e.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển R.403f",
+      "description": "Đường dành cho xe máy và xe đạp",
+      "category": "R",
+      "category_name": "Biển hiệu lệnh",
+      "image_path": "data/images/traffic_signs_images/Biển R.403f.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển R.403g",
+      "description": "Đường dành cho xe chở hàng bốn bánh gắn động cơ",
+      "category": "R",
+      "category_name": "Biển hiệu lệnh",
+      "image_path": "data/images/traffic_signs_images/Biển R.403g.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển R.403h",
+      "description": "Đường dành cho xe chở người bốn bánh gắn động cơ",
+      "category": "R",
+      "category_name": "Biển hiệu lệnh",
+      "image_path": "data/images/traffic_signs_images/Biển R.403h.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển R.403k",
+      "description": "Đường dành cho xe chở hàng, xe chở người bốn bánh gắn động cơ",
+      "category": "R",
+      "category_name": "Biển hiệu lệnh",
+      "image_path": "data/images/traffic_signs_images/Biển R.403k.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển R.404a",
+      "description": "Hết đường dành cho xe ô tô",
+      "category": "R",
+      "category_name": "Biển hiệu lệnh",
+      "image_path": "data/images/traffic_signs_images/Biển R.404a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển R.404b",
+      "description": "Hết đường dành cho xe ô tô, xe máy",
+      "category": "R",
+      "category_name": "Biển hiệu lệnh",
+      "image_path": "data/images/traffic_signs_images/Biển R.404b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển R.404c",
+      "description": "Hết đường dành cho xe buyt",
+      "category": "R",
+      "category_name": "Biển hiệu lệnh",
+      "image_path": "data/images/traffic_signs_images/Biển R.404c.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển R.404d",
+      "description": "Hết đường dành cho xe ô tô con",
+      "category": "R",
+      "category_name": "Biển hiệu lệnh",
+      "image_path": "data/images/traffic_signs_images/Biển R.404d.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển R.404e",
+      "description": "Hết đường dành cho xe máy",
+      "category": "R",
+      "category_name": "Biển hiệu lệnh",
+      "image_path": "data/images/traffic_signs_images/Biển R.404e.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển R.404f",
+      "description": "Hết đường dành cho xe máy và xe đạp",
+      "category": "R",
+      "category_name": "Biển hiệu lệnh",
+      "image_path": "data/images/traffic_signs_images/Biển R.404f.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển R.404g",
+      "description": "Hết đường dành cho xe chở hàng bốn bánh gắn động cơ",
+      "category": "R",
+      "category_name": "Biển hiệu lệnh",
+      "image_path": "data/images/traffic_signs_images/Biển R.404g.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển R.404h",
+      "description": "Hết đường dành cho xe chở người bốn bánh gắn động cơ",
+      "category": "R",
+      "category_name": "Biển hiệu lệnh",
+      "image_path": "data/images/traffic_signs_images/Biển R.404h.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển R.404k",
+      "description": "Hết đường dành cho xe chở hàng, xe chở người bốn bánh gắn động cơ",
+      "category": "R",
+      "category_name": "Biển hiệu lệnh",
+      "image_path": "data/images/traffic_signs_images/Biển R.404k.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển R.411",
+      "description": "Hướng đi trên mỗi làn đường phải theo",
+      "category": "R",
+      "category_name": "Biển hiệu lệnh",
+      "image_path": "data/images/traffic_signs_images/Biển R.411.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển R.415a",
+      "description": "Phân làn",
+      "category": "R",
+      "category_name": "Biển hiệu lệnh",
+      "image_path": "data/images/traffic_signs_images/Biển R.415a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển R.415b",
+      "description": "Hết phân làn",
+      "category": "R",
+      "category_name": "Biển hiệu lệnh",
+      "image_path": "data/images/traffic_signs_images/Biển R.415b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển R.420",
+      "description": "Bắt đầu khu đông dân cư",
+      "category": "R",
+      "category_name": "Biển hiệu lệnh",
+      "image_path": "data/images/traffic_signs_images/Biển R.420.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển R.421",
+      "description": "Hết khu đông dân cư",
+      "category": "R",
+      "category_name": "Biển hiệu lệnh",
+      "image_path": "data/images/traffic_signs_images/Biển R.421.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển R.E,9a",
+      "description": "Cấm đỗ xe trong khu vực",
+      "category": "R",
+      "category_name": "Biển hiệu lệnh",
+      "image_path": "data/images/traffic_signs_images/Biển R.E,9a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển R.E,9b",
+      "description": "Cấm đỗ xe theo giờ trong khu vực",
+      "category": "R",
+      "category_name": "Biển hiệu lệnh",
+      "image_path": "",
+      "image_exists": false
+    },
+    {
+      "name": "Biển R.E,9c",
+      "description": "Khu vực đỗ xe",
+      "category": "R",
+      "category_name": "Biển hiệu lệnh",
+      "image_path": "",
+      "image_exists": false
+    },
+    {
+      "name": "Biển R.E,9d",
+      "description": "Hạn chế tốc độ tối đa trong khu vực",
+      "category": "R",
+      "category_name": "Biển hiệu lệnh",
+      "image_path": "",
+      "image_exists": false
+    },
+    {
+      "name": "Biển R.E,10a",
+      "description": "Hết cấm đỗ xe trong khu vực",
+      "category": "R",
+      "category_name": "Biển hiệu lệnh",
+      "image_path": "data/images/traffic_signs_images/Biển R.E,10a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển R.E,10b",
+      "description": "Hết cấm đỗ xe theo giờ trong khu vực",
+      "category": "R",
+      "category_name": "Biển hiệu lệnh",
+      "image_path": "",
+      "image_exists": false
+    },
+    {
+      "name": "Biển R.E,10c",
+      "description": "Hết khu vực đỗ xe",
+      "category": "R",
+      "category_name": "Biển hiệu lệnh",
+      "image_path": "",
+      "image_exists": false
+    },
+    {
+      "name": "Biển R.E,10d",
+      "description": "Hết hạn chế tốc độ tối đa trong khu vực",
+      "category": "R",
+      "category_name": "Biển hiệu lệnh",
+      "image_path": "",
+      "image_exists": false
+    },
+    {
+      "name": "Biển R.E,11a",
+      "description": "Đường hầm",
+      "category": "R",
+      "category_name": "Biển hiệu lệnh",
+      "image_path": "data/images/traffic_signs_images/Biển R.E,11a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển R.E,11b",
+      "description": "Kết thúc đường hầm",
+      "category": "R",
+      "category_name": "Biển hiệu lệnh",
+      "image_path": "data/images/traffic_signs_images/Biển R.E,11b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.401",
+      "description": "Bắt đầu đường ưu tiên",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.401.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.402",
+      "description": "Hết đoạn đường ưu tiên",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.402.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.405a",
+      "description": "Đường cụt ở bên phải",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.405a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.405b",
+      "description": "Đường cụt ở bên trái",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.405b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.405c",
+      "description": "Đường cụt phía trước",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.405c.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.406",
+      "description": "Được ưu tiên qua đường hẹp",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.406.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.407a",
+      "description": "Đường một chiều",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.407a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.407b",
+      "description": "Đường một chiều",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.407b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.407c",
+      "description": "Đường một chiều",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.407c.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.408",
+      "description": "Nơi đỗ xe",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.408.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.408a",
+      "description": "Nơi đỗ xe một phần trên hè phố",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.408a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.409",
+      "description": "Chỗ quay xe",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.409.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.410",
+      "description": "Khu vực quay xe",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.410.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.413a",
+      "description": "Đường phía trước có làn đường dành cho ô tô khách",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.413a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.413b",
+      "description": "Rẽ ra đường có làn đường dành cho ô tô khách",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.413b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.413c",
+      "description": "Rẽ ra đường có làn đường dành cho ô tô khách",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.413c.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.414a",
+      "description": "Chỉ hướng đường",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.414a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.414b",
+      "description": "Chỉ hướng đường",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.414b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.414c",
+      "description": "Chỉ hướng đường",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.414c.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.414d",
+      "description": "Chỉ hướng đường",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.414d.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.415",
+      "description": "Mũi tên chỉ hướng đi",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.415.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.416",
+      "description": "Đường tránh",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.416.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.417a",
+      "description": "Chỉ hướng đường phải đi cho từng loại xe",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.417a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.417b",
+      "description": "Chỉ hướng đường phải đi cho từng loại xe",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.417b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.417c",
+      "description": "Chỉ hướng đường phải đi cho từng loại xe",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.417c.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.418",
+      "description": "Lối đi ở những vị trí cấm rẽ",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.418.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.419a",
+      "description": "Chỉ dẫn địa giới",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.419a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.419b",
+      "description": "Chỉ dẫn địa giới (song ngữ)",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.419b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.422a",
+      "description": "Di tích lịch sử",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.422a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.422b",
+      "description": "Di tích lịch sử (song ngữ)",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.422b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.423a",
+      "description": "Vị trí người đi bộ sang ngang bên trái",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.423a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.423b",
+      "description": "Vị trí người đi bộ sang ngang bên phải",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.423b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.423c",
+      "description": "Điểm bắt đầu đường đi bộ",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.423c.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.424a",
+      "description": "Cầu vượt qua đường cho người đi bộ bên trái",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.424a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.424b",
+      "description": "Cầu vượt qua đường cho người đi bộ bên phải",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.424b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.424c",
+      "description": "Hầm chui qua đường cho người đi bộ bên trái",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.424c.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.424d",
+      "description": "Hầm chui qua đường cho người đi bộ bên phải",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.424d.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.425",
+      "description": "Bệnh viện",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.425.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.426",
+      "description": "Trạm cấp cứu",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.426.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.427a",
+      "description": "Trạm sửa chữa",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.427a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.427b",
+      "description": "Công trình kiểm soát tải trọng xe",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "",
+      "image_exists": false
+    },
+    {
+      "name": "Biển I.428a",
+      "description": "Cửa hàng xăng dầu",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.428a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.428b",
+      "description": "Trạm nạp điện",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "",
+      "image_exists": false
+    },
+    {
+      "name": "Biển I.428c",
+      "description": "Cửa hàng xăng dầu và trạm nạp điện",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "",
+      "image_exists": false
+    },
+    {
+      "name": "Biển I.429",
+      "description": "Nơi rửa xe",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.429.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.430",
+      "description": "Điện thoại",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.430.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.431",
+      "description": "Trạm dừng nghỉ",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.431.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.432",
+      "description": "Khách sạn",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.432.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.433a",
+      "description": "Nơi nghỉ mát",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.433a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.433b",
+      "description": "Nơi cắm trại",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.433b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.433c",
+      "description": "Nơi dành cho nhà lưu động",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.433c.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.433d",
+      "description": "Nơi cắm trại và nhà lưu động",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.433d.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.433e",
+      "description": "Nhà trọ",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.433e.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.434a",
+      "description": "Bến xe buýt",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.434a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.434b",
+      "description": "Bến xe tải",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.434b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.435",
+      "description": "Bến xe điện",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.435.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.436",
+      "description": "Trạm cảnh sát giao thông",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.436.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.437",
+      "description": "Đường cao tốc",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.437.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.439",
+      "description": "Tên cầu",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.439.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.440",
+      "description": "Đường đang thi công",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.440.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.441a",
+      "description": "Báo hiệu phía trước có công trường thi công",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.441a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.441b",
+      "description": "Báo hiệu phía trước có công trường thi công",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.441b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.441c",
+      "description": "Báo hiệu phía trước có công trường thi công",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.441c.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.442",
+      "description": "Chợ",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.442.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.443",
+      "description": "Xe kéo rơ-moóc",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.443.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.444a",
+      "description": "Biển chỉ dẫn hướng vào ga tàu",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.444a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.444b",
+      "description": "Biển chỉ dẫn hướng vào sân bay",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.444b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.444c",
+      "description": "Biển chỉ dẫn hướng vào bãi đậu xe",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.444c.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.444d",
+      "description": "Biển chỉ dẫn hướng vào bến xe khách đường dài",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.444d.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.444e",
+      "description": "Biển chỉ dẫn hướng vào trạm cấp cứu",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.444e.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.444f",
+      "description": "Biển chỉ dẫn hướng vào bến tàu khách",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.444f.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.444g",
+      "description": "Biển chỉ dẫn hướng vào khu danh thắng và du lịch",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.444g.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.444h",
+      "description": "Biển chỉ dẫn hướng vào trạm xăng",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.444h.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.444i",
+      "description": "Biển chỉ dẫn hướng vào trạm rửa xe",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.444i.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.444j",
+      "description": "Biển chỉ dẫn hướng vào bến phà",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.444j.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.444k",
+      "description": "Biển chỉ dẫn hướng vào ga tàu điện ngầm",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.444k.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.444l",
+      "description": "Biển chỉ dẫn hướng vào khu vực dịch vụ cho khách đi đường",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.444l.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.444m",
+      "description": "Biển chỉ dẫn hướng vào trạm sửa chữa xe",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.444m.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.445a",
+      "description": "Đường trơn, chạy chậm",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.445a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.445b",
+      "description": "Đường dốc, chạy chậm",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.445b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.445c",
+      "description": "Đường nhiều sương mù",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.445c.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.445d",
+      "description": "Nền đường yếu",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.445d.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.445e",
+      "description": "Xe lớn đi sát về bên phải",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.445e.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.445f",
+      "description": "Chú ý gió ngang",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.445f.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.445g",
+      "description": "Đoạn đường hay xảy ra tai nạn",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.445g.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.445h",
+      "description": "Xuống dốc liên tục",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.445h.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.446",
+      "description": "Nơi đỗ xe dành cho người khuyết tật",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.446.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.447a",
+      "description": "Biển báo cầu vượt liên thông",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.447a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.447b",
+      "description": "Biển báo cầu vượt liên thông",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.447b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.447c",
+      "description": "Biển báo cầu vượt liên thông",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.447c.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.447d",
+      "description": "Biển báo cầu vượt liên thông",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.447d.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.448",
+      "description": "Làn đường cứu nạn hay làn dừng xe khẩn cấp",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.448.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.449",
+      "description": "Biển tên",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.449.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển IE.450a",
+      "description": "Khoảng cách đến nút giao với đường dẫn vào đường cao tốc",
+      "category": "IE",
+      "category_name": "Biển chỉ dẫn trên đường cao tốc",
+      "image_path": "data/images/traffic_signs_images/Biển IE.450a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển IE.450b",
+      "description": "Sơ đồ đến nút giao với đường dẫn vào đường cao tốc",
+      "category": "IE",
+      "category_name": "Biển chỉ dẫn trên đường cao tốc",
+      "image_path": "data/images/traffic_signs_images/Biển IE.450b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển IE.451a",
+      "description": "Khoảng cách đến lối vào đường cao tốc",
+      "category": "IE",
+      "category_name": "Biển chỉ dẫn trên đường cao tốc",
+      "image_path": "data/images/traffic_signs_images/Biển IE.451a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển IE.451b",
+      "description": "Lối vào đường cao tốc",
+      "category": "IE",
+      "category_name": "Biển chỉ dẫn trên đường cao tốc",
+      "image_path": "data/images/traffic_signs_images/Biển IE.451b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển IE.452",
+      "description": "Bắt đầu đường cao tốc",
+      "category": "IE",
+      "category_name": "Biển chỉ dẫn trên đường cao tốc",
+      "image_path": "data/images/traffic_signs_images/Biển IE.452.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển IE.453a",
+      "description": "Khoảng cách đến điểm kết thúc đường cao tốc",
+      "category": "IE",
+      "category_name": "Biển chỉ dẫn trên đường cao tốc",
+      "image_path": "data/images/traffic_signs_images/Biển IE.453a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển IE.453b",
+      "description": "Điểm kết thúc đường cao tốc",
+      "category": "IE",
+      "category_name": "Biển chỉ dẫn trên đường cao tốc",
+      "image_path": "data/images/traffic_signs_images/Biển IE.453b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển IE.453c",
+      "description": "Hết đường cao tốc",
+      "category": "IE",
+      "category_name": "Biển chỉ dẫn trên đường cao tốc",
+      "image_path": "data/images/traffic_signs_images/Biển IE.453c.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển IE.454",
+      "description": "Khoảng cách đến lối ra phía trước",
+      "category": "IE",
+      "category_name": "Biển chỉ dẫn trên đường cao tốc",
+      "image_path": "data/images/traffic_signs_images/Biển IE.454.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển IE.455",
+      "description": "Khoảng cách đến các lối ra tiếp theo",
+      "category": "IE",
+      "category_name": "Biển chỉ dẫn trên đường cao tốc",
+      "image_path": "data/images/traffic_signs_images/Biển IE.455.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển IE.456a",
+      "description": "Khoảng cách đến trạm dừng nghỉ",
+      "category": "IE",
+      "category_name": "Biển chỉ dẫn trên đường cao tốc",
+      "image_path": "data/images/traffic_signs_images/Biển IE.456a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển IE.456b",
+      "description": "Hướng rẽ đến trạm dừng nghỉ",
+      "category": "IE",
+      "category_name": "Biển chỉ dẫn trên đường cao tốc",
+      "image_path": "data/images/traffic_signs_images/Biển IE.456b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển IE.456c",
+      "description": "Lối vào trạm dừng nghỉ",
+      "category": "IE",
+      "category_name": "Biển chỉ dẫn trên đường cao tốc",
+      "image_path": "data/images/traffic_signs_images/Biển IE.456c.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển IE.457a",
+      "description": "Khoảng cách đến nơi đỗ xe trong trạm dừng nghỉ",
+      "category": "IE",
+      "category_name": "Biển chỉ dẫn trên đường cao tốc",
+      "image_path": "data/images/traffic_signs_images/Biển IE.457a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển IE.457b",
+      "description": "Hướng rẽ đến vị trí bãi đỗ xe trong trạm dừng nghỉ",
+      "category": "IE",
+      "category_name": "Biển chỉ dẫn trên đường cao tốc",
+      "image_path": "data/images/traffic_signs_images/Biển IE.457b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển IE.458",
+      "description": "Khoảng cách đến các trạm dừng nghỉ tiếp theo",
+      "category": "IE",
+      "category_name": "Biển chỉ dẫn trên đường cao tốc",
+      "image_path": "data/images/traffic_signs_images/Biển IE.458.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển IE.459a",
+      "description": "Khoảng cách đến khu tham quan, du lịch",
+      "category": "IE",
+      "category_name": "Biển chỉ dẫn trên đường cao tốc",
+      "image_path": "data/images/traffic_signs_images/Biển IE.459a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển IE.459b",
+      "description": "Hướng rẽ vào khu tham quan, du lịch",
+      "category": "IE",
+      "category_name": "Biển chỉ dẫn trên đường cao tốc",
+      "image_path": "data/images/traffic_signs_images/Biển IE.459b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển IE.460a",
+      "description": "Cột kilômét (một chữ số)",
+      "category": "IE",
+      "category_name": "Biển chỉ dẫn trên đường cao tốc",
+      "image_path": "data/images/traffic_signs_images/Biển IE.460a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển IE.460b",
+      "description": "Cột kilômét (hai chữ số)",
+      "category": "IE",
+      "category_name": "Biển chỉ dẫn trên đường cao tốc",
+      "image_path": "data/images/traffic_signs_images/Biển IE.460b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển IE.460c",
+      "description": "Cột kilômét (ba chữ số)",
+      "category": "IE",
+      "category_name": "Biển chỉ dẫn trên đường cao tốc",
+      "image_path": "data/images/traffic_signs_images/Biển IE.460c.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển IE.460d",
+      "description": "Cột kilômét (bốn chữ số)",
+      "category": "IE",
+      "category_name": "Biển chỉ dẫn trên đường cao tốc",
+      "image_path": "",
+      "image_exists": false
+    },
+    {
+      "name": "Biển IE.461a",
+      "description": "Khoảng cách đến khu dịch vụ công cộng, giải trí",
+      "category": "IE",
+      "category_name": "Biển chỉ dẫn trên đường cao tốc",
+      "image_path": "data/images/traffic_signs_images/Biển IE.461a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển IE.461b",
+      "description": "Hướng rẽ đến khu dịch vụ công cộng, giải trí",
+      "category": "IE",
+      "category_name": "Biển chỉ dẫn trên đường cao tốc",
+      "image_path": "data/images/traffic_signs_images/Biển IE.461b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển IE.461c",
+      "description": "Hướng rẽ vào khu dịch vụ công cộng",
+      "category": "IE",
+      "category_name": "Biển chỉ dẫn trên đường cao tốc",
+      "image_path": "data/images/traffic_signs_images/Biển IE.461c.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển IE.461d",
+      "description": "Hướng rẽ vào khu giải trí",
+      "category": "IE",
+      "category_name": "Biển chỉ dẫn trên đường cao tốc",
+      "image_path": "data/images/traffic_signs_images/Biển IE.461d.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển IE.462",
+      "description": "Tần số trên sóng radio",
+      "category": "IE",
+      "category_name": "Biển chỉ dẫn trên đường cao tốc",
+      "image_path": "data/images/traffic_signs_images/Biển IE.462.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển IE.463a",
+      "description": "Khoảng cách đến công trình kiểm soát tải trọng xe",
+      "category": "IE",
+      "category_name": "Biển chỉ dẫn trên đường cao tốc",
+      "image_path": "",
+      "image_exists": false
+    },
+    {
+      "name": "Biển IE.463b",
+      "description": "Hướng rẽ vào nơi đặt công trình kiểm soát tải trọng xe",
+      "category": "IE",
+      "category_name": "Biển chỉ dẫn trên đường cao tốc",
+      "image_path": "",
+      "image_exists": false
+    },
+    {
+      "name": "Biển IE.463c",
+      "description": "Lối vào công trình kiểm soát tải trọng xe",
+      "category": "IE",
+      "category_name": "Biển chỉ dẫn trên đường cao tốc",
+      "image_path": "",
+      "image_exists": false
+    },
+    {
+      "name": "Biển IE.464a",
+      "description": "Lối ra một chiều",
+      "category": "IE",
+      "category_name": "Biển chỉ dẫn trên đường cao tốc",
+      "image_path": "data/images/traffic_signs_images/Biển IE.464a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển IE.464b",
+      "description": "Hướng ra",
+      "category": "IE",
+      "category_name": "Biển chỉ dẫn trên đường cao tốc",
+      "image_path": "data/images/traffic_signs_images/Biển IE.464b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển IE.465",
+      "description": "Địa điểm và khoảng cách",
+      "category": "IE",
+      "category_name": "Biển chỉ dẫn trên đường cao tốc",
+      "image_path": "data/images/traffic_signs_images/Biển IE.465.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển IE.466",
+      "description": "Sơ đồ lối ra một chiều",
+      "category": "IE",
+      "category_name": "Biển chỉ dẫn trên đường cao tốc",
+      "image_path": "data/images/traffic_signs_images/Biển IE.466.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển IE.467a",
+      "description": "Khoảng cách đến vị trí nhập làn xe",
+      "category": "IE",
+      "category_name": "Biển chỉ dẫn trên đường cao tốc",
+      "image_path": "data/images/traffic_signs_images/Biển IE.467a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển IE.467b",
+      "description": "Vị trí nhập làn xe",
+      "category": "IE",
+      "category_name": "Biển chỉ dẫn trên đường cao tốc",
+      "image_path": "data/images/traffic_signs_images/Biển IE.467b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển IE.468a",
+      "description": "Chướng ngại vật phía trước – đi theo hướng bên trái",
+      "category": "IE",
+      "category_name": "Biển chỉ dẫn trên đường cao tốc",
+      "image_path": "data/images/traffic_signs_images/Biển IE.468a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển IE.468b",
+      "description": "Chướng ngại vật phía trước – đi được cả hai hướng",
+      "category": "IE",
+      "category_name": "Biển chỉ dẫn trên đường cao tốc",
+      "image_path": "data/images/traffic_signs_images/Biển IE.468b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển IE.468c",
+      "description": "Chướng ngại vật phía trước – đi theo hướng bên phải",
+      "category": "IE",
+      "category_name": "Biển chỉ dẫn trên đường cao tốc",
+      "image_path": "data/images/traffic_signs_images/Biển IE.468c.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển IE.469a",
+      "description": "Tiêu phản quang – hướng rẽ phải",
+      "category": "IE",
+      "category_name": "Biển chỉ dẫn trên đường cao tốc",
+      "image_path": "data/images/traffic_signs_images/Biển IE.469a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển IE.469b",
+      "description": "Tiêu phản quang – hướng rẽ trái",
+      "category": "IE",
+      "category_name": "Biển chỉ dẫn trên đường cao tốc",
+      "image_path": "data/images/traffic_signs_images/Biển IE.469b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển IE.470",
+      "description": "Số điện thoại khẩn cấp",
+      "category": "IE",
+      "category_name": "Biển chỉ dẫn trên đường cao tốc",
+      "image_path": "data/images/traffic_signs_images/Biển IE.470.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển IE.471",
+      "description": "Giữ khoảng cách lái xe an toàn",
+      "category": "IE",
+      "category_name": "Biển chỉ dẫn trên đường cao tốc",
+      "image_path": "data/images/traffic_signs_images/Biển IE.471.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển IE.472a",
+      "description": "Khoảng cách đến trạm thu phí",
+      "category": "IE",
+      "category_name": "Biển chỉ dẫn trên đường cao tốc",
+      "image_path": "data/images/traffic_signs_images/Biển IE.472a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển IE.472b",
+      "description": "Trạm thu phí",
+      "category": "IE",
+      "category_name": "Biển chỉ dẫn trên đường cao tốc",
+      "image_path": "data/images/traffic_signs_images/Biển IE.472b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển IE.472c",
+      "description": "Thu phí không dừng",
+      "category": "IE",
+      "category_name": "Biển chỉ dẫn trên đường cao tốc",
+      "image_path": "data/images/traffic_signs_images/Biển IE.472c.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển IE.472d",
+      "description": "Rút thẻ",
+      "category": "IE",
+      "category_name": "Biển chỉ dẫn trên đường cao tốc",
+      "image_path": "data/images/traffic_signs_images/Biển IE.472d.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển IE.472e",
+      "description": "Thu phí",
+      "category": "IE",
+      "category_name": "Biển chỉ dẫn trên đường cao tốc",
+      "image_path": "data/images/traffic_signs_images/Biển IE.472e.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển IE.473",
+      "description": "Giảm tốc độ",
+      "category": "IE",
+      "category_name": "Biển chỉ dẫn trên đường cao tốc",
+      "image_path": "data/images/traffic_signs_images/Biển IE.473.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển IE.474",
+      "description": "Lối ra đường cao tốc",
+      "category": "IE",
+      "category_name": "Biển chỉ dẫn trên đường cao tốc",
+      "image_path": "data/images/traffic_signs_images/Biển IE.474.svg",
+      "image_exists": true
+    },
+    {
+      "name": "",
+      "description": "",
+      "category": "",
+      "category_name": "",
+      "image_path": "data/images/traffic_signs_images/sign_351.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển S.501",
+      "description": "Phạm vi tác dụng của biển",
+      "category": "S",
+      "category_name": "Biển phụ",
+      "image_path": "data/images/traffic_signs_images/Biển S.501.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển S.502",
+      "description": "Khoảng cách đến đối tượng báo hiệu",
+      "category": "S",
+      "category_name": "Biển phụ",
+      "image_path": "data/images/traffic_signs_images/Biển S.502.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển S.503a",
+      "description": "Hướng tác dụng của biển",
+      "category": "S",
+      "category_name": "Biển phụ",
+      "image_path": "data/images/traffic_signs_images/Biển S.503a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển S.503b",
+      "description": "Hướng tác dụng của biển",
+      "category": "S",
+      "category_name": "Biển phụ",
+      "image_path": "data/images/traffic_signs_images/Biển S.503b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển S.503c",
+      "description": "Hướng tác dụng của biển",
+      "category": "S",
+      "category_name": "Biển phụ",
+      "image_path": "data/images/traffic_signs_images/Biển S.503c.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển S.503d",
+      "description": "Hướng tác dụng của biển",
+      "category": "S",
+      "category_name": "Biển phụ",
+      "image_path": "data/images/traffic_signs_images/Biển S.503d.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển S.503e",
+      "description": "Hướng tác dụng của biển",
+      "category": "S",
+      "category_name": "Biển phụ",
+      "image_path": "data/images/traffic_signs_images/Biển S.503e.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển S.503f",
+      "description": "Hướng tác dụng của biển",
+      "category": "S",
+      "category_name": "Biển phụ",
+      "image_path": "data/images/traffic_signs_images/Biển S.503f.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển S.504",
+      "description": "Làn đường",
+      "category": "S",
+      "category_name": "Biển phụ",
+      "image_path": "data/images/traffic_signs_images/Biển S.504.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển S.505a",
+      "description": "Loại xe",
+      "category": "S",
+      "category_name": "Biển phụ",
+      "image_path": "data/images/traffic_signs_images/Biển S.505a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển S.505b",
+      "description": "Loại xe hạn chế qua cầu",
+      "category": "S",
+      "category_name": "Biển phụ",
+      "image_path": "data/images/traffic_signs_images/Biển S.505b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển S.505c",
+      "description": "Tải trọng trục hạn chế qua cầu",
+      "category": "S",
+      "category_name": "Biển phụ",
+      "image_path": "data/images/traffic_signs_images/Biển S.505c.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển S.506a",
+      "description": "Hướng đường ưu tiên",
+      "category": "S",
+      "category_name": "Biển phụ",
+      "image_path": "data/images/traffic_signs_images/Biển S.506a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển S.506b",
+      "description": "Hướng đường ưu tiên",
+      "category": "S",
+      "category_name": "Biển phụ",
+      "image_path": "data/images/traffic_signs_images/Biển S.506b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển S.507",
+      "description": "Hướng rẽ",
+      "category": "S",
+      "category_name": "Biển phụ",
+      "image_path": "data/images/traffic_signs_images/Biển S.507.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển S.508a",
+      "description": "Biểu thị thời gian",
+      "category": "S",
+      "category_name": "Biển phụ",
+      "image_path": "data/images/traffic_signs_images/Biển S.508a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển S.508b",
+      "description": "Biểu thị thời gian",
+      "category": "S",
+      "category_name": "Biển phụ",
+      "image_path": "data/images/traffic_signs_images/Biển S.508b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển S.509a",
+      "description": "Thuyết minh biển chính – Chiều cao an toàn (đặt dưới biển W.239)",
+      "category": "S",
+      "category_name": "Biển phụ",
+      "image_path": "data/images/traffic_signs_images/Biển S.509a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển S.509b",
+      "description": "Thuyết minh biển chính – Cấm đỗ xe (đặt dưới biển P.130, P.131 (a,b,c))",
+      "category": "S",
+      "category_name": "Biển phụ",
+      "image_path": "data/images/traffic_signs_images/Biển S.509b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển S.510a",
+      "description": "Chú ý đường trơn có băng tuyết",
+      "category": "S",
+      "category_name": "Biển phụ",
+      "image_path": "data/images/traffic_signs_images/Biển S.510a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển S.510b",
+      "description": "Chú ý đường sắt",
+      "category": "S",
+      "category_name": "Biển phụ",
+      "image_path": "",
+      "image_exists": false
+    },
+    {
+      "name": "Biển S.G,7",
+      "description": "Địa điểm cắm trại",
+      "category": "S",
+      "category_name": "Biển phụ",
+      "image_path": "data/images/traffic_signs_images/Biển S.G,7.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển S.G,8",
+      "description": "Địa điểm nhà trọ",
+      "category": "S",
+      "category_name": "Biển phụ",
+      "image_path": "data/images/traffic_signs_images/Biển S.G,8.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển S.G,9b",
+      "description": "Chỉ dẫn tới điểm đỗ xe dành cho lái xe muốn sử dụng phương tiện công cộng",
+      "category": "S",
+      "category_name": "Biển phụ",
+      "image_path": "data/images/traffic_signs_images/Biển S.G,9b.png",
+      "image_exists": true
+    },
+    {
+      "name": "Vạch 6.1",
+      "description": "Vạch cấm đỗ xe trên đường (sơn vàng trên bó vỉa hoặc mặt đường)",
+      "category": "",
+      "category_name": "",
+      "image_path": "data/images/traffic_signs_images/Vạch 6.1.jpg",
+      "image_exists": true
+    },
+    {
+      "name": "Vạch 7.3",
+      "description": "Vạch đi bộ qua đường – Mẫu 1.a. Dạng vuông góc",
+      "category": "",
+      "category_name": "",
+      "image_path": "data/images/traffic_signs_images/Vạch 7.3.png",
+      "image_exists": true
+    },
+    {
+      "name": "Vạch 7.4",
+      "description": "Vạch xe đạp qua đường",
+      "category": "",
+      "category_name": "",
+      "image_path": "data/images/traffic_signs_images/Vạch 7.4.png",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.125",
+      "description": "Cấm vượt",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.125.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển P.126",
+      "description": "Cấm ô tô tải vượt",
+      "category": "P",
+      "category_name": "Biển cấm",
+      "image_path": "data/images/traffic_signs_images/Biển P.126.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển W.211b",
+      "description": "Giao nhau với đường",
+      "category": "W",
+      "category_name": "Biển nguy hiểm",
+      "image_path": "data/images/traffic_signs_images/Biển W.211b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển DP.133",
+      "description": "Hết cấm vượt",
+      "category": "DP",
+      "category_name": "Biển phụ",
+      "image_path": "data/images/traffic_signs_images/Biển DP.133.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển DP.134",
+      "description": "Hết hạn chế tốc độ tối đa",
+      "category": "DP",
+      "category_name": "Biển phụ",
+      "image_path": "data/images/traffic_signs_images/Biển DP.134.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển I.427b",
+      "description": "Trạm kiểm tra tải trọng xe",
+      "category": "I",
+      "category_name": "Biển chỉ dẫn",
+      "image_path": "data/images/traffic_signs_images/Biển I.427b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển IE.463a",
+      "description": "Khoảng cách đến trạm kiểm tra tải trọng xe",
+      "category": "IE",
+      "category_name": "Biển chỉ dẫn trên đường cao tốc",
+      "image_path": "data/images/traffic_signs_images/Biển IE.463a.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển IE.463b",
+      "description": "Hướng rẽ vào nơi đặt trạm kiểm tra tải trọng xe",
+      "category": "IE",
+      "category_name": "Biển chỉ dẫn trên đường cao tốc",
+      "image_path": "data/images/traffic_signs_images/Biển IE.463b.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển IE.463c",
+      "description": "Lối vào trạm kiểm tra tải trọng xe",
+      "category": "IE",
+      "category_name": "Biển chỉ dẫn trên đường cao tốc",
+      "image_path": "data/images/traffic_signs_images/Biển IE.463c.svg",
+      "image_exists": true
+    },
+    {
+      "name": "Biển 439",
+      "description": "Tốc độ cho phép chạy trên đường cao tốc  (2001)",
+      "category": "",
+      "category_name": "",
+      "image_path": "data/images/traffic_signs_images/Biển 439.jpg",
+      "image_exists": true
+    },
+    {
+      "name": "",
+      "description": "",
+      "category": "",
+      "category_name": "",
+      "image_path": "data/images/traffic_signs_images/sign_389.svg",
+      "image_exists": true
+    },
+    {
+      "name": "",
+      "description": "",
+      "category": "",
+      "category_name": "",
+      "image_path": "data/images/traffic_signs_images/sign_390.jpg",
+      "image_exists": true
+    },
+    {
+      "name": "",
+      "description": "",
+      "category": "",
+      "category_name": "",
+      "image_path": "data/images/traffic_signs_images/sign_391.jpg",
+      "image_exists": true
+    },
+    {
+      "name": "",
+      "description": "",
+      "category": "",
+      "category_name": "",
+      "image_path": "data/images/traffic_signs_images/sign_392.jpg",
+      "image_exists": true
+    }
+  ]
+}

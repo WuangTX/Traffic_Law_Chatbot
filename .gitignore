@@ -1,40 +1,36 @@
-*.bin
-*.npy
-*.npz
-.venv/
-__pycache__/
-.ipynb_checkpoints/
-.DS_Store
-# Ignore Jupyter Notebook checkpoints
-.ipynb_checkpoints/
-# Ignore virtual environment directories
+# Python virtual environment
 .venv/
 env/
 venv/
-# Ignore Python bytecode files
+
+# Python bytecode
 __pycache__/
 *.pyc
 *.pyo
-# Ignore data files
-*.csv
-*.json
-*.xlsx
-*.h5
-# Ignore model files
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Environment
+.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Large binary files (FAISS indices, models, numpy arrays)
+*.bin
+*.npy
+*.npz
 *.h5
 *.pt
 *.ckpt
-# Ignore logs
+
+# Logs and temp
 logs/
-# Ignore temporary files
 *.tmp
 *.log
-# Ignore IDE specific files
-.vscode/
-.idea/
-# Ignore system files
-.DS_Store
-Thumbs.db
-# Ignore Jupyter Notebook checkpoints
-.ipynb_checkpoints/
-# Ignore virtual environment directories

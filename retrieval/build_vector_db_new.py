@@ -25,7 +25,7 @@ project_root = Path(__file__).resolve().parent.parent
 if str(project_root) not in sys.path:
     sys.path.append(str(project_root))
 
-from rag.embedding import get_embeddings
+from pipeline.embedding import get_embeddings
 
 
 class VectorDatabaseBuilder:
@@ -138,7 +138,7 @@ class VectorDatabaseBuilder:
                     'id': idx,
                     'chunk_id': chunk['id'],
                     'text': chunk['text_original'],
-                    'text_for_display': chunk['text_for_embedding'][:200] + "...",  # Preview
+                    'text_for_display': chunk['text_for_embedding'],  # Full context-hoisted text
                     'source': chunk['metadata'].get('law_source', 'Unknown'),
                     'metadata': chunk['metadata'],
                 }
@@ -256,6 +256,7 @@ def main():
     chunk_files = [
         'data/processed/luật_35_chunks.json',
         'data/processed/nd168_chunks.json',
+        'data/processed/luat_36_chunks.json',
     ]
     
     if not builder.load_chunks_from_pipeline(chunk_files):

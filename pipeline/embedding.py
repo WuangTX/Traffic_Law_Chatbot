@@ -49,6 +49,12 @@ def get_model():
     """
     return _load_model_once()
 
+
+def preload_model():
+    """Preload the embedding model at startup (call once during init)."""
+    print("Preloading embedding model...")
+    get_model()
+
 def get_embedding(text: str):
     """
     Hàm này nhận một đoạn văn bản (string) và trả về vector embedding của nó.
@@ -111,4 +117,3 @@ if __name__ == '__main__':
 
     except RuntimeError as e:
         print(e)
-

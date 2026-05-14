@@ -1584,54 +1584,12 @@
     "local_path": "traffic_signs_images\\Biển R.E,9a.svg"
   },
   {
-    "name": "Biển R.E,9b",
-    "description": "Cấm đỗ xe theo giờ trong khu vực",
-    "image_url": null,
-    "image_full_url": null,
-    "gallery_index": 2
-  },
-  {
-    "name": "Biển R.E,9c",
-    "description": "Khu vực đỗ xe",
-    "image_url": null,
-    "image_full_url": null,
-    "gallery_index": 2
-  },
-  {
-    "name": "Biển R.E,9d",
-    "description": "Hạn chế tốc độ tối đa trong khu vực",
-    "image_url": null,
-    "image_full_url": null,
-    "gallery_index": 2
-  },
-  {
     "name": "Biển R.E,10a",
     "description": "Hết cấm đỗ xe trong khu vực",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Vietnam_road_sign_RE10a.svg/250px-Vietnam_road_sign_RE10a.svg.png",
     "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Vietnam_road_sign_RE10a.svg",
     "gallery_index": 2,
     "local_path": "traffic_signs_images\\Biển R.E,10a.svg"
-  },
-  {
-    "name": "Biển R.E,10b",
-    "description": "Hết cấm đỗ xe theo giờ trong khu vực",
-    "image_url": null,
-    "image_full_url": null,
-    "gallery_index": 2
-  },
-  {
-    "name": "Biển R.E,10c",
-    "description": "Hết khu vực đỗ xe",
-    "image_url": null,
-    "image_full_url": null,
-    "gallery_index": 2
-  },
-  {
-    "name": "Biển R.E,10d",
-    "description": "Hết hạn chế tốc độ tối đa trong khu vực",
-    "image_url": null,
-    "image_full_url": null,
-    "gallery_index": 2
   },
   {
     "name": "Biển R.E,11a",
@@ -1970,33 +1928,12 @@
     "local_path": "traffic_signs_images\\Biển I.427a.svg"
   },
   {
-    "name": "Biển I.427b",
-    "description": "Công trình kiểm soát tải trọng xe",
-    "image_url": null,
-    "image_full_url": null,
-    "gallery_index": 3
-  },
-  {
     "name": "Biển I.428a",
     "description": "Cửa hàng xăng dầu",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Vietnam_road_sign_I428.svg/250px-Vietnam_road_sign_I428.svg.png",
     "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Vietnam_road_sign_I428.svg",
     "gallery_index": 3,
     "local_path": "traffic_signs_images\\Biển I.428a.svg"
-  },
-  {
-    "name": "Biển I.428b",
-    "description": "Trạm nạp điện",
-    "image_url": null,
-    "image_full_url": null,
-    "gallery_index": 3
-  },
-  {
-    "name": "Biển I.428c",
-    "description": "Cửa hàng xăng dầu và trạm nạp điện",
-    "image_url": null,
-    "image_full_url": null,
-    "gallery_index": 3
   },
   {
     "name": "Biển I.429",
@@ -2559,13 +2496,6 @@
     "local_path": "traffic_signs_images\\Biển IE.460c.svg"
   },
   {
-    "name": "Biển IE.460d",
-    "description": "Cột kilômét (bốn chữ số)",
-    "image_url": null,
-    "image_full_url": null,
-    "gallery_index": 4
-  },
-  {
     "name": "Biển IE.461a",
     "description": "Khoảng cách đến khu dịch vụ công cộng, giải trí",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Vietnam_road_sign_IE461a.svg/250px-Vietnam_road_sign_IE461a.svg.png",
@@ -2604,27 +2534,6 @@
     "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Vietnam_road_sign_IE462.svg",
     "gallery_index": 4,
     "local_path": "traffic_signs_images\\Biển IE.462.svg"
-  },
-  {
-    "name": "Biển IE.463a",
-    "description": "Khoảng cách đến công trình kiểm soát tải trọng xe",
-    "image_url": null,
-    "image_full_url": null,
-    "gallery_index": 4
-  },
-  {
-    "name": "Biển IE.463b",
-    "description": "Hướng rẽ vào nơi đặt công trình kiểm soát tải trọng xe",
-    "image_url": null,
-    "image_full_url": null,
-    "gallery_index": 4
-  },
-  {
-    "name": "Biển IE.463c",
-    "description": "Lối vào công trình kiểm soát tải trọng xe",
-    "image_url": null,
-    "image_full_url": null,
-    "gallery_index": 4
   },
   {
     "name": "Biển IE.464a",
@@ -2955,13 +2864,6 @@
     "local_path": "traffic_signs_images\\Biển S.510a.svg"
   },
   {
-    "name": "Biển S.510b",
-    "description": "Chú ý đường sắt",
-    "image_url": null,
-    "image_full_url": null,
-    "gallery_index": 6
-  },
-  {
     "name": "Biển S.G,7",
     "description": "Địa điểm cắm trại",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Vietnam_road_sign_SG7.svg/250px-Vietnam_road_sign_SG7.svg.png",
@@ -3008,117 +2910,5 @@
     "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Vietnam_road_surface_marking_7.4.png",
     "gallery_index": 7,
     "local_path": "traffic_signs_images\\Vạch 7.4.png"
-  },
-  {
-    "name": "Biển P.125",
-    "description": "Cấm vượt",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Vietnam_road_sign_P.125_%28QCVN_41-2016-BGTVT%29.svg/250px-Vietnam_road_sign_P.125_%28QCVN_41-2016-BGTVT%29.svg.png",
-    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Vietnam_road_sign_P.125_%28QCVN_41-2016-BGTVT%29.svg",
-    "gallery_index": 8,
-    "local_path": "traffic_signs_images\\Biển P.125.svg"
-  },
-  {
-    "name": "Biển P.126",
-    "description": "Cấm ô tô tải vượt",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Vietnam_road_sign_P.126_%28QCVN_41-2016-BGTVT%29.svg/250px-Vietnam_road_sign_P.126_%28QCVN_41-2016-BGTVT%29.svg.png",
-    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Vietnam_road_sign_P.126_%28QCVN_41-2016-BGTVT%29.svg",
-    "gallery_index": 8,
-    "local_path": "traffic_signs_images\\Biển P.126.svg"
-  },
-  {
-    "name": "Biển W.211b",
-    "description": "Giao nhau với đường",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Vietnam_road_sign_W211b.svg/250px-Vietnam_road_sign_W211b.svg.png",
-    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Vietnam_road_sign_W211b.svg",
-    "gallery_index": 8,
-    "local_path": "traffic_signs_images\\Biển W.211b.svg"
-  },
-  {
-    "name": "Biển DP.133",
-    "description": "Hết cấm vượt",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Vietnam_road_sign_P.133_%28QCVN_41-2016-BGTVT%29.svg/250px-Vietnam_road_sign_P.133_%28QCVN_41-2016-BGTVT%29.svg.png",
-    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Vietnam_road_sign_P.133_%28QCVN_41-2016-BGTVT%29.svg",
-    "gallery_index": 8,
-    "local_path": "traffic_signs_images\\Biển DP.133.svg"
-  },
-  {
-    "name": "Biển DP.134",
-    "description": "Hết hạn chế tốc độ tối đa",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Vietnam_road_sign_P.134_%28QCVN_41-2016-BGTVT%29.svg/250px-Vietnam_road_sign_P.134_%28QCVN_41-2016-BGTVT%29.svg.png",
-    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Vietnam_road_sign_P.134_%28QCVN_41-2016-BGTVT%29.svg",
-    "gallery_index": 8,
-    "local_path": "traffic_signs_images\\Biển DP.134.svg"
-  },
-  {
-    "name": "Biển I.427b",
-    "description": "Trạm kiểm tra tải trọng xe",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Vietnam_road_sign_I.427b_%28QCVN_41-2016-BGTVT%29.svg/250px-Vietnam_road_sign_I.427b_%28QCVN_41-2016-BGTVT%29.svg.png",
-    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Vietnam_road_sign_I.427b_%28QCVN_41-2016-BGTVT%29.svg",
-    "gallery_index": 8,
-    "local_path": "traffic_signs_images\\Biển I.427b.svg"
-  },
-  {
-    "name": "Biển IE.463a",
-    "description": "Khoảng cách đến trạm kiểm tra tải trọng xe",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Vietnam_road_sign_IE.463a_%28QCVN_41-2016-BGTVT%29.svg/250px-Vietnam_road_sign_IE.463a_%28QCVN_41-2016-BGTVT%29.svg.png",
-    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Vietnam_road_sign_IE.463a_%28QCVN_41-2016-BGTVT%29.svg",
-    "gallery_index": 8,
-    "local_path": "traffic_signs_images\\Biển IE.463a.svg"
-  },
-  {
-    "name": "Biển IE.463b",
-    "description": "Hướng rẽ vào nơi đặt trạm kiểm tra tải trọng xe",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Vietnam_road_sign_IE.463b_%28QCVN_41-2016-BGTVT%29.svg/250px-Vietnam_road_sign_IE.463b_%28QCVN_41-2016-BGTVT%29.svg.png",
-    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Vietnam_road_sign_IE.463b_%28QCVN_41-2016-BGTVT%29.svg",
-    "gallery_index": 8,
-    "local_path": "traffic_signs_images\\Biển IE.463b.svg"
-  },
-  {
-    "name": "Biển IE.463c",
-    "description": "Lối vào trạm kiểm tra tải trọng xe",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Vietnam_road_sign_IE.463c_%28QCVN_41-2016-BGTVT%29.svg/250px-Vietnam_road_sign_IE.463c_%28QCVN_41-2016-BGTVT%29.svg.png",
-    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Vietnam_road_sign_IE.463c_%28QCVN_41-2016-BGTVT%29.svg",
-    "gallery_index": 8,
-    "local_path": "traffic_signs_images\\Biển IE.463c.svg"
-  },
-  {
-    "name": "Biển 439",
-    "description": "Tốc độ cho phép chạy trên đường cao tốc  (2001)",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Bien_bao_Toc_do_tren_duong_cao_toc.jpg/166px-Bien_bao_Toc_do_tren_duong_cao_toc.jpg",
-    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Bien_bao_Toc_do_tren_duong_cao_toc.jpg",
-    "gallery_index": 9,
-    "local_path": "traffic_signs_images\\Biển 439.jpg"
-  },
-  {
-    "name": "",
-    "description": "",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/South_Vietnam_STOP_sign.svg/250px-South_Vietnam_STOP_sign.svg.png",
-    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/South_Vietnam_STOP_sign.svg",
-    "gallery_index": 10,
-    "local_path": "traffic_signs_images\\sign_389.svg"
-  },
-  {
-    "name": "",
-    "description": "",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/H%C3%ACnh0389.jpg/250px-H%C3%ACnh0389.jpg",
-    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/H%C3%ACnh0389.jpg",
-    "gallery_index": 11,
-    "local_path": "traffic_signs_images\\sign_390.jpg"
-  },
-  {
-    "name": "",
-    "description": "",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Road_signs_and_cables_%2838714295400%29.jpg/250px-Road_signs_and_cables_%2838714295400%29.jpg",
-    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Road_signs_and_cables_%2838714295400%29.jpg",
-    "gallery_index": 11,
-    "local_path": "traffic_signs_images\\sign_391.jpg"
-  },
-  {
-    "name": "",
-    "description": "",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Road_going_up_the_Son_Tra_Mountain.jpg/250px-Road_going_up_the_Son_Tra_Mountain.jpg",
-    "image_full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Road_going_up_the_Son_Tra_Mountain.jpg",
-    "gallery_index": 11,
-    "local_path": "traffic_signs_images\\sign_392.jpg"
   }
 ]

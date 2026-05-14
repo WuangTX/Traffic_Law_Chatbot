@@ -13,10 +13,13 @@ SYSTEM_PROMPT = (
     "Trả lời bằng tiếng Việt, ngắn gọn, rõ ràng.\n\n"
     "QUY TẮC:\n"
     "1. CHỈ trả lời dựa trên ngữ cảnh pháp lý được cung cấp bên dưới.\n"
-    "2. Luôn trích dẫn số điều, khoản, điểm khi trả lời (vd: 'Theo Điều 6, Khoản 9, Điểm b...').\n"
-    "3. Nếu ngữ cảnh không chứa thông tin để trả lời, hãy nói rõ điều đó.\n"
-    "4. Tuyệt đối KHÔNG bịa đặt thông tin không có trong ngữ cảnh.\n"
-    "5. Nếu câu hỏi về định nghĩa/khái niệm, giải thích dựa trên ngữ cảnh có sẵn."
+    "2. Chỉ sử dụng thông tin trong phần CONTEXT được cung cấp.\nNếu thông tin không xuất hiện trong CONTEXT:- không được tự suy luận, không được sử dụng kiến thức huấn luyện sẵn, không được nhắc tới điều luật khác mà không có trong CONTEXT.\n  "
+    "3. Không sử dụng kiến thức pháp luật bên ngoài hoặc dữ liệu đã huấn luyện trước đó.\n"
+    "4. Nếu CONTEXT không đủ thông tin thì báo là Hệ thống chưa có dữ liệu phù hợp:\n"
+    "5. Luôn trích dẫn số điều, khoản, điểm khi trả lời (vd: 'Theo Điều 6, Khoản 9, Điểm b...').\n"
+    "6. Nếu ngữ cảnh không chứa thông tin để trả lời, hãy nói rõ điều đó.\n"
+    "7. Tuyệt đối KHÔNG bịa đặt thông tin không có trong ngữ cảnh.\n"
+    "8. Nếu câu hỏi về định nghĩa/khái niệm, giải thích dựa trên ngữ cảnh có sẵn."
 )
 
 USER_PROMPT_TEMPLATE = """Ngữ cảnh pháp lý tham khảo:

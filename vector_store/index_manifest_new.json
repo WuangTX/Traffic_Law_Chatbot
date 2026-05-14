@@ -1,23 +1,23 @@
 {
   "version": "2.0",
-  "timestamp": 1778432380.8096387,
-  "total_chunks": 1164,
+  "timestamp": 1778741059.2133455,
+  "total_chunks": 1422,
   "embedding_dimension": 768,
   "faiss_index_path": "vector_store\\faiss_index_new.bin",
   "corpus_path": "vector_store\\corpus_data_new.json",
   "chunk_sources": [
-    "Luật 35/2024/QH15",
     "N/A",
-    "Nghị định 168/2024/NĐ-CP"
+    "Nghị định 168/2024/NĐ-CP",
+    "Luật 35/2024/QH15"
   ],
   "vehicle_types": {
     "xe đạp": 8,
-    "ô tô": 117,
-    "xe thô sơ": 8,
+    "ô tô": 139,
+    "xe thô sơ": 11,
     "xe máy": 13
   },
   "with_metadata": {
-    "vehicle_type": 146,
+    "vehicle_type": 171,
     "penalty_range": 13,
     "points_deducted": 0,
     "references": 3

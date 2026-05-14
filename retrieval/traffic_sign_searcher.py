@@ -32,7 +32,7 @@ CATEGORY_NAMES = {
 
 # Vietnamese stopwords that dilute search signals
 _VI_STOPWORDS = {
-    "là", "gì", "nào", "sao", "cho", "của", "và", "các", "có", "không",
+    "là", "gì", "nào", "sao", "cho", "của", "và", "các", "có",
     "được", "những", "này", "biển", "báo", "trong", "khi", "với", "về",
     "một", "hay", "đó", "đây", "bị", "ra", "vào", "để", "ở", "tại",
     "như", "thế", "phải", "từ", "đến", "nếu", "thì", "mà",
@@ -155,11 +155,11 @@ class TrafficSignSearcher:
             desc_lower = sign["description"].lower()
             score = 0.0
 
-            # Exact sign code match (e.g. "P.101", "Biển P.101")
-            code_match = re.search(r"[A-Za-z]+\.\d+[a-z]?", query, re.IGNORECASE)
+            # Exact sign code match (e.g. "P.101", "Biển P.101", "p126", "W201a")
+            code_match = re.search(r"[A-Za-z]+\.?\d+[a-z]?", query, re.IGNORECASE)
             if code_match:
-                sign_code = code_match.group(0).upper()
-                name_clean = name_lower.replace("biển ", "").strip()
+                sign_code = code_match.group(0).upper().replace(".", "")
+                name_clean = name_lower.replace("biển ", "").strip().replace(".", "")
                 if sign_code.lower() == name_clean:
                     score = max(score, 0.98)
                 elif sign_code.lower() in name_clean:
@@ -171,14 +171,14 @@ class TrafficSignSearcher:
             if len(desc_lower) >= 4 and desc_lower in q_lower:
                 score = max(score, 0.92)
 
-            # Keyword overlap — description coverage weighted
+            # Keyword overlap — prioritize query coverage (what user typed matters most)
             desc_words = _tokenize(desc_lower)
             if desc_words and q_words:
                 overlap = len(q_words & desc_words)
                 desc_coverage = overlap / max(len(desc_words), 1)
                 query_coverage = overlap / max(len(q_words), 1)
-                combined = (desc_coverage * 0.6 + query_coverage * 0.4)
-                score = max(score, min(0.88, combined * 0.92))
+                combined = (desc_coverage * 0.3 + query_coverage * 0.7)
+                score = max(score, min(0.94, combined * 0.92))
 
             # Category match
             cat = sign.get("category", "")

@@ -6,7 +6,9 @@ Priority layers for Vietnamese legal document retrieval.
 import re
 import unicodedata
 from collections import Counter
-from typing import Dict, List
+from typing import Dict, List, Tuple
+
+from .query_intent import get_dynamic_k, diversify_results, INTENT_LIST
 
 
 # -- Query type configs (WITH diacritics - preserves semantic meaning) --
@@ -45,14 +47,48 @@ class QueryExpander:
     """Query expansion with legal synonyms for BM25/FAISS fallback."""
 
     EXPANSIONS = {
+        # Alcohol / nồng độ cồn
         "uong ruou": ["nồng độ cồn", "có cồn", "miligam", "khí thở"],
-        "nong do con": ["uống rượu", "uống bia", "có cồn", "miligam"],
+        "nong do con": ["uống rượu", "uống bia", "có cồn", "miligam", "vi phạm nồng độ cồn"],
         "co con": ["nồng độ cồn", "uống rượu"],
+        "say ruou": ["nồng độ cồn", "uống rượu bia", "vi phạm nồng độ cồn"],
+        "ruou bia": ["nồng độ cồn", "uống rượu", "chất kích thích"],
+        # Red light / đèn tín hiệu
         "vuot den do": ["đèn tín hiệu", "chấp hành hiệu lệnh", "tín hiệu giao thông"],
         "den do": ["tín hiệu giao thông", "hiệu lệnh đèn", "chấp hành hiệu lệnh"],
+        # Speed / tốc độ
         "toc do": ["chạy quá tốc độ", "vượt tốc độ quy định"],
-        "phat bao nhieu": ["mức phạt", "hình phạt", "phạt tiền", "xử phạt"],
+        "chay qua": ["tốc độ", "vượt tốc độ", "quá tốc độ cho phép"],
+        # Fines / phạt
+        "phat bao nhieu": ["mức phạt", "hình phạt", "phạt tiền", "xử phạt", "mức xử phạt"],
         "bi phat": ["xử phạt", "mức phạt", "hình phạt"],
+        "phat nguoi": ["xử phạt qua camera", "phạt tự động", "phạt qua hình ảnh"],
+        # Overtaking / vượt
+        "cam vuot": ["vượt xe", "cấm vượt", "đoạn đường cấm vượt"],
+        "vuot xe": ["cấm vượt", "vượt không đúng quy định", "vượt sai"],
+        # Lane / làn đường
+        "sai lan": ["làn đường", "chuyển làn", "sai làn đường", "lấn tuyến"],
+        "lan duong": ["làn đường", "chuyển làn", "sai làn", "phần đường"],
+        "chuyen lan": ["làn đường", "chuyển làn không đúng", "tín hiệu chuyển làn"],
+        "lan tuyen": ["làn đường", "sai làn", "lấn tuyến", "phần đường"],
+        # Helmet / mũ bảo hiểm
+        "mu bao hiem": ["mũ bảo hiểm", "không đội mũ", "đội mũ không cài quai"],
+        "khong doi mu": ["mũ bảo hiểm", "đội mũ bảo hiểm", "không đội mũ bảo hiểm"],
+        # Parking / đỗ xe
+        "do xe": ["dừng xe", "đỗ xe", "đậu xe", "dừng đỗ"],
+        "dung xe": ["đỗ xe", "dừng đỗ", "dừng xe sai quy định"],
+        # License / giấy phép
+        "bang lai": ["giấy phép lái xe", "bằng lái xe", "tước bằng lái"],
+        "giay phep lai": ["bằng lái", "tước bằng", "giấy phép lái xe"],
+        "tuoc bang": ["tước giấy phép lái xe", "tạm giữ bằng", "tước bằng lái"],
+        # Accident / tai nạn
+        "tai nan": ["va chạm", "gây tai nạn", "tai nạn giao thông"],
+        # Wrong way / ngược chiều
+        "nguoc chieu": ["đi ngược chiều", "đường một chiều", "cấm đi ngược chiều"],
+        "mot chieu": ["đường một chiều", "ngược chiều", "đi ngược chiều"],
+        # Registration / giấy tờ
+        "giay to": ["đăng ký xe", "giấy đăng ký", "bảo hiểm", "đăng kiểm"],
+        "dang kiem": ["đăng ký xe", "giấy tờ xe", "tem kiểm định"],
     }
 
     @staticmethod
@@ -66,7 +102,7 @@ class QueryExpander:
 
     @staticmethod
     def expand(query: str) -> List[str]:
-        """Generate query variants with legal synonyms (max 6)."""
+        """Generate query variants with legal synonyms (max 10)."""
         variants = [query]
         norm = QueryExpander.normalize(query)
         for key, synonyms in QueryExpander.EXPANSIONS.items():
@@ -81,7 +117,7 @@ class QueryExpander:
                 v = query + " " + t
                 if v not in variants:
                     variants.append(v)
-        return variants[:6]
+        return variants[:10]
 
 
 def _detect_vehicle(query_raw: str) -> str | None:
@@ -151,29 +187,52 @@ class HybridSearcher:
         self.corpus = corpus
         self.bm25 = BM25Scorer(corpus)
 
-    def search(self, query: str, k: int = 3, alpha: float = 0.3) -> List[Dict]:
+    def search(self, query: str, k: int | None = None, alpha: float = 0.35) -> Tuple[List[Dict], str, int]:
         """
-        Hybrid search with 3 strategies:
-        1. Definition question detection (là gì / định nghĩa)
-        2. Direct keyword matching (alcohol, red light, speed)
-        3. FAISS + BM25 fusion (fallback for other queries)
+        Hybrid search with 3 strategies + adaptive retrieval depth.
+
+        If k is None (default), uses dynamic k based on query intent:
+          definition → k=1   comparison → k=5
+          list_query  → k=15  detail     → k=3
+
+        Returns (results, intent_label, dynamic_k_used).
         """
+        # Detect intent and compute dynamic k (unless caller overrides)
+        intent, dynamic_k = get_dynamic_k(query)
+        if k is None:
+            k = dynamic_k
+        print(f"[Hybrid] Intent={intent}, k={k}")
+
+        results: List[Dict] = []
+
         # Strategy 0: Definition question detection
-        results = self._definition_search(query, k)
+        results = self._definition_search(query, max(k, 3))
         if results:
-            return results
+            results = results[:k]
+            return (results, intent, k)
 
         # Strategy 1: Direct keyword search
-        results = self._keyword_search(query, k)
+        results = self._keyword_search(query, max(k, 5))
         if results:
-            return results
+            results = results[:k]
+            return (results, intent, k)
 
         # Strategy 2: FAISS + BM25 fusion with query expansion
-        return self._fusion_search(query, k, alpha)
+        # Fetch more candidates for list queries, then diversify
+        fetch_k = max(k * 2, 10) if intent == INTENT_LIST else max(k, 5)
+        results = self._fusion_search(query, fetch_k, alpha)
+
+        # Diversity post-processing for list queries
+        if intent == INTENT_LIST and len(results) > 1:
+            results = diversify_results(results, k)
+        else:
+            results = results[:k]
+
+        return (results, intent, k)
 
     def _definition_search(self, query: str, k: int) -> List[Dict]:
-        """Detect 'là gì' / 'định nghĩa' questions and search definition chunks."""
-        # Extract key term from patterns like "X là gì", "định nghĩa X", "X là như thế nào"
+        """Detect 'là gì' / 'định nghĩa' questions and search ALL chunks for the term."""
+        # Extract key term from patterns like "X là gì", "định nghĩa X"
         q_lower = query.lower()
         patterns = [
             r"(.+?)\s+(?:là\s+g[iì]|là\s+như\s+thế\s+nào|là\s+sao)",
@@ -186,30 +245,45 @@ class HybridSearcher:
                 term = m.group(1).strip()
                 break
 
-        if not term:
+        if not term or len(term) < 3:
             return []
 
-        # Search for definition chunks (ART2_ = Article 2 definition articles)
+        # Search ALL chunks for the term — score by definition quality
         candidates = []
         seen = set()
         for doc_id, doc in enumerate(self.corpus):
-            chunk_id = doc.get("chunk_id", "")
-            # Target: "ART2_" in chunk ID or "Giải thích từ ngữ" in text
-            if "ART2_" not in chunk_id and "Giải thích" not in chunk_id:
-                continue
-
             text = (doc.get("text_for_display") or doc.get("text", "")).lower()
-            # The term must appear in the definition text
-            if term not in text:
+            raw_text = (doc.get("text") or "").lower()
+
+            # Term must appear somewhere in the chunk
+            if term not in text and term not in raw_text:
                 continue
 
+            chunk_id = doc.get("chunk_id", "")
             key = chunk_id
             if key in seen:
                 continue
             seen.add(key)
 
+            # Score: definition-like context gets higher score
+            is_art2 = "ART2_" in chunk_id or "giải thích" in chunk_id.lower()
+            # Check if term appears in "X là Y" pattern (strong definition signal)
+            has_def_pattern = bool(re.search(
+                re.escape(term) + r"\s+(?:là|được\s+hiểu\s+là|được\s+xác\s+định\s+là|gồm|bao\s+gồm)",
+                text
+            ))
+
+            if is_art2 and has_def_pattern:
+                score = 0.98
+            elif has_def_pattern:
+                score = 0.96
+            elif is_art2:
+                score = 0.88
+            else:
+                score = 0.72
+
             candidates.append({
-                "rank": 0, "id": doc_id, "score": 0.98,
+                "rank": 0, "id": doc_id, "score": score, "strategy": "definition",
                 "source": doc.get("source", "N/A"), "page": doc.get("page", "N/A"),
                 "text": doc.get("text_for_display") or doc.get("text", ""),
                 "legal_refs": doc.get("metadata", {}).get("legal_refs", {}),
@@ -294,7 +368,7 @@ class HybridSearcher:
             if key not in seen:
                 seen.add(key)
                 candidates.append({
-                    "rank": 0, "id": doc_id, "score": score,
+                    "rank": 0, "id": doc_id, "score": score, "strategy": "keyword",
                     "source": doc.get("source", "N/A"), "page": doc.get("page", "N/A"),
                     "text": doc.get("text_for_display") or doc.get("text", ""),
                     "legal_refs": doc.get("metadata", {}).get("legal_refs", {}),
@@ -308,17 +382,27 @@ class HybridSearcher:
         return []
 
     def _fusion_search(self, query: str, k: int, alpha: float) -> List[Dict]:
-        """FAISS + BM25 fusion with query expansion (fallback). Single batch embedding call."""
+        """FAISS + BM25 fusion with query expansion (fallback). Single batch embedding call.
+
+        Score design:
+        - FAISS raw scores (1/(1+L2)) are already in [0,1] but heavily compressed
+          (typical: 0.02-0.15). We scale by a FIXED factor (not max-normalize) to
+          avoid inflating bad matches. Genuine good matches get 0.5-0.9; noise stays low.
+        - BM25 is unbounded → normalized by per-query max.
+        - Final: alpha * scaled_faiss + (1-alpha) * norm_bm25
+        """
+        FAISS_SCALE = 5.0  # raw 0.15 → 0.75; raw 0.02 → 0.10
+
         queries = QueryExpander.expand(query)
 
         # FAISS: batch all query variants in one embedding call
-        faiss_scores: Dict[int, float] = {}
+        faiss_raw: Dict[int, float] = {}
         all_candidates = set()
         for results in self.faiss.batch_search(queries, k=k * 3):
             for doc in results:
                 did = doc["id"]
                 all_candidates.add(did)
-                faiss_scores[did] = max(faiss_scores.get(did, 0), doc["score"])
+                faiss_raw[did] = max(faiss_raw.get(did, 0), doc["score"])
 
         # BM25: only score FAISS candidates (not entire corpus)
         bm25_scores: Dict[int, float] = {}
@@ -328,14 +412,23 @@ class HybridSearcher:
                 if s > 0:
                     bm25_scores[i] = max(bm25_scores.get(i, 0), s)
 
-        # Normalize + combine
-        fmax = max(faiss_scores.values()) if faiss_scores else 1.0
-        bmax = max(bm25_scores.values()) if bm25_scores else 1.0
-        faiss_scores = {did: v / fmax for did, v in faiss_scores.items()} if fmax > 0 else {}
-        bm25_scores = {did: v / bmax for did, v in bm25_scores.items()} if bmax > 0 else {}
+        # Scale FAISS (fixed multiplier, not max-normalize — preserves absolute quality)
+        faiss_scaled = {did: min(v * FAISS_SCALE, 1.0) for did, v in faiss_raw.items()}
 
-        all_ids = set(faiss_scores) | set(bm25_scores)
-        combined = [(did, alpha * faiss_scores.get(did, 0) + (1 - alpha) * bm25_scores.get(did, 0))
+        # Normalize BM25 by per-query max (BM25 is unbounded)
+        bmax = max(bm25_scores.values()) if bm25_scores else 1.0
+        bm25_norm = {did: v / bmax for did, v in bm25_scores.items()} if bmax > 0 else {}
+
+        # Quality penalty: if the best raw FAISS match is weak, penalize ALL fusion scores.
+        # raw FAISS scores (1/(1+L2)) typically: 0.10+ = relevant, 0.05-0.10 = fuzzy, <0.05 = noise.
+        # Without this, BM25 alone can drive a bad match to 1.0 when both are max-normalized.
+        raw_faiss_best = max(faiss_raw.values()) if faiss_raw else 0
+        quality_factor = min(1.0, raw_faiss_best / 0.10)  # raw 0.10 → factor=1.0; raw 0.02 → factor=0.2
+        print(f"[Fusion] raw_faiss_best={raw_faiss_best:.4f}, quality_factor={quality_factor:.3f}, k={k}")
+
+        # Combine with quality penalty
+        all_ids = set(faiss_scaled) | set(bm25_norm)
+        combined = [(did, quality_factor * (alpha * faiss_scaled.get(did, 0) + (1 - alpha) * bm25_norm.get(did, 0)))
                     for did in all_ids]
         combined.sort(key=lambda x: x[1], reverse=True)
 
@@ -345,7 +438,7 @@ class HybridSearcher:
                 doc = self.corpus[did]
                 results.append({
                     "rank": rank, "id": int(did),
-                    "score": round(min(score, 1.0), 4),
+                    "score": round(min(score, 1.0), 4), "strategy": "fusion",
                     "source": doc.get("source", "N/A"), "page": doc.get("page", "N/A"),
                     "text": doc.get("text_for_display") or doc.get("text", ""),
                     "legal_refs": doc.get("metadata", {}).get("legal_refs", {}),

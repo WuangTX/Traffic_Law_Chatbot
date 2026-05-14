@@ -32,6 +32,7 @@ except ImportError:
 # Add project root + api dir to path for local imports
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 API_DIR = Path(__file__).resolve().parent
+FRONTEND_DIR = PROJECT_ROOT / "frontend"
 for p in (str(PROJECT_ROOT), str(API_DIR)):
     if p not in sys.path:
         sys.path.append(p)
@@ -42,19 +43,42 @@ from retrieval.traffic_sign_searcher import TrafficSignSearcher, IMAGES_DIR
 from llm import DeepSeekRAG  # noqa: E402 — same-package relative import
 
 # Sign-related query patterns
+# Dynamic thresholds per search strategy — each strategy has its own score distribution
+THRESHOLDS = {
+    "definition": 0.88,   # Scores 0.72-0.98, keep only strong definition matches
+    "keyword":    0.78,   # Scores 0.25-0.98, keep good keyword + penalty matches
+    "fusion":     0.72,   # Scores normalized 0-1, need higher bar for fusion
+}
+# Citations: only include results above this score (prevents irrelevant citations)
+MIN_CITATION_SCORE = 0.75
+MIN_SIGN_SCORE = 0.75     # Traffic signs: code 90-98%, phrase 92%, keyword 75-85%
+
 SIGN_QUERY_PATTERNS = [
+    # Direct sign code queries: "P.101", "biển P.101", "W.201", "p126" (no dot)
+    r"biển\s*[a-zA-Z]+\.?\d+",
+    r"\b[a-zA-Z]+\.?\d+[a-z]?\b",
+    # "biển nào", "biển gì" — user is asking WHICH sign
+    r"biển\s+(nào|g[iì])\b",
+    # "là biển" — asking what sign something is
+    r"\blà\s+biển\b",
+    # Sign categories
     r"biển\s*báo", r"biển\s*cấm", r"biển\s*nguy\s*hiểm",
     r"biển\s*hiệu\s*lệnh", r"biển\s*chỉ\s*dẫn", r"biển\s*phụ",
-    r"biển\s*[a-zA-Z]+\.?\d+", r"vạch\s*kẻ\s*đường",
     r"biển\s*báo\s*giao\s*thông",
+    # Road markings
+    r"vạch\s*kẻ\s*đường",
 ]
 
 SIGN_SYSTEM_PROMPT = (
     "Bạn là trợ lý tư vấn luật giao thông đường bộ Việt Nam. "
     "Trả lời bằng tiếng Việt, ngắn gọn, rõ ràng.\n\n"
+    "QUAN TRỌNG — Chỉ được dùng thông tin có trong ngữ cảnh được cung cấp bên dưới:\n"
+    "- Tuyệt đối KHÔNG được bịa ra mã biển báo, tên biển báo, hay số hiệu không có trong ngữ cảnh.\n"
+    "- KHÔNG suy đoán các biển báo liên quan nếu không được liệt kê trong ngữ cảnh.\n"
+    "- Nếu không chắc về mối liên hệ giữa các biển báo, chỉ mô tả biển báo được cung cấp.\n"
+    "- Khi nói về biển báo, luôn kèm mã biển chính xác từ ngữ cảnh.\n\n"
     "Dưới đây là thông tin về các biển báo giao thông liên quan đến câu hỏi. "
-    "Hãy giải thích ý nghĩa, tác dụng và những điều cần lưu ý về các biển báo này. "
-    "Trích dẫn tên biển báo khi trả lời."
+    "Hãy giải thích ý nghĩa, tác dụng và những điều cần lưu ý về các biển báo này."
 )
 
 
@@ -86,21 +110,29 @@ def shorten_text(text: str, limit: int = 500) -> str:
     return text[:limit] + "..." if len(text) > limit else text
 
 
-def search_traffic_law(hybrid_searcher: HybridSearcher, question: str, k: int = 3) -> list[dict[str, Any]]:
-    """Search traffic law documents using hybrid search (BM25 + FAISS + keyword)."""
-    results = hybrid_searcher.search(question, k=k)
-    return [
-        {
+def search_traffic_law(hybrid_searcher: HybridSearcher, question: str, k: int | None = None) -> tuple[list[dict[str, Any]], str, int]:
+    """Search traffic law documents using hybrid search with adaptive k.
+
+    Returns (formatted_results, intent_label, k_used)."""
+    results, intent, k_used = hybrid_searcher.search(question, k=k)
+    formatted = []
+    for r in results:
+        score = round(r.get("score", 0), 4)
+        strategy = r.get("strategy", "fusion")
+        threshold = THRESHOLDS.get(strategy, THRESHOLDS["fusion"])
+        if score < threshold:
+            continue
+        formatted.append({
             "id": r.get("id"),
-            "rank": i + 1,
-            "score": round(r.get("score", 0), 4),
+            "rank": len(formatted) + 1,
+            "score": score,
+            "strategy": strategy,
             "source": r.get("source", "Unknown"),
             "page": r.get("page", "N/A"),
             "text": shorten_text(r.get("text", "")),
             "legal_refs": r.get("legal_refs", {}),
-        }
-        for i, r in enumerate(results)
-    ]
+        })
+    return formatted, intent, k_used
 
 
 def extract_info(text: str, metadata: dict[str, Any] | None = None) -> dict[str, Any]:
@@ -120,7 +152,7 @@ def extract_info(text: str, metadata: dict[str, Any] | None = None) -> dict[str,
     amount_pattern = re.findall(
         r"([\d.,]+)\s*(?:triệu\s+)?đồng\s+đến\s+([\d.,]+)\s*(?:triệu\s+)?đồng",
         text_lower,
-    )
+    )   
 
     fines = []
     for m in fine_range:
@@ -196,7 +228,7 @@ def make_handler(retriever: Retriever, hybrid_searcher: HybridSearcher, sign_sea
                 self._serve_sign_image(name)
 
             else:
-                json_response(self, 404, {"error": "Not found"})
+                self._serve_static(parsed.path)
 
         def _serve_sign_image(self, name: str) -> None:
             """Serve a traffic sign SVG image."""
@@ -232,6 +264,42 @@ def make_handler(retriever: Retriever, hybrid_searcher: HybridSearcher, sign_sea
                 self.wfile.write(svg_data)
             except Exception as e:
                 print(f"[ERROR] Serving image: {e}")
+                json_response(self, 500, {"error": str(e)})
+
+        def _serve_static(self, path: str) -> None:
+            """Serve a static file from the frontend directory."""
+            # Normalize path: / → /index.html
+            if path == "/" or path == "":
+                path = "/index.html"
+
+            # Remove leading slash and resolve relative to frontend dir
+            rel = path.lstrip("/")
+            # Prevent directory traversal
+            if ".." in rel or rel.startswith("/"):
+                json_response(self, 403, {"error": "Forbidden"})
+                return
+
+            file_path = FRONTEND_DIR / rel
+            if not file_path.exists() or not file_path.is_file():
+                # Fall back to index.html for SPA routing
+                file_path = FRONTEND_DIR / "index.html"
+                if not file_path.exists():
+                    json_response(self, 404, {"error": "Not found"})
+                    return
+
+            try:
+                body = file_path.read_bytes()
+                mime_type, _ = mimetypes.guess_type(str(file_path))
+                if not mime_type:
+                    mime_type = "application/octet-stream"
+                self.send_response(200)
+                self.send_header("Content-Type", mime_type)
+                self.send_header("Content-Length", str(len(body)))
+                self.send_header("Cache-Control", "public, max-age=3600")
+                self.end_headers()
+                self.wfile.write(body)
+            except Exception as e:
+                print(f"[ERROR] Serving static: {e}")
                 json_response(self, 500, {"error": str(e)})
 
         def do_POST(self) -> None:
@@ -277,91 +345,125 @@ def make_handler(retriever: Retriever, hybrid_searcher: HybridSearcher, sign_sea
 
         def _handle_search(self, hybrid_searcher: HybridSearcher, question: str, k: int) -> None:
             print(f"[SEARCH] Question: {question}, k={k}")
-            results = search_traffic_law(hybrid_searcher, question, k=k)
+            results, intent, k_used = search_traffic_law(hybrid_searcher, question, k=k)
             json_response(self, 200, {
                 "ok": True,
                 "question": question,
+                "intent": intent,
+                "k": k_used,
                 "count": len(results),
                 "results": results,
             })
 
         def _handle_ask(self, hybrid_searcher: HybridSearcher, sign_searcher: TrafficSignSearcher, llm: DeepSeekRAG | None, question: str, k: int) -> None:
             print(f"[ASK] Question: {question}, k={k}")
-            results = search_traffic_law(hybrid_searcher, question, k=min(k, 5))
 
             answer = "Không tìm thấy thông tin liên quan trong cơ sở dữ liệu."
             extracted: dict[str, Any] = {}
             signs: list[dict[str, Any]] = []
+            citations: list[dict[str, Any]] = []
+            intent = "detail"
+            k_used = 3
 
-            # Check if question is about traffic signs
+            # Check if question is about traffic signs — handle separately
             if _is_sign_query(question):
                 print(f"[ASK] Traffic sign query detected")
-                signs = sign_searcher.search(question, k=5)
-                if signs and llm:
-                    sign_contexts = [
-                        f"{s['name']}: {s['description']} (Loại: {s.get('category_name', '')})"
-                        for s in signs
-                    ]
-                    try:
-                        sign_prompt = (
-                            f"Thông tin biển báo giao thông:\n"
-                            + "\n".join(sign_contexts)
-                            + f"\n\nCâu hỏi: {question}\n\n"
-                            "Hãy giải thích các biển báo trên, ý nghĩa và những điều cần lưu ý."
-                        )
-                        response = llm._client.chat.completions.create(
-                            model=llm._model,
-                            messages=[
-                                {"role": "system", "content": SIGN_SYSTEM_PROMPT},
-                                {"role": "user", "content": sign_prompt},
-                            ],
-                            temperature=0.3,
-                            max_tokens=1024,
-                        )
-                        answer = response.choices[0].message.content.strip()
-                    except Exception as e:
-                        print(f"[Sign LLM ERROR] {e}")
+                all_signs = sign_searcher.search(question, k=5)
+                # Filter by score then cap at 3 best matches
+                signs = [s for s in all_signs if s.get("score", 0) >= MIN_SIGN_SCORE][:3]
+                print(f"[ASK] Signs: {len(all_signs)} total, {len(signs)} pass threshold (>= {MIN_SIGN_SCORE})")
+
+                if signs:
+                    if llm:
+                        sign_contexts = [
+                            f"{s['name']}: {s['description']} (Loại: {s.get('category_name', '')}, độ khớp: {s['score']:.0%})"
+                            for s in signs
+                        ]
+                        try:
+                            sign_prompt = (
+                                f"Thông tin biển báo giao thông (chỉ lấy kết quả có độ khớp cao):\n"
+                                + "\n".join(sign_contexts)
+                                + f"\n\nCâu hỏi: {question}\n\n"
+                                "Hãy giải thích ý nghĩa của biển báo phù hợp nhất với câu hỏi. "
+                                "Nếu có nhiều biển, hãy liệt kê ngắn gọn từng biển."
+                            )
+                            response = llm._client.chat.completions.create(
+                                model=llm._model,
+                                messages=[
+                                    {"role": "system", "content": SIGN_SYSTEM_PROMPT},
+                                    {"role": "user", "content": sign_prompt},
+                                ],
+                                temperature=0.3,
+                                max_tokens=1024,
+                            )
+                            answer = response.choices[0].message.content.strip()
+                        except Exception as e:
+                            print(f"[Sign LLM ERROR] {e}")
+                            answer = f"Các biển báo liên quan:\n" + "\n".join(
+                                f"- {s['name']}: {s['description']}" for s in signs
+                            )
+                    else:
                         answer = f"Các biển báo liên quan:\n" + "\n".join(
                             f"- {s['name']}: {s['description']}" for s in signs
                         )
-                elif signs:
-                    answer = f"Các biển báo liên quan:\n" + "\n".join(
-                        f"- {s['name']}: {s['description']}" for s in signs
-                    )
-
-            elif results:
-                # Standard legal Q&A flow
-                contexts = [r.get("text", "") for r in results]
-                if llm:
-                    top_text = results[0].get("text", "")
-                    answer = llm.generate_or_fallback(
-                        question, contexts, fallback_text=top_text
-                    )
-                    extracted = extract_info(
-                        results[0].get("text", ""),
-                        results[0].get("legal_refs", {}),
-                    )
                 else:
-                    top_result = results[0]
-                    top_text = top_result.get("text", "")
-                    top_meta = top_result.get("legal_refs", {})
-                    print(f"[ASK] Top result: score={top_result.get('score')}, source={top_result.get('source')}")
-                    if top_result.get("score", 0) >= 0.35:
+                    best = all_signs[0] if all_signs else None
+                    if best:
+                        answer = (
+                            f"Không tìm thấy biển báo nào khớp chính xác. "
+                            f"Gần nhất: {best['name']} (độ khớp {best['score']:.0%}). "
+                            f"Thử nhập mã biển báo cụ thể (VD: {best['name']})."
+                        )
+                    else:
+                        answer = "Không tìm thấy biển báo nào liên quan. Vui lòng nhập mã biển báo cụ thể."
+
+            else:
+                # Standard legal Q&A — NOT a sign query
+                results, intent, k_used = search_traffic_law(hybrid_searcher, question, k=None)
+
+                if results:
+                    print(f"[ASK] Intent={intent}, k={k_used}, {len(results)} results pass thresholds")
+                    contexts = [r.get("text", "") for r in results]
+                    if llm:
+                        answer = llm.generate_or_fallback(
+                            question, contexts,
+                            fallback_text=results[0].get("text", ""),
+                        )
+                        extracted = extract_info(
+                            results[0].get("text", ""),
+                            results[0].get("legal_refs", {}),
+                        )
+                    else:
+                        top_result = results[0]
+                        top_text = top_result.get("text", "")
+                        top_meta = top_result.get("legal_refs", {})
+                        print(f"[ASK] Top: score={top_result.get('score')}, source={top_result.get('source')}")
                         answer = shorten_text(top_text, 800)
                         extracted = extract_info(top_text, top_meta)
+
+                    # Only show citations that individually meet quality threshold
+                    citations = [r for r in results if r.get("score", 0) >= MIN_CITATION_SCORE]
+                    # If no citations pass the quality bar, don't show any
+                    if not citations:
+                        print(f"[ASK] No citations pass quality threshold ({MIN_CITATION_SCORE})")
+                else:
+                    citations = []
 
             json_response(self, 200, {
                 "ok": True,
                 "question": question,
                 "answer": answer,
                 "extracted": extracted,
-                "citations": results[:k],
+                "citations": citations,
                 "signs": signs,
+                "intent": intent,
+                "k": k_used,
             })
 
         def _handle_sign_search(self, sign_searcher: TrafficSignSearcher, question: str, k: int) -> None:
             print(f"[SIGNS] Search: {question}, k={k}")
-            signs = sign_searcher.search(question, k=k)
+            all_signs = sign_searcher.search(question, k=max(k, 8))
+            signs = [s for s in all_signs if s.get("score", 0) >= MIN_SIGN_SCORE][:k]
             json_response(self, 200, {
                 "ok": True,
                 "question": question,
@@ -419,7 +521,7 @@ def run_server(settings: Settings = Settings()) -> None:
     # Start server
     handler = make_handler(retriever, hybrid_searcher, sign_searcher, llm)
     server = ThreadingHTTPServer((settings.host, settings.port), handler)
-    print(f"\nAPI running at http://{settings.host}:{settings.port}")
+    print(f"\nAPI + Frontend running at http://{settings.host}:{settings.port}")
     print(f"  Corpus: {retriever.index.ntotal} vectors")
     print("- GET  /health")
     print("- GET  /signs/image?name=...")

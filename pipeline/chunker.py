@@ -8,7 +8,7 @@ from .parser import Article
 
 
 def _short_article_context(article: Article) -> str:
-    """Compact article header. E.g. 'Dieu 6: Xu phat xe o to'."""
+    """Compact article header with chapter prefix. E.g. 'Chuong I - Dieu 6: Xu phat xe o to'."""
     title = article.article_title
     # Strip common verbose prefixes
     for prefix in ["Xử phạt, trừ điểm giấy phép lái xe của ", "Xử phạt, trừ điểm giấy phép lái của "]:
@@ -18,7 +18,11 @@ def _short_article_context(article: Article) -> str:
         title = article.chapter_title or ""
         for prefix in ["Xử phạt, trừ điểm giấy phép lái xe của ", "Xử phạt, trừ điểm giấy phép lái của "]:
             title = title.replace(prefix, "")
-    return f"Dieu {article.article_number}: {title}"
+    # Prepend chapter number when available for better embedding context
+    chapter_prefix = ""
+    if article.chapter_number:
+        chapter_prefix = f"Chuong {article.chapter_number} - "
+    return f"{chapter_prefix}Dieu {article.article_number}: {title}"
 
 
 def _short_clause_context(clause_text: str | None) -> str:
